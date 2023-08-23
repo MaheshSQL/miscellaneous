@@ -4,7 +4,10 @@ This repository contains miscellaneous script collections.
 
     - <b>/AzureFunctions/Proj_LLMSQL</b>: 
         - This Azure Function project contains Azure Function/s that articulate a response to natural language question on dataset within an Azure SQL Database tables.
-        - To run Azure Functions project locally
+        - You require Azure OpenAI and Azure SQL Database resources provisioned beforehand.
+        - Ensure the database contains table (with descriptive names) that you would like to ask questions to.
+        - This function can be called by any front-end application to render output.
+        - To run this Azure Functions project locally
             - [Install necessary prerequsites for Azure Functions](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-cli-python?tabs=bash%2Cazure-cli&pivots=python-mode-configuration)
             - Create a local python virtual environment.
             - ```pip install -r requirements.txt```
