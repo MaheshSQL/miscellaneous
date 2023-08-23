@@ -1,0 +1,19 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+      "FUNCTIONS_WORKER_RUNTIME": "python",
+      "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+  
+      "AZ_SQL_SRV":"Your Azure SQL Server Name",
+      "AZ_SQL_DB":"Your Azure SQL Server DB Name",
+      "AZ_SQL_USR":"Your Azure SQL Server User Name",
+      "AZ_SQL_PWD":"Your Azure SQL Server Pwd",
+      "OPENAI_API_TYPE":"azure",
+      "OPENAI_API_KEY":"You AOAI key",
+      "OPENAI_API_BASE":"https://XXXXX.openai.azure.com",
+      "OPENAI_API_VERSION":"2023-05-15",
+      "OPENAI_DEPLOYMENT_NAME":"gpt-35-turbo-16k-0613",
+      "OPENAI_MAX_TOKENS":3000,
+      "OPENAI_TEMPERATURE":0.0
+    }
+  }
