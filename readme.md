@@ -3,10 +3,10 @@ This repository contains miscellaneous script collections.
 - <b>/Azure Functions</b>: This directory has Azure Function App projects. 
 
     - <b>/AzureFunctions/Proj_LLMSQL</b>: 
-        - This Azure Function project contains Azure Function/s that articulate a response to natural language question on dataset within an Azure SQL Database tables.        
+        - This Azure Function project contains Azure Function/s that articulate a response to natural language question on dataset within an Azure SQL Database tables. The function makes use of LangChain SQLDatabaseToolkit backed by gpt-35-turbo-16k (can work with 4k version too) LLM.
         ![](images/GetAnswersFromSQLDB.png)
         - You require Azure OpenAI and Azure SQL Database resources provisioned beforehand.
-        - Ensure the database contains table (with descriptive names) that you would like to ask questions to.
+        - Ensure the database contains tables (with descriptive names) that you would like to ask questions to.
         - This function can be called by any front-end application to render output.
         - To run this Azure Functions project locally
             - [Install necessary prerequsites for Azure Functions](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-cli-python?tabs=bash%2Cazure-cli&pivots=python-mode-configuration)
@@ -26,3 +26,4 @@ This repository contains miscellaneous script collections.
             - ```az login```
             - ```az account set --subscription [Your Subscription ID]```
             - ```func azure functionapp publish [Your function app name]```
+            - Update application settings.
