@@ -3,7 +3,8 @@ This repository contains miscellaneous script collections.
 - <b>/Azure Functions</b>: This directory has Azure Function App projects. 
 
     - <b>/AzureFunctions/Proj_LLMSQL</b>: 
-        - This Azure Function project contains Azure Function/s that articulate a response to natural language question on dataset within an Azure SQL Database tables.
+        - This Azure Function project contains Azure Function/s that articulate a response to natural language question on dataset within an Azure SQL Database tables.        
+        ![](images/GetAnswersFromSQLDB.png)
         - You require Azure OpenAI and Azure SQL Database resources provisioned beforehand.
         - Ensure the database contains table (with descriptive names) that you would like to ask questions to.
         - This function can be called by any front-end application to render output.
