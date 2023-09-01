@@ -42,10 +42,33 @@ This repository contains miscellaneous script collections.
         - Import both notebooks into your Synapse workspace.
             - First notebook imports provided dataset into an Azure SQL table.
             - Second notebook reads data from Azure SQL table, applies custom LLM prompt to each record of the dataframe's nominated column using ChatCompletion model.
-        - <b>Input</b> dataset after import to Azure SQL server table, after successful run of the first notebook.         
+        - __Input__ dataset after import to Azure SQL server table, after successful run of the first notebook.         
             ![](images/AzureSQLInputDataset.png)
             _(Query run in SQL Server Management Studio)_
-        - <b>Output</b> dataset created with SynapseML, saved into Azure SQL Server table after successful run of the second notebook.
+        - ChatCompletion __System Message__
+            ```
+            You are the AI analyst and lead the change management team in hospitality industry.
+            ```
+        - ChatCompletion __Prompt__
+            ```You are provided with review comment submitted by the guests after their stay at the hotel. 
+            Perform a thorough analysis of the comments written by our guests.
+
+            If comment has a positive sentiment, identify what we need to be keep doing.
+            If comment has a negative sentiment, identify what we need to improve.
+            For neutral sentiment comment, say "N/A"
+
+            Format your findings as per structure below:
+            {
+                "sentiment":"positive" / "negative" / "neutral",
+                "identified_action": "",
+                "action_type": "continue" / "improve" / "N/A"
+            }
+
+            Only return one finding per review comment.
+
+            Provided review comments:
+            ```
+        - __Output__ dataset created with SynapseML, saved into Azure SQL Server table after successful run of the second notebook.
             ![](images/AzureSQLLLMOutput.png)
             _(Query run in SQL Server Management Studio)_
         - The dataset / LLM prompt can be adjusted as per your requirement once you get this solution working.
