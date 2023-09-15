@@ -26,7 +26,7 @@ This repository contains miscellaneous script collections.
             - ```az login```
             - ```az account set --subscription [Your Subscription ID]```
             - ```func azure functionapp publish [Your function app name]```
-            - Update application settings. 
+            - Update application settings.
 
 <br>
 
