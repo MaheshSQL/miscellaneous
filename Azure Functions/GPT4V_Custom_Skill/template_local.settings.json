@@ -1,0 +1,15 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "FUNCTIONS_WORKER_RUNTIME": "python",
+        "AZURE_OPENAI_BASE": "https://XXXXX.openai.azure.com",
+        "AZURE_OPENAI_KEY": "XXXXX",
+        "AZURE_OPENAI_GPT4V_DEPLOYMENT_NAME": "XXXXX",
+        "AZURE_OPENAI_GPT4V_API_VERSION": "2023-12-01-preview", //"2024-02-15-preview"
+        "AZURE_OPENAI_TEMPERATURE": 0,
+        "AZURE_OPENAI_TOP_P": 0.95,
+        "AZURE_OPENAI_MAX_TOKENS": 300,
+        "AZURE_OPENAI_SYSTEM_MESSAGE": "You are AI assistant. Analyse the provided image and come up with accurate description that will help in making the image searchable from a user question.  Do not make up facts.",
+        "AzureWebJobs.HttpExample.Disabled": "true" //This is how you disable a function locally!
+    }
+}
