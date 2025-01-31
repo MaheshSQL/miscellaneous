@@ -1,0 +1,42 @@
+{
+    "page_content": [
+        {
+            "section_name": "Basic isolation procedure",
+            "parent_section_name": "[missing]",
+            "text": "1. Identify the plant involved and the corresponding energy sources.\n2. Identify all other hazards.\n3. Shut the plant down.\n4. De-energise all stored energy sources.\n5. Isolate and lock out all energy sources.\n6. Tag plant controls, energy sources and other potential hazards.\n7. Control other potential hazards.\n8. Test by \u2018trying\u2019 to re-activate the plant, without exposing the tester or others to risk, to ensure isolation procedures have been effective, before commencing any maintenance, cleaning, inspection or repairs on the plant.\n9. Carry out the work on the plant.\n10. Once remedial work is complete, the people who tagged the controls are to remove the tags before the plant is returned to operational status.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "[missing]",
+            "parent_section_name": "[missing]",
+            "text": "Written isolation procedures should be developed where plant is combined with other machinery or equipment and may involve different processes, hazards or power sources. Only people with the right skills should develop these procedures.\n\nThe procedures should be developed in consultation with safety and health representatives, people doing adjustments, cleaning, maintenance, repairs or inspections and, if possible, plant manufacturers, suppliers and people who designed and installed the plant. Where practical, people experienced in operating the plant should also be consulted.\n\nThe effectiveness of isolation procedures relies on providing workers involved with the plant with information, instruction and training, and appointing an authorised person to supervise and ensure isolation procedures are rigorously applied.\n\nThe isolation procedure should be displayed in a prominent position on or adjacent to the plant where possible.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "3. Strict adherence",
+            "parent_section_name": "[missing]",
+            "text": "Once an isolation system has been introduced, it must be strictly followed, or it can become ineffective and dangerous. The system should be reviewed from time to time to ensure it remains relevant and appropriate.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "4. Risk management",
+            "parent_section_name": "[missing]",
+            "text": "A risk management approach to the adjustment, inspection, cleaning, maintenance or repair of plant, and the isolation procedure itself, requires:\n\n1. hazards to be identified;\n2. associated risks to be assessed;\n3. risks to be eliminated or controlled; and\n4. the controls to be reviewed from time to time to ensure they remain effective.\n\nThe employer, main contractor, self-employed person and person in control of the workplace or its access must ensure all hazards are identified, and procedures are written and followed to control identified hazards. Before work commences, contractors and workers new to the plant should be briefed on the procedures to be followed and the need to observe all safety requirements.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        }
+    ],
+    "page_header": "GUIDANCE NOTE ISOLATION OF PLANT",
+    "page_footer": "[missing]",
+    "page_number": "3",
+    "document_title": "Guidance note Isolation of plant 2010",
+    "document_summary": "The guidance note issued by the Commission for Occupational Safety and Health in Western Australia focuses on the isolation of plant to prevent workplace injuries. It outlines legislative frameworks, basic principles, and procedures for isolating plant, including risk management and alternative measures when isolation is not practicable. The document emphasizes the importance of strict adherence to isolation procedures and provides detailed steps for identifying and managing energy sources and other hazards. It also outlines the responsibilities of employers and workers under the Occupational Safety and Health Act 1984, and includes information on various isolation devices, tagging systems, and procedures for safely de-energizing equipment, along with additional resources and contact information for further assistance.",
+    "page_sequence_number": 9
+}

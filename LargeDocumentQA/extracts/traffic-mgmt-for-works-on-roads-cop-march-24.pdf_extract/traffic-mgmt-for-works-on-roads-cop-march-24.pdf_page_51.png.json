@@ -1,0 +1,42 @@
+{
+    "page_content": [
+        {
+            "section_name": "6.7 MINIMUM LANE WIDTHS",
+            "parent_section_name": "6.7 MINIMUM LANE WIDTHS",
+            "text": "The below variation to the minimum lane widths in section 2.5.8 of AGTTM Part 3 and section 3.3.4 of AGTTM Part 2 may be applied (changes in red):",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "true"
+        },
+        {
+            "section_name": "6.7 MINIMUM LANE WIDTHS",
+            "parent_section_name": "6.7 MINIMUM LANE WIDTHS",
+            "text": "<table><tr><th>Criteria</th><th>Lane width (m)*</th></tr><tr><td>General lane widths</td><td></td></tr><tr><td>\u2264 60 km/h</td><td>3</td></tr><tr><td>61 \u2013 80 km/h</td><td>3.2</td></tr><tr><td>> 80 km/h</td><td>3.5</td></tr><tr><td>Curve with radius 100 \u2013 250 m</td><td>Curve widening 0.5 per lane</td></tr><tr><td>Curve with radius < 100 m</td><td>Consider swept path of long vehicles (e.g. buses, trams)</td></tr><tr><td>Approach lane is < 3 m wide</td><td>Equal to approach lane</td></tr><tr><td>Two-way residential street</td><td>5.5 (sum both ways)</td></tr><tr><td>Shuttle flow operation</td><td></td></tr><tr><td>Shuttle flow with traffic control</td><td>3.2</td></tr><tr><td>Shuttle flow on residential streets</td><td>Maximum 3.5</td></tr></table>",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "true"
+        },
+        {
+            "section_name": "6.7 MINIMUM LANE WIDTHS",
+            "parent_section_name": "6.7 MINIMUM LANE WIDTHS",
+            "text": "Note: *This does not apply to curves of radius 250 m or less, or locations where there are fixed vertical obstructions such as fences or safety barriers within 30 cm of the edge of the lane on one or both sides. Where these conditions apply, consider widths wider than those listed above to accommodate large vehicles. Refer to AGTTM for other considerations e.g. cyclists, heavy vehicles, etc.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "6.8 TRAFFIC CONTROL",
+            "parent_section_name": "6.8 TRAFFIC CONTROL",
+            "text": "The following must be read as a supplement to AGTTM Part 3 and Part 7. WA has not adopted the method for estimating end of queue position or positioning of the PREPARE TO STOP, Traffic Controller (Symbolic), Signals Ahead or Boom Barrier signs within section 4.8 of AGTTM Part 3. As per section 5.10 in AGTTM Part 3, Traffic control refers to all methods of traffic control including by portable traffic control devices (e.g. portable traffic signals or boom barriers) or by manual traffic controllers. No form of traffic control is permitted on any Freeway or grade separated highways with: \u2022 a permanent speed limit of 90 km/h or more; and \u2022 a traffic volume of 20,000 vpd or more. AGTTM Part 2: Traffic Management Planning indicates that inadequate vertical alignment is a potential risk associated with accommodating truck traffic and over-sized loads. In particular, the vertical alignment must be considered when proposing a location to stop vehicles as this may impact both safety and level of service: \u2022 Downgrade: steep downgrades increase the stopping distance of heavy vehicles which increases the risk of high severity end of queue collisions \u2022 Upgrade: stopping heavy vehicles at locations with an upgrade may result in the stopped vehicle rolling back as well as impacting the time for the vehicle to accelerate from the stopped position.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        }
+    ],
+    "page_header": "[missing]",
+    "page_footer": "MAIN ROADS Western Australia",
+    "page_number": "50",
+    "document_title": "Traffic Management for Works on Roads Code of Practice",
+    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works to ensure the safety of workers and road users. It includes standards for personnel competency, traffic management plans, risk management, and the use of traffic control devices. The document details specific requirements for signage, safety audits, and procedures for handling roadworks near sensitive areas. It also outlines the use of Truck Mounted Attenuators, shadow vehicles, and innovative traffic control devices, along with accreditation requirements for traffic management roles. Additionally, it provides an inventory and application schedule for various road signs used by Main Roads Western Australia.",
+    "page_sequence_number": 51
+}

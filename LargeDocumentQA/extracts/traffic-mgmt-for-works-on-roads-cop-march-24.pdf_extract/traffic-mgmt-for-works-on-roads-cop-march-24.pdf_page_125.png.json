@@ -1,0 +1,18 @@
+{
+    "page_content": [
+        {
+            "section_name": "INCIDENT, FIRE AND EMERGENCY SERIES SIGNS",
+            "parent_section_name": "[missing]",
+            "text": "<table><tr><th>Image</th><th>Code</th><th>Size</th><th>Description</th></tr><tr><td><img src='hazardous_material.png' alt='Hazardous Material'></td><td>MMS-ADV-68</td><td>600 x 600</td><td>HAZARDOUS MATERIAL</td></tr><tr><td><img src='emergency_ahead.png' alt='Emergency Ahead'></td><td>MMS-ADV-69</td><td>1200 x 300</td><td>EMERGENCY AHEAD</td></tr><tr><td><img src='police_control.png' alt='Police Control'></td><td>MMS-ADV-70</td><td>600 x 600</td><td>POLICE CONTROL</td></tr><tr><td><img src='police_control_ahead.png' alt='Police Control Ahead'></td><td>MMS-ADV-71</td><td>1200 x 300</td><td>POLICE CONTROL AHEAD</td></tr><tr><td><img src='burning_off.png' alt='Burning Off'></td><td>MMS-ADV-73</td><td>600 x 600</td><td>BURNING OFF</td></tr><tr><td><img src='burning_off.png' alt='Burning Off'></td><td>MMS-ADV-74</td><td>1200 x 300</td><td>BURNING OFF</td></tr><tr><td><img src='headlights_on.png' alt='Headlights On'></td><td>MMS-ADV-75</td><td>600 x 600</td><td>HEADLIGHTS ON</td></tr><tr><td><img src='bush_fire.png' alt='Bush Fire'></td><td>MMS-ADV-76</td><td>1200 x 300</td><td>BUSH FIRE</td></tr><tr><td><img src='smoke_hazard.png' alt='Smoke Hazard'></td><td>MMS-ADV-77</td><td>600 x 600</td><td>SMOKE HAZARD</td></tr><tr><td><img src='smoke_hazard.png' alt='Smoke Hazard'></td><td>MMS-ADV-78</td><td>1200 x 300</td><td>SMOKE HAZARD</td></tr></table>",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "true",
+            "contains_table": "true"
+        }
+    ],
+    "page_header": "OFFICIAL",
+    "page_footer": "Multi-Message Sign Inventory and Application Schedule",
+    "page_number": "24",
+    "document_title": "Traffic Management for Works on Roads Code of Practice",
+    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works to ensure the safety of workers and road users. It includes standards for personnel competency, traffic management plans, risk management, and the use of traffic control devices. The document details specific requirements for signage, safety audits, and procedures for handling roadworks near sensitive areas. It also outlines the use of Truck Mounted Attenuators, shadow vehicles, and innovative traffic control devices, along with accreditation requirements for traffic management roles. Additionally, it provides an inventory and application schedule for various road signs used by Main Roads Western Australia.",
+    "page_sequence_number": 125
+}

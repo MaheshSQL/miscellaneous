@@ -1,0 +1,18 @@
+{
+    "page_content": [
+        {
+            "section_name": "ADVANCE WARNING SERIES SIGNS",
+            "parent_section_name": "[missing]",
+            "text": "<table><tr><th>ADV</th><th>Image</th><th>Code</th><th>Size</th><th>Description</th></tr><tr><td>ADV</td><td><img src='detour_ahead.png' alt='Detour Ahead'></td><td>MMS-ADV-56</td><td>1200 x 300</td><td>DETOUR AHEAD</td></tr><tr><td>ADV</td><td><img src='verge_works.png' alt='Verge Works'></td><td>MMS-ADV-57</td><td>600 x 600</td><td>VERGE WORKS</td></tr><tr><td>ADV</td><td><img src='verge_works_large.png' alt='Verge Works'></td><td>MMS-ADV-58</td><td>1200 x 600</td><td>VERGE WORKS</td></tr><tr><td>ADV</td><td><img src='bridge_works.png' alt='Bridge Works'></td><td>MMS-ADV-59</td><td>1200 x 300</td><td>BRIDGE WORKS</td></tr><tr><td>ADV</td><td><img src='on_ramp.png' alt='On Ramp'></td><td>MMS-ADV-60</td><td>1200 x 300</td><td>ON RAMP<br>To be used to give advanced warning of works on the off-ramp.</td></tr><tr><td>ADV</td><td><img src='boom_barrier.png' alt='Boom Barrier'></td><td>MMS-ADV-79</td><td>600 x 600</td><td>BOOM BARRIER</td></tr><tr><td>ADV</td><td><img src='rumble_strip.png' alt='Rumble Strip'></td><td>MMS-ADV-80</td><td>600 x 600</td><td>RUMBLE STRIPS<br>Must only be used in conjunction with the sign MMS-ADV-81.</td></tr><tr><td>ADV</td><td><img src='rumble_strip_large.png' alt='Rumble Strip'></td><td>MMS-ADV-81</td><td>600 x 600</td><td>RUMBLE STRIPS<br>Must only be used in conjunction with the sign MMS-ADV-80.</td></tr><tr><td>ADV</td><td><img src='stop_here.png' alt='Stop Here'></td><td>MMS-ADV-82</td><td>1200 x 600</td><td>STOP HERE WHEN DIRECTED</td></tr><tr><td>ADV</td><td><img src='monitoring_camera.png' alt='Monitoring Camera'></td><td>MMS-ADV-83</td><td>600 x 600</td><td>MONITORING CAMERA</td></tr></table>",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "true",
+            "contains_table": "true"
+        }
+    ],
+    "page_header": "OFFICIAL",
+    "page_footer": "Multi-Message Sign Inventory and Application Schedule",
+    "page_number": "7",
+    "document_title": "Traffic Management for Works on Roads Code of Practice",
+    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works to ensure the safety of workers and road users. It includes standards for personnel competency, traffic management plans, risk management, and the use of traffic control devices. The document details specific requirements for signage, safety audits, and procedures for handling roadworks near sensitive areas. It also outlines the use of Truck Mounted Attenuators, shadow vehicles, and innovative traffic control devices, along with accreditation requirements for traffic management roles. Additionally, it provides an inventory and application schedule for various road signs used by Main Roads Western Australia.",
+    "page_sequence_number": 108
+}

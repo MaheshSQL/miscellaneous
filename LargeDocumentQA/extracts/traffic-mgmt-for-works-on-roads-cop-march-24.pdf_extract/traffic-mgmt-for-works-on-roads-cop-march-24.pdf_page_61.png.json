@@ -1,0 +1,42 @@
+{
+    "page_content": [
+        {
+            "section_name": "6.9 TRUCK MOUNTED ATTENUATORS",
+            "parent_section_name": "6.9 TRUCK MOUNTED ATTENUATORS",
+            "text": "A truck mounted attenuator (TMA) is a combination of Host Vehicle with a mounted Crash Attenuator to protect road workers.\n\nTrailer Mounted Attenuators are not permitted in WA.\n\nThe Requirements for the use of Truck Mounted Attenuators (TMAs) in WA \u2013 Code of Practice (TMA Code of Practice) have been adopted as a minimum requirement in WA (refer to the TMA Code of Practice for Host Vehicle requirements and TMA Deployment example diagrams). A copy is available on the Main Roads website at www.mainroads.wa.gov.au; go to \u2018Technical & Commercial\u2019 > \u2018Working on roads\u2019.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "6.9.1 Mandatory use of TMAs",
+            "parent_section_name": "6.9 TRUCK MOUNTED ATTENUATORS",
+            "text": "This section details the roads and localities where TMAs must be used to protect the work area. TMAs are not required if the work area has been separated or protected by a full road closure or a road safety barrier.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "6.9.1.1 Freeways and High Speed Roads",
+            "parent_section_name": "6.9.1 Mandatory use of TMAs",
+            "text": "A TL-3 TMA must be used for any works on or within 3 m of a traffic lane on roads detailed in the below table:\n\n<table>\n<tr><th>Road Number</th><th>Road Name</th><th>Locality</th></tr>\n<tr><td>H015</td><td>Kwinana Fwy</td><td>Entire</td></tr>\n<tr><td>H016</td><td>Mitchell Fwy</td><td>Entire</td></tr>\n<tr><td>H017</td><td>Tonkin Hwy</td><td>Entire</td></tr>\n<tr><td>H018</td><td>Roe Hwy</td><td>Entire</td></tr>\n<tr><td>H019</td><td>Great Eastern Hwy Bypass</td><td>Entire</td></tr>\n<tr><td>H020</td><td>Graham Farmer Fwy</td><td>Entire</td></tr>\n<tr><td>H021</td><td>Reid Hwy</td><td>East of Erindale Road (SLK 4.28 \u2013 23.82)</td></tr>\n<tr><td>H057</td><td>Forrest Hwy</td><td>Entire</td></tr>\n</table>",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "true"
+        },
+        {
+            "section_name": "6.9.1.1 Freeways and High Speed Roads",
+            "parent_section_name": "6.9.1 Mandatory use of TMAs",
+            "text": "Blocker Vehicle\nThere have been instances where vehicles have entered a worksite via the emergency lane or shoulder. As a result, to prevent vehicles entering the work area from the off-road side when only closing a single traffic lane, a blocker vehicle with TMA must be used at static worksites that meet the following:\n\u2022 Work occurs on a Freeway; and\n\u2022 Work area is within a traffic lane; and\n\u2022 Work area is not separated or protected by a full road closure or road safety barrier.\n\n(Refer to diagram 5 of Appendix C within the Requirements for the use of Truck Mounted Attenuators in WA \u2013 Code of Practice).\n\nNote: A blocker vehicle is not required, subject to a risk assessment, where the",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        }
+    ],
+    "page_header": "[missing]",
+    "page_footer": "MAIN ROADS Western Australia",
+    "page_number": "60",
+    "document_title": "Traffic Management for Works on Roads Code of Practice",
+    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works to ensure the safety of workers and road users. It includes standards for personnel competency, traffic management plans, risk management, and the use of traffic control devices. The document details specific requirements for signage, safety audits, and procedures for handling roadworks near sensitive areas. It also outlines the use of Truck Mounted Attenuators, shadow vehicles, and innovative traffic control devices, along with accreditation requirements for traffic management roles. Additionally, it provides an inventory and application schedule for various road signs used by Main Roads Western Australia.",
+    "page_sequence_number": 61
+}

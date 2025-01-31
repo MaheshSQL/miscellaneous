@@ -1,0 +1,58 @@
+{
+    "page_content": [
+        {
+            "section_name": "I keep getting truncated responses when I use GPT-4 Turbo vision models. Why is this happening?",
+            "parent_section_name": "[missing]",
+            "text": "By default GPT-4 vision-preview and GPT-4 turbo-2024-04-09 have a max_tokens value of 16. Depending on your request this value is often too low and can lead to truncated responses. To resolve this issue, pass a larger max_tokens value as part of your chat completions API requests. GPT-4o defaults to 4096 max_tokens.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "Assistants",
+            "parent_section_name": "[missing]",
+            "text": "[missing]",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "Do you store any data used in the Assistants API?",
+            "parent_section_name": "Assistants",
+            "text": "Yes. Unlike Chat Completions API, Azure OpenAI Assistants is a stateful API, meaning it retains data. There are two types of data stored in the Assistants API:\n\nStateful entities: Threads, messages, and runs created during Assistants use.\nFiles: Uploaded during Assistants setup or as part of a message.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "Where is this data stored?",
+            "parent_section_name": "Assistants",
+            "text": "Data is stored in a secure, Microsoft-managed storage account that is logically separated.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "How long is this data stored?",
+            "parent_section_name": "Assistants",
+            "text": "All used data persists in this system unless you explicitly delete this data. Use the delete function with the thread ID of the thread you want to delete. Clearing the Run in the Assistants Playground does not delete threads, however deleting them using delete function will not list them in the thread page.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "Can I bring my own data store to use with Assistants?",
+            "parent_section_name": "Assistants",
+            "text": "[missing]",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        }
+    ],
+    "page_header": "Azure OpenAI Service frequently asked questions - Azure AI services | Microsoft Learn",
+    "page_footer": "https://learn.microsoft.com/en-us/azure/ai-services/openai/faq",
+    "page_number": "12",
+    "document_title": "Azure OpenAI Service frequently asked questions",
+    "document_summary": "The document is a comprehensive FAQ for Azure OpenAI Service, addressing data privacy, API headers, model support, and capabilities. It clarifies that customer data is not used to retrain models and supports the latest GPT-4 models, including GPT-4 Turbo with Vision for image-related tasks. The document provides guidance on fine-tuning models, deploying with REST API, and handling common errors. It also covers data storage, encryption, usage policies, costs, and geographical data storage specifics, along with responsible AI practices and the Azure OpenAI on your data feature.",
+    "page_sequence_number": 12
+}

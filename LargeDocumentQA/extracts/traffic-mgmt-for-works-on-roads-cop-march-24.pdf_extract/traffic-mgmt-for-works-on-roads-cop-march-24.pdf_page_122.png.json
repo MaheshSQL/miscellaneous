@@ -1,0 +1,18 @@
+{
+    "page_content": [
+        {
+            "section_name": "REGULATORY SERIES SIGNS",
+            "parent_section_name": "[missing]",
+            "text": "<table><tr><th>REG</th><th>Sign</th><th>Size</th><th>Description</th></tr><tr><td>REG</td><td><img src='END_40.png' alt='END 40'></td><td>600 x 600</td><td>END 40 km/h SYMBOLIC<br>\u2022 Must only be used to terminate a temporary speed zone on a road that had not been speed zoned, or on a mobile convoy</td></tr><tr><td>REG</td><td><img src='END_60.png' alt='END 60'></td><td>600 x 600</td><td>END 60 km/h SYMBOLIC<br>\u2022 Must only be used to terminate a temporary speed zone on a road that had not been speed zoned, or on a mobile convoy</td></tr><tr><td>REG</td><td><img src='END_80.png' alt='END 80'></td><td>600 x 600</td><td>END 80 km/h SYMBOLIC<br>\u2022 Must only be used to terminate a temporary speed zone on a road that had not been speed zoned, or on a mobile convoy</td></tr><tr><td>REG</td><td><img src='NO_ENTRY.png' alt='NO ENTRY'></td><td>600 x 600</td><td>NO ENTRY SYMBOLIC</td></tr><tr><td>REG</td><td><img src='NO_LEFT_TURN.png' alt='NO LEFT TURN'></td><td>600 x 600</td><td>NO LEFT TURN SYMBOLIC</td></tr><tr><td>REG</td><td><img src='NO_RIGHT_TURN.png' alt='NO RIGHT TURN'></td><td>600 x 600</td><td>NO RIGHT TURN SYMBOLIC</td></tr><tr><td>REG</td><td><img src='NO_OVERTAKING.png' alt='NO OVERTAKING'></td><td>600 x 600</td><td>NO OVERTAKING OR PASSING</td></tr><tr><td>REG</td><td><img src='LEFT_ONLY.png' alt='LEFT ONLY'></td><td>600 x 600</td><td>LEFT ONLY</td></tr><tr><td>REG</td><td><img src='RIGHT_ONLY.png' alt='RIGHT ONLY'></td><td>600 x 600</td><td>RIGHT ONLY</td></tr><tr><td>REG</td><td><img src='SHARED_PATH.png' alt='SHARED PATH'></td><td>600 x 600</td><td>SHARED PATH</td></tr></table>",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "true",
+            "contains_table": "true"
+        }
+    ],
+    "page_header": "OFFICIAL",
+    "page_footer": "Multi-Message Sign Inventory and Application Schedule",
+    "page_number": "21",
+    "document_title": "Traffic Management for Works on Roads Code of Practice",
+    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works to ensure the safety of workers and road users. It includes standards for personnel competency, traffic management plans, risk management, and the use of traffic control devices. The document details specific requirements for signage, safety audits, and procedures for handling roadworks near sensitive areas. It also outlines the use of Truck Mounted Attenuators, shadow vehicles, and innovative traffic control devices, along with accreditation requirements for traffic management roles. Additionally, it provides an inventory and application schedule for various road signs used by Main Roads Western Australia.",
+    "page_sequence_number": 122
+}

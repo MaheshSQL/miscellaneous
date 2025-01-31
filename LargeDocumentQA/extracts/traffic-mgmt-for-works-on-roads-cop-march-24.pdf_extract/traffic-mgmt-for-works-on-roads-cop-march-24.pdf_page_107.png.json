@@ -1,0 +1,18 @@
+{
+    "page_content": [
+        {
+            "section_name": "ADVANCE WARNING SERIES SIGNS",
+            "parent_section_name": "[missing]",
+            "text": "<table><tr><th>ADV</th><th>Image</th><th>Code</th><th>Size</th><th>Description</th></tr><tr><td>ADV</td><td><img src='MMS-ADV-46.png'/></td><td>MMS-ADV-46</td><td>1200 x 300</td><td>TEMPORARY HAZARD MARKER<br>\u2022 Only to be used where the top two (2) panels contain a yellow background. Otherwise, the temporary hazard marker 'MMS-ADV-45' must be used.</td></tr><tr><td>ADV</td><td><img src='MMS-ADV-47.png'/></td><td>MMS-ADV-47</td><td>600 x 600</td><td>TRAFFIC CONTROLLER SYMBOLIC</td></tr><tr><td>ADV</td><td><img src='MMS-ADV-48.png'/></td><td>MMS-ADV-48</td><td>600 x 600</td><td>TRAFFIC SIGNALS</td></tr><tr><td>ADV</td><td><img src='MMS-ADV-49.png'/></td><td>MMS-ADV-49</td><td>600 x 600</td><td>TRAFFIC SIGNALS NOT IN USE</td></tr><tr><td>ADV</td><td><img src='MMS-ADV-50.png'/></td><td>MMS-ADV-50</td><td>600 x 600</td><td>TRAFFIC SIGNALS NOT WORKING</td></tr><tr><td>ADV</td><td><img src='MMS-ADV-51.png'/></td><td>MMS-ADV-51</td><td>600 x 600</td><td>TRUCK SYMBOLIC</td></tr><tr><td>ADV</td><td><img src='MMS-ADV-52A.png'/></td><td>MMS-ADV-52A</td><td>600 x 600</td><td>WORKER SYMBOLIC</td></tr><tr><td>ADV</td><td><img src='MMS-ADV-52B.png'/></td><td>MMS-ADV-52B</td><td>1200 x 600</td><td>WORKER SYMBOLIC</td></tr><tr><td>ADV</td><td><img src='MMS-ADV-53.png'/></td><td>MMS-ADV-53</td><td>1200 x 300</td><td>UHF CHANNEL XX<br>\u2022 The use of channels 31-38 UHF is prohibited; channels 5 & 35 are for emergency use only.</td></tr><tr><td>ADV</td><td><img src='MMS-ADV-54.png'/></td><td>MMS-ADV-54</td><td>600 x 600</td><td>UHF CHANNEL XX<br>\u2022 The use of channels 31-38 UHF is prohibited; channels 5 & 35 are for emergency use only.</td></tr></table>",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "true",
+            "contains_table": "true"
+        }
+    ],
+    "page_header": "OFFICIAL",
+    "page_footer": "Multi-Message Sign Inventory and Application Schedule",
+    "page_number": "6",
+    "document_title": "Traffic Management for Works on Roads Code of Practice",
+    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works to ensure the safety of workers and road users. It includes standards for personnel competency, traffic management plans, risk management, and the use of traffic control devices. The document details specific requirements for signage, safety audits, and procedures for handling roadworks near sensitive areas. It also outlines the use of Truck Mounted Attenuators, shadow vehicles, and innovative traffic control devices, along with accreditation requirements for traffic management roles. Additionally, it provides an inventory and application schedule for various road signs used by Main Roads Western Australia.",
+    "page_sequence_number": 107
+}

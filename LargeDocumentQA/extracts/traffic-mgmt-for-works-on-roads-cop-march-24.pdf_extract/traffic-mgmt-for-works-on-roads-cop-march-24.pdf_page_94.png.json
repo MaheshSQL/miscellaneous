@@ -1,0 +1,26 @@
+{
+    "page_content": [
+        {
+            "section_name": "TABLE A2-4 \u2013 QUALITATIVE RISK ANALYSIS MATRIX \u2013 RISK RATING",
+            "parent_section_name": "[missing]",
+            "text": "<table><tr><th>Likelihood</th><th>Insignificant (1)</th><th>Minor (2)</th><th>Moderate (3)</th><th>Major (4)</th><th>Catastrophic (5)</th></tr><tr><td>Almost certain (A)</td><td>Low 5</td><td>High 10</td><td>High 15</td><td>Very High 20</td><td>Very High 25</td></tr><tr><td>Likely (B)</td><td>Low 4</td><td>Medium 8</td><td>High 12</td><td>Very High 16</td><td>Very High 20</td></tr><tr><td>Possible (C)</td><td>Low 3</td><td>Low 6</td><td>Medium 9</td><td>High 12</td><td>High 15</td></tr><tr><td>Unlikely (D)</td><td>Low 2</td><td>Low 4</td><td>Low 6</td><td>Medium 8</td><td>High 10</td></tr><tr><td>Rare (E)</td><td>Low 1</td><td>Low 2</td><td>Low 3</td><td>Low 4</td><td>Medium 7</td></tr></table>",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "true"
+        },
+        {
+            "section_name": "TABLE A2-5 \u2013 MANAGEMENT APPROACH FOR RESIDUAL RISK RATING",
+            "parent_section_name": "[missing]",
+            "text": "<table><tr><th>Residual Risk Rating</th><th>Required Treatment</th></tr><tr><td>Very High</td><td>Unacceptable risk. HOLD POINT. Work cannot proceed until risk has been reduced.</td></tr><tr><td>High</td><td>High priority, Roadworks Traffic Manager (RTM) must review the risk assessment and approve the treatment and endorse the TGS prior to its implementation.</td></tr><tr><td>Medium</td><td>Medium Risk, standard traffic control and work practices subject to review by accredited AWTM personnel prior to implementation.</td></tr><tr><td>Low</td><td>Managed in accordance with the approved management procedures and traffic control practices.</td></tr></table>",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "true"
+        }
+    ],
+    "page_header": "[missing]",
+    "page_footer": "MAIN ROADS Western Australia",
+    "page_number": "viii",
+    "document_title": "Traffic Management for Works on Roads Code of Practice",
+    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works to ensure the safety of workers and road users. It includes standards for personnel competency, traffic management plans, risk management, and the use of traffic control devices. The document details specific requirements for signage, safety audits, and procedures for handling roadworks near sensitive areas. It also outlines the use of Truck Mounted Attenuators, shadow vehicles, and innovative traffic control devices, along with accreditation requirements for traffic management roles. Additionally, it provides an inventory and application schedule for various road signs used by Main Roads Western Australia.",
+    "page_sequence_number": 94
+}

@@ -1,0 +1,42 @@
+{
+    "page_content": [
+        {
+            "section_name": "8. ACCREDITATION REQUIREMENTS",
+            "parent_section_name": "[missing]",
+            "text": "[missing]",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "8.1 GENERAL",
+            "parent_section_name": "8. ACCREDITATION REQUIREMENTS",
+            "text": "Persons undertaking any of the tasks listed in Table 26 must hold relevant Main Roads accreditation, as indicated:",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "8.1 GENERAL",
+            "parent_section_name": "8. ACCREDITATION REQUIREMENTS",
+            "text": "<table><tr><th>Task</th><th>Required Main Roads Accreditation</th><th>Austroads role title</th></tr><tr><td>On site manual traffic control using a Stop-Slow bat.<br>Operate portable traffic signals systems.<br>Operate portable boom barrier.</td><td>Traffic Controller</td><td>Traffic Controller</td></tr><tr><td>Selection of appropriate generic TGS, within an approved TMP, assess as site suitable and implement.<br>Selection and Implementation of correct approved site specific TGS, required for the stage of works (or event).<br>Monitor and maintain the performance of the implemented TGS.<br>Adjustment of signs and devices within tolerances.<br>Implement traffic signs and devices from an approved TMP in accordance with AGTTM Part 5 \u2013 Short Term Low Impact Works e.g. Worker (symbolic), GRADER AHEAD, ROAD PLANT AHEAD or ROADWORK AHEAD.</td><td>Basic Worksite Traffic Management</td><td>Traffic Management Implementer (TMI)</td></tr><tr><td>Review TMPs prepared by a person holding an AWTM accreditation.<br>Monitoring the effectiveness of, and on-site adjustments or modifications to the Traffic Management Plan / Traffic Guidance Scheme outside tolerance in accordance with its scope and objectives.<br>This includes adjusting, modifying, adding and/or removing signs and devices where the intent/objectives of the TMP and operation of the road network are not adversely impacted. Changes to the TMP/TGS must not involve adding lane or road closures, speed limit changes, or adding any additional regulatory signs that have not been approved (note: WTMs may add repeater signs).</td><td>Worksite Traffic Management</td><td>Not currently in the Austroads Training Framework, however the WTM accreditation will be retained in WA</td></tr><tr><td>Prepare, review, monitor, adjust and modify Traffic Management Plans and Traffic Guidance Schemes.</td><td>Advanced Worksite Traffic Management</td><td>Traffic Management Designer (TMD)</td></tr><tr><td>Review and endorsement of Traffic Management Plans involving \u2018complex traffic arrangements\u2019.<br>Suitability and compliance audits of Traffic Management Plans involving \u2018complex traffic arrangements\u2019, as may be specified for works undertaken for or on behalf of Main Roads.<br>Undertaking \u2018risk management\u2019, and preparation or endorsement of, any Traffic Management Plan proposing to implement a lesser treatment than required by this Code for all works undertaken for or on behalf of Main Roads.</td><td>Roadworks Traffic Manager</td><td>There is no equivalent in the Austroads framework.<br>RTMs to be retained in WA</td></tr><tr><td>The operation of a truck mounted attenuator (TMA) when carrying out traffic management activities.</td><td>Operate Truck Mounted Attenuator</td><td>TMA operator training is not included.</td></tr></table>",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "true"
+        },
+        {
+            "section_name": "8.1 GENERAL",
+            "parent_section_name": "8. ACCREDITATION REQUIREMENTS",
+            "text": "Any party intending to conduct works that may impact on traffic within any road reserve must, as a condition of approval by Main Roads, local government or any other authority responsible for the road, ensure that the persons performing the tasks contained in Table 26 hold a relevant and current certificate of accreditation.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        }
+    ],
+    "page_header": "OFFICIAL",
+    "page_footer": "MAIN ROADS Western Australia",
+    "page_number": "79",
+    "document_title": "Traffic Management for Works on Roads Code of Practice",
+    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works to ensure the safety of workers and road users. It includes standards for personnel competency, traffic management plans, risk management, and the use of traffic control devices. The document details specific requirements for signage, safety audits, and procedures for handling roadworks near sensitive areas. It also outlines the use of Truck Mounted Attenuators, shadow vehicles, and innovative traffic control devices, along with accreditation requirements for traffic management roles. Additionally, it provides an inventory and application schedule for various road signs used by Main Roads Western Australia.",
+    "page_sequence_number": 80
+}

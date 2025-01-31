@@ -1,0 +1,66 @@
+{
+    "page_content": [
+        {
+            "section_name": "How do I deploy a model with the REST API?",
+            "parent_section_name": "[missing]",
+            "text": "There are currently two different REST APIs that allow model deployment. For the latest model deployment features such as the ability to specify a model version during deployment for models like text-embedding-ada-002 Version 2, use the Deployments - Create Or Update REST API call.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "Can I use quota to increase the max token limit of a model?",
+            "parent_section_name": "[missing]",
+            "text": "No, quota Tokens-Per-Minute (TPM) allocation isn't related to the max input token limit of a model. Model input token limits are defined in the models table and aren't impacted by changes made to TPM.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "GPT-4 Turbo with Vision",
+            "parent_section_name": "[missing]",
+            "text": "[missing]",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "Can I fine-tune the image capabilities in GPT-4?",
+            "parent_section_name": "GPT-4 Turbo with Vision",
+            "text": "No, we don't support fine-tuning the image capabilities of GPT-4 at this time.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "Can I use GPT-4 to generate images?",
+            "parent_section_name": "GPT-4 Turbo with Vision",
+            "text": "No, you can use dall-e-3 to generate images and gpt-4-vision-preview to understand images.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "What type of files can I upload?",
+            "parent_section_name": "GPT-4 Turbo with Vision",
+            "text": "We currently support PNG (.png), JPEG (.jpeg and .jpg), WEBP (.webp), and nonanimated GIF (.gif).",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "Is there a limit to the size of the image I can upload?",
+            "parent_section_name": "GPT-4 Turbo with Vision",
+            "text": "[missing]",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        }
+    ],
+    "page_header": "Azure OpenAI Service frequently asked questions - Azure AI services | Microsoft Learn",
+    "page_footer": "https://learn.microsoft.com/en-us/azure/ai-services/openai/faq",
+    "page_number": "10",
+    "document_title": "Azure OpenAI Service frequently asked questions",
+    "document_summary": "The document is a comprehensive FAQ for Azure OpenAI Service, addressing data privacy, API headers, model support, and capabilities. It clarifies that customer data is not used to retrain models and supports the latest GPT-4 models, including GPT-4 Turbo with Vision for image-related tasks. The document provides guidance on fine-tuning models, deploying with REST API, and handling common errors. It also covers data storage, encryption, usage policies, costs, and geographical data storage specifics, along with responsible AI practices and the Azure OpenAI on your data feature.",
+    "page_sequence_number": 10
+}

@@ -1,0 +1,26 @@
+{
+    "page_content": [
+        {
+            "section_name": "Figure 3: Placement of Traffic Controller Warning Signs (when using side by side)",
+            "parent_section_name": "[missing]",
+            "text": "The STOP HERE ON RED SIGNAL or STOP HERE WHEN DIRECTED sign must be placed 6 m in advance of the PTCD/traffic controller position. A temporary STOP line must also be considered at this location using temporary removable road marking tape. There should be adequate distance between the PTCD/traffic controller position and the traffic control taper to ensure it can be safely negotiated by all vehicles, considering swept paths of large vehicles.\n\nSection 4.8 of AGTTM Part 3, recommends four cones be placed on the centreline from the STOP HERE ON RED SIGNAL or STOP HERE WHEN DIRECTED sign position, which is encouraged, however where supported by a site-specific risk assessment these cones may be omitted.\n\nIt is recognised that there is often limited space on some local roads due to things such as parked cars, footpaths, works occurring close to intersections, etc. The Worker (symbolic) and Traffic Controller (symbolic) signs may be used in the same MMS panel where all the following requirements are met:\n\n\u2022 The road is a low-speed local road (permanent speed 60 km/h or below);\n\u2022 There are site constraints which do not allow the signs to be separated;\n\u2022 The signs are used with the MMS-ADV-26 PREPARE TO STOP sign;\n\u2022 The Traffic Controller (symbolic) sign (MMS-ADV-47) must be positioned closest to the traffic;\n\u2022 The signs must be duplicated on both sides of the road or carriageway;\n\u2022 The signs must only be displayed when the need exists and removed or replaced when workers are not visible and/or there is no Traffic Controller requiring road users to stop.",
+            "image_diagram_summary": "A warning sign with a worker holding a stop sign and the text 'PREPARE TO STOP'. The sign is in a bright orange color with a black border, indicating caution and the need to prepare for stopping. #warning #caution #trafficcontrol",
+            "contains_image_diagam": "true",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "6.8.2 Avoiding End of Queue Collisions",
+            "parent_section_name": "[missing]",
+            "text": "Queueing and delay are an expected consequence when any roadworks require the use of traffic control.\nBefore implementing any type of traffic control, it is the responsibility of the traffic management designer to consider the following:\n\n\u2022 The speed of traffic\n\u2022 The road environment (e.g. horizontal and vertical curves, road surface, road grade13)\n\u2022 The sight distance road users will have to the traffic control position\n\u2022 Driver reaction times (general case assumption = 2.5 sec)\n\u2022 The traffic volume (including determining the peak traffic volumes within the proposed work period)\n\u2022 The traffic composition (e.g. large vehicles will require greater stopping sight distance)\n\u2022 Work times and duration\n\u2022 Expected time traffic will be stopped\n\u2022 Worksite length (see section 6.8.6 for maximum length of single lane section)\n\u2022 Personnel available",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        }
+    ],
+    "page_header": "[missing]",
+    "page_footer": "MAIN ROADS Western Australia",
+    "page_number": "52",
+    "document_title": "Traffic Management for Works on Roads Code of Practice",
+    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works to ensure the safety of workers and road users. It includes standards for personnel competency, traffic management plans, risk management, and the use of traffic control devices. The document details specific requirements for signage, safety audits, and procedures for handling roadworks near sensitive areas. It also outlines the use of Truck Mounted Attenuators, shadow vehicles, and innovative traffic control devices, along with accreditation requirements for traffic management roles. Additionally, it provides an inventory and application schedule for various road signs used by Main Roads Western Australia.",
+    "page_sequence_number": 53
+}

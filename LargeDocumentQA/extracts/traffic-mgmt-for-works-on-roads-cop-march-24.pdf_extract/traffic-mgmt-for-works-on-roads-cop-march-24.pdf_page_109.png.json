@@ -1,0 +1,18 @@
+{
+    "page_content": [
+        {
+            "section_name": "ADVANCE WARNING SERIES SIGNS",
+            "parent_section_name": "[missing]",
+            "text": "<table><tr><th>Sign</th><th>Code</th><th>Size (mm)</th><th>Image</th><th>Description</th></tr><tr><td>WORKERS UNDER BRIDGE</td><td>MMS-ADV-84</td><td>600 x 600</td><td><img src='image1.png'/></td><td>WORKS UNDER BRIDGE</td></tr><tr><td>RAMP CLOSED AHEAD</td><td>MMS-ADV-85</td><td>1200 x 600</td><td><img src='image2.png'/></td><td>RAMP CLOSED AHEAD</td></tr><tr><td>RAMP CLOSED</td><td>MMS-ADV-86</td><td>1200 x 600</td><td><img src='image3.png'/></td><td>RAMP CLOSED</td></tr><tr><td>RAMP CLOSED</td><td>MMS-ADV-87</td><td>600 x 600</td><td><img src='image4.png'/></td><td>RAMP CLOSED</td></tr><tr><td>CYCLISTS IN LANE</td><td>MMS-ADV-88</td><td>600 x 600</td><td><img src='image5.png'/></td><td>CYCLISTS IN LANE</td></tr><tr><td>CYCLISTS IN LANE</td><td>MMS-ADV-89</td><td>1200 x 600</td><td><img src='image6.png'/></td><td>CYCLISTS IN LANE</td></tr><tr><td>QUEUED TRAFFIC AHEAD</td><td>MMS-ADV-90</td><td>600 x 600</td><td><img src='image7.png'/></td><td>QUEUED TRAFFIC AHEAD<br>\u2022 Must only be used in conjunction with the sign MMS-ADV-91.</td></tr><tr><td>QUEUED TRAFFIC (SYMBOLIC)</td><td>MMS-ADV-91</td><td>600 x 600</td><td><img src='image8.png'/></td><td>QUEUED TRAFFIC (SYMBOLIC)<br>\u2022 Must only be used in conjunction with the sign MMS-ADV-90.</td></tr><tr><td>CYCLISTS (SYMBOLIC)</td><td>MMS-ADV-92</td><td>600 x 600</td><td><img src='image9.png'/></td><td>CYCLISTS (SYMBOLIC)</td></tr><tr><td>BICYCLE LANE CLOSED AHEAD</td><td>MMS-ADV-93</td><td>600 x 600</td><td><img src='image10.png'/></td><td>BICYCLE LANE CLOSED AHEAD</td></tr><tr><td>SLOW BUS AHEAD</td><td>MMS-ADV-94</td><td>1200 x 300</td><td><img src='image11.png'/></td><td>SLOW BUS AHEAD<br>\u2022 To be used to give advance warning of autonomous bus trials</td></tr></table>",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "true",
+            "contains_table": "true"
+        }
+    ],
+    "page_header": "OFFICIAL",
+    "page_footer": "Multi-Message Sign Inventory and Application Schedule",
+    "page_number": "8",
+    "document_title": "Traffic Management for Works on Roads Code of Practice",
+    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works to ensure the safety of workers and road users. It includes standards for personnel competency, traffic management plans, risk management, and the use of traffic control devices. The document details specific requirements for signage, safety audits, and procedures for handling roadworks near sensitive areas. It also outlines the use of Truck Mounted Attenuators, shadow vehicles, and innovative traffic control devices, along with accreditation requirements for traffic management roles. Additionally, it provides an inventory and application schedule for various road signs used by Main Roads Western Australia.",
+    "page_sequence_number": 109
+}

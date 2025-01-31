@@ -1,0 +1,50 @@
+{
+    "page_content": [
+        {
+            "section_name": "Foundry > Management > Deployments",
+            "parent_section_name": "[missing]",
+            "text": "and consult the model name column to confirm what model is currently associated with a given deployment name.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "[missing]",
+            "parent_section_name": "[missing]",
+            "text": "The questions, \"What model are you running?\" or \"What is the latest model from OpenAI?\" produce similar quality results to asking the model what the weather will be today. It might return the correct result, but purely by chance. On its own, the model has no real-world information other than what was part of its training/training data. In the case of GPT-4, as of August 2023 the underlying training data goes only up to September 2021. GPT-4 wasn't released until March 2023, so barring OpenAI releasing a new version with updated training data, or a new version that is fine-tuned to answer those specific questions, it's expected behavior for GPT-4 to respond that GPT-3 is the latest model release from OpenAI.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "[missing]",
+            "parent_section_name": "[missing]",
+            "text": "If you wanted to help a GPT based model to accurately respond to the question \"what model are you running?\", you would need to provide that information to the model through techniques like prompt engineering of the model's system message, Retrieval Augmented Generation (RAG) which is the technique used by Azure OpenAI on your data where up-to-date information is injected to the system message at query time, or via fine-tuning where you could fine-tune specific versions of the model to answer that question in a certain way based on model version.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "[missing]",
+            "parent_section_name": "[missing]",
+            "text": "To learn more about how GPT models are trained and work we recommend watching Andrej Karpathy's talk from Build 2023 on the state of GPT.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "I asked the model when its knowledge cutoff is and it gave me a different answer than what is on the Azure OpenAI model's page. Why does this happen?",
+            "parent_section_name": "[missing]",
+            "text": "This is expected behavior. The models aren't able to answer questions about themselves. If you want to know when the knowledge cutoff for the model's training data is, consult the models page.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        }
+    ],
+    "page_header": "Azure OpenAI Service frequently asked questions - Azure AI services | Microsoft Learn",
+    "page_footer": "[missing]",
+    "page_number": "5",
+    "document_title": "Azure OpenAI Service frequently asked questions",
+    "document_summary": "The document is a comprehensive FAQ for Azure OpenAI Service, addressing data privacy, API headers, model support, and capabilities. It clarifies that customer data is not used to retrain models and supports the latest GPT-4 models, including GPT-4 Turbo with Vision for image-related tasks. The document provides guidance on fine-tuning models, deploying with REST API, and handling common errors. It also covers data storage, encryption, usage policies, costs, and geographical data storage specifics, along with responsible AI practices and the Azure OpenAI on your data feature.",
+    "page_sequence_number": 5
+}

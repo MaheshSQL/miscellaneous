@@ -1,0 +1,66 @@
+{
+    "page_content": [
+        {
+            "section_name": "Is there a limit to the size of the image I can upload?",
+            "parent_section_name": "[missing]",
+            "text": "Yes, we restrict image uploads to 20 MB per image.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "Can I delete an image I uploaded?",
+            "parent_section_name": "[missing]",
+            "text": "No, we'll delete the image for you automatically after it has been processed by the model.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "How do the rate limits for GPT-4 Turbo with Vision work?",
+            "parent_section_name": "[missing]",
+            "text": "We process images at the token level, so each image we process counts towards your tokens per minute (TPM) limit. See the Image tokens section of the Overview for details on the formula used to determine token count per image.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "Can GPT-4 Turbo with Vision understand image metadata?",
+            "parent_section_name": "[missing]",
+            "text": "No, the model doesn't receive image metadata.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "What happens if my image is unclear?",
+            "parent_section_name": "[missing]",
+            "text": "If an image is ambiguous or unclear, the model will do its best to interpret it. However, the results might be less accurate. A good rule of thumb is that if an average human can't see the info in an image at the resolutions used in low/high res mode, then the model can't either.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "What are the known limitations of GPT-4 Turbo with Vision?",
+            "parent_section_name": "[missing]",
+            "text": "See the limitations section of the GPT-4 Turbo with Vision concepts guide.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "I keep getting truncated responses when I use GPT-4 Turbo vision models. Why is this happening?",
+            "parent_section_name": "[missing]",
+            "text": "[missing]",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        }
+    ],
+    "page_header": "Azure OpenAI Service frequently asked questions - Azure AI services | Microsoft Learn",
+    "page_footer": "https://learn.microsoft.com/en-us/azure/ai-services/openai/faq",
+    "page_number": "11",
+    "document_title": "Azure OpenAI Service frequently asked questions",
+    "document_summary": "The document is a comprehensive FAQ for Azure OpenAI Service, addressing data privacy, API headers, model support, and capabilities. It clarifies that customer data is not used to retrain models and supports the latest GPT-4 models, including GPT-4 Turbo with Vision for image-related tasks. The document provides guidance on fine-tuning models, deploying with REST API, and handling common errors. It also covers data storage, encryption, usage policies, costs, and geographical data storage specifics, along with responsible AI practices and the Azure OpenAI on your data feature.",
+    "page_sequence_number": 11
+}

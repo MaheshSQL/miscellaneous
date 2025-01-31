@@ -1,0 +1,42 @@
+{
+    "page_content": [
+        {
+            "section_name": "17. One key only",
+            "parent_section_name": "[missing]",
+            "text": "A safe lockout procedure ensures each person working on the plant must have their own lock, key and tag. There should be no duplicate key available for any lock, except a secured not readily available master or duplicate key for use in an emergency.\n\nDuring cleaning, repairs, maintenance or adjustment of the plant, the one key to each person\u2019s lock must be held only by that person, who is responsible for both locking and unlocking the lockout device.\n\nThis procedure minimises the risk of the lock being inadvertently opened or removed, energy being restored and plant re-starting, placing those working on the plant at high risk.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "18. More than one energy source",
+            "parent_section_name": "[missing]",
+            "text": "If more than one energy source or hazard has to be locked out to enable safe shutdown of the plant, the single key to each lockout device should be held by the same person.\n\nIf two or more people are working on plant that is isolated through several lockout points, each person must attach a lock and tag to each lockout point. To avoid the need for people to carry several keys, it is advisable that each person\u2019s locks respond to a single key.\n\nMaster or duplicate keys must be kept in a secure place away from the work area, under the strict control of a senior person who must ensure they are used only in an emergency.\n\nThe above describes the common lock-out system in use at most work places. \u2018Captured key\u2019 systems and group lock-out systems are also acceptable.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "19. Tagging",
+            "parent_section_name": "[missing]",
+            "text": "A tag is NOT in itself an effective isolation device. A tag acts only as a means of providing information to others at the workplace. When practicable, a lock must be used in preference to a tag as an isolation device.\n\nA personal danger tag should accompany each lock used in an isolation procedure and identify the person who put the tag and lock in place, the time and date this occurred and the item of plant being isolated. In a large workplace it should also identify the work group of the person who attached the tag.\n\nThe tag system requires a notice to warn personnel against using the equipment to which a tag is attached. No one should interfere with or operate any tagged equipment such as a main switch, push button or other electrical device until the item has been cleared for safe operation and the attached tag has been removed. The tag must only be removed by the person who attached it, or by the \u2018authorised person\u2019 in accordance with an approved procedure. The \u2018authorised person\u2019 is responsible for ensuring procedures affecting the use of tags are followed.\n\nLocks are available that have a personal danger tag incorporated to ensure that the tag can only be removed by the person who put the lock in place.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "20. Tags in common use",
+            "parent_section_name": "[missing]",
+            "text": "The following types of tags are commonly used when a piece of plant is isolated from other equipment or plant.\n\nPersonal danger tags\nA personal danger tag (red and white) must be attached to an isolator whenever the device is used to lock out an energy source to allow work to be done.\n\nThese tags should be restricted to people who will be working on the equipment. A personal danger tag on the isolation devices of an item of equipment is a warning that the equipment is in an unsafe condition and that operation of that equipment may endanger the person who attached the tag.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        }
+    ],
+    "page_header": "GUIDANCE NOTE ISOLATION OF PLANT",
+    "page_footer": "[missing]",
+    "page_number": "8",
+    "document_title": "Guidance note Isolation of plant 2010",
+    "document_summary": "The guidance note issued by the Commission for Occupational Safety and Health in Western Australia focuses on the isolation of plant to prevent workplace injuries. It outlines legislative frameworks, basic principles, and procedures for isolating plant, including risk management and alternative measures when isolation is not practicable. The document emphasizes the importance of strict adherence to isolation procedures and provides detailed steps for identifying and managing energy sources and other hazards. It also outlines the responsibilities of employers and workers under the Occupational Safety and Health Act 1984, and includes information on various isolation devices, tagging systems, and procedures for safely de-energizing equipment, along with additional resources and contact information for further assistance.",
+    "page_sequence_number": 14
+}

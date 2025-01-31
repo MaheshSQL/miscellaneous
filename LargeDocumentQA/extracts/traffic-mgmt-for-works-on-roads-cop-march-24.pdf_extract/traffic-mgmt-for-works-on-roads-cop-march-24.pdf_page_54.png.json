@@ -1,0 +1,50 @@
+{
+    "page_content": [
+        {
+            "section_name": "6.8.2 Avoiding End of Queue Collisions",
+            "parent_section_name": "[missing]",
+            "text": "Once the traffic management designer has gained the above information the expected queue length should be predicted using the following steps:\n1. Determine the hourly traffic volume in the direction of travel at the time of the works14;\n2. Divide the hourly traffic volume by 60 to determine the vehicles expected every minute;\n3. Determine the length of time to the nearest minute that vehicles will be required to stop (this includes stop time for work reasons and clearance times);\n4. Multiply this number by the vehicles expected per minute (i.e. vehicles per minute X number of minutes);\n5. Determine the types of vehicles that will be using the road and multiply its length by the number (include a 3 m space between each vehicle):\n\nNote: When determining expected queue length any decimals should be round up e.g. if it calculated that 1.5 trucks will be stopped during the stopping time, this should be round up to 2 trucks (i.e. there cannot be half a truck in the queue).",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "6.8.2 Avoiding End of Queue Collisions",
+            "parent_section_name": "[missing]",
+            "text": "<table><tr><th>Vehicle Type</th><th>Approximate length</th></tr><tr><td>Car</td><td>5.5 m</td></tr><tr><td>Truck / Bus</td><td>19 m</td></tr><tr><td>Trucks (RAV 2-4)</td><td>27.5 m</td></tr><tr><td>Road Train / B Double</td><td>36.5 m</td></tr><tr><td>Triple Road Train / Large Combination</td><td>53.5 m</td></tr><tr><td>Quad Road Train</td><td>60 m</td></tr></table>",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "true"
+        },
+        {
+            "section_name": "End of Queue Protection",
+            "parent_section_name": "[missing]",
+            "text": "The PREPARE TO STOP sign must be placed a minimum distance as shown in table 12 in advance of the end of the queue when the permanent posted speed is greater than 70 km/h or the sight distance of approaching traffic to the end of the queue is:\n\u2022 less than two times the speed limit in open road areas\n\u2022 less than 1.5 times the speed limit in built-up areas.\n\nIt is important to ensure adequate Stopping Sight Distance is provided to the PREPARE TO STOP sign and the end of queue. This is the distance required to allow a driver to react and stop their vehicle, this distance will generally be the distance shown in table 12 however if there are downgrades, large vehicles, poor surface condition, etc. the stopping distance will exceed these distances (for more details on Stopping Sight Distance see Austroads Guide to Road Design Part 3).",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "End of Queue Protection",
+            "parent_section_name": "[missing]",
+            "text": "<table><tr><th>Speed (km/h)</th><th>Distance (m)</th></tr><tr><td>50 or less</td><td>30</td></tr><tr><td>60</td><td>90</td></tr><tr><td>70 or more</td><td>2 times the speed (km/h)</td></tr></table>",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "true"
+        },
+        {
+            "section_name": "End of Queue Protection",
+            "parent_section_name": "[missing]",
+            "text": "14 Traffic volumes can be provided by the relevant road authority. Where no traffic volumes are available the person preparing the plan should attend the site and count vehicles for a 5 minute period. Note that growth rates need to be considered when using data older than 12 months.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        }
+    ],
+    "page_header": "[missing]",
+    "page_footer": "MAIN ROADS Western Australia",
+    "page_number": "53",
+    "document_title": "Traffic Management for Works on Roads Code of Practice",
+    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works to ensure the safety of workers and road users. It includes standards for personnel competency, traffic management plans, risk management, and the use of traffic control devices. The document details specific requirements for signage, safety audits, and procedures for handling roadworks near sensitive areas. It also outlines the use of Truck Mounted Attenuators, shadow vehicles, and innovative traffic control devices, along with accreditation requirements for traffic management roles. Additionally, it provides an inventory and application schedule for various road signs used by Main Roads Western Australia.",
+    "page_sequence_number": 54
+}

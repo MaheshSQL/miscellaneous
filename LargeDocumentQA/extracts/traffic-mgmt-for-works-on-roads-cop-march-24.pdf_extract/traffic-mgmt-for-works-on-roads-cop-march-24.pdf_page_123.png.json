@@ -1,0 +1,18 @@
+{
+    "page_content": [
+        {
+            "section_name": "REGULATORY SERIES SIGNS",
+            "parent_section_name": "[missing]",
+            "text": "<table><tr><th>REG</th><th>Sign</th><th>Code</th><th>Size (mm)</th><th>Description</th></tr><tr><td>REG</td><td>BUSES EXCEPTED</td><td>MMS-REG-8</td><td>1200 x 300</td><td>BUSES EXCEPTED</td></tr><tr><td>REG</td><td>BICYCLES EXCEPTED</td><td>MMS-REG-9</td><td>1200 x 300</td><td>BICYCLES EXCEPTED</td></tr><tr><td>REG</td><td>AUTHORISED VEHICLES EXCEPTED</td><td>MMS-REG-10</td><td>600 x 600</td><td>AUTHORISED VEHICLES EXCEPTED</td></tr><tr><td>REG</td><td>BUSES AND TAXIS EXCEPTED</td><td>MMS-REG-11</td><td>600 x 600</td><td>BUSES AND TAXIS EXCEPTED</td></tr><tr><td>REG</td><td>BUSES AND BICYCLES EXCEPTED</td><td>MMS-REG-12</td><td>600 x 600</td><td>BUSES AND BICYCLES EXCEPTED</td></tr><tr><td>REG</td><td>AT STREET NAME</td><td>MMS-REG-13</td><td>600 x 600</td><td>AT STREET NAME</td></tr><tr><td>REG</td><td>BICYCLE LANE CLOSED (SYMBOLIC)</td><td>MMS-REG-14</td><td>600 x 600</td><td>BICYCLE LANE CLOSED (SYMBOLIC)</td></tr><tr><td>REG</td><td>STOP HERE ON RED SIGNAL</td><td>MMS-REG-15</td><td>1200 x 600</td><td>STOP HERE ON RED SIGNAL</td></tr></table>",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "true",
+            "contains_table": "true"
+        }
+    ],
+    "page_header": "OFFICIAL",
+    "page_footer": "Multi-Message Sign Inventory and Application Schedule",
+    "page_number": "22",
+    "document_title": "Traffic Management for Works on Roads Code of Practice",
+    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works to ensure the safety of workers and road users. It includes standards for personnel competency, traffic management plans, risk management, and the use of traffic control devices. The document details specific requirements for signage, safety audits, and procedures for handling roadworks near sensitive areas. It also outlines the use of Truck Mounted Attenuators, shadow vehicles, and innovative traffic control devices, along with accreditation requirements for traffic management roles. Additionally, it provides an inventory and application schedule for various road signs used by Main Roads Western Australia.",
+    "page_sequence_number": 123
+}

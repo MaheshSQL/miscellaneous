@@ -1,0 +1,26 @@
+{
+    "page_content": [
+        {
+            "section_name": "My guest account has been given access to an Azure OpenAI resource, but I'm unable to access that resource in the Azure AI Foundry portal. How do I enable access?",
+            "parent_section_name": "[missing]",
+            "text": "This is expected behavior when using the default sign-in experience for the Azure AI Foundry.\nTo access Azure AI Foundry from a guest account that has been granted access to an Azure OpenAI resource:\n1. Open a private browser session and then navigate to https://ai.azure.com.\n2. Rather than immediately entering your guest account credentials instead select Sign-in options\n3. Now select Sign in to an organization\n4. Enter the domain name of the organization that granted your guest account access to the Azure OpenAI resource.\n5. Now sign-in with your guest account credentials.\nYou should now be able to access the resource via the Azure AI Foundry portal.\nAlternatively if you're signed into the Azure portal from the Azure OpenAI resource's Overview pane you can select Go to Azure AI Foundry to automatically sign in with the appropriate organizational context.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "When I ask GPT-4 which model it's running, it tells me it's running GPT-3. Why does this happen?",
+            "parent_section_name": "[missing]",
+            "text": "Azure OpenAI models (including GPT-4) being unable to correctly identify what model is running is expected behavior.\nWhy does this happen?\nUltimately, the model is performing next token prediction in response to your question. The model doesn't have any native ability to query what model version is currently being run to answer your question. To answer this question, you can always go to Azure AI",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        }
+    ],
+    "page_header": "Azure OpenAI Service frequently asked questions - Azure AI services | Microsoft Learn",
+    "page_footer": "[missing]",
+    "page_number": "4",
+    "document_title": "Azure OpenAI Service frequently asked questions",
+    "document_summary": "The document is a comprehensive FAQ for Azure OpenAI Service, addressing data privacy, API headers, model support, and capabilities. It clarifies that customer data is not used to retrain models and supports the latest GPT-4 models, including GPT-4 Turbo with Vision for image-related tasks. The document provides guidance on fine-tuning models, deploying with REST API, and handling common errors. It also covers data storage, encryption, usage policies, costs, and geographical data storage specifics, along with responsible AI practices and the Azure OpenAI on your data feature.",
+    "page_sequence_number": 4
+}

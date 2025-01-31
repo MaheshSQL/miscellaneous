@@ -1,0 +1,285 @@
+{
+    "name": "large-document-qa",
+    "fields": [
+        {
+            "name": "id",
+            "type": "Edm.String",
+            "searchable": false,
+            "filterable": false,
+            "retrievable": true,
+            "stored": true,
+            "sortable": false,
+            "facetable": false,
+            "key": true,
+            "synonymMaps": []
+        },
+        {
+            "name": "file_name",
+            "type": "Edm.String",
+            "searchable": false,
+            "filterable": true,
+            "retrievable": true,
+            "stored": true,
+            "sortable": false,
+            "facetable": false,
+            "key": false,
+            "synonymMaps": []
+        },
+        {
+            "name": "section",
+            "type": "Edm.String",
+            "searchable": true,
+            "filterable": false,
+            "retrievable": true,
+            "stored": true,
+            "sortable": false,
+            "facetable": false,
+            "key": false,
+            "analyzer": "standard.lucene",
+            "synonymMaps": []
+        },
+        {
+            "name": "parent_section",
+            "type": "Edm.String",
+            "searchable": true,
+            "filterable": false,
+            "retrievable": true,
+            "stored": true,
+            "sortable": false,
+            "facetable": false,
+            "key": false,
+            "analyzer": "standard.lucene",
+            "synonymMaps": []
+        },
+        {
+            "name": "text_content",
+            "type": "Edm.String",
+            "searchable": true,
+            "filterable": false,
+            "retrievable": true,
+            "stored": true,
+            "sortable": false,
+            "facetable": false,
+            "key": false,
+            "analyzer": "standard.lucene",
+            "synonymMaps": []
+        },
+        {
+            "name": "image_flag",
+            "type": "Edm.Boolean",
+            "searchable": false,
+            "filterable": true,
+            "retrievable": true,
+            "stored": true,
+            "sortable": false,
+            "facetable": false,
+            "key": false,
+            "synonymMaps": []
+        },
+        {
+            "name": "page_sequence_number",
+            "type": "Edm.Int32",
+            "searchable": false,
+            "filterable": true,
+            "retrievable": true,
+            "stored": true,
+            "sortable": false,
+            "facetable": false,
+            "key": false,
+            "synonymMaps": []
+        },
+        {
+            "name": "page_number",
+            "type": "Edm.Int32",
+            "searchable": false,
+            "filterable": true,
+            "retrievable": true,
+            "stored": true,
+            "sortable": false,
+            "facetable": false,
+            "key": false,
+            "synonymMaps": []
+        },
+        {
+            "name": "page_image_path",
+            "type": "Edm.String",
+            "searchable": false,
+            "filterable": false,
+            "retrievable": true,
+            "stored": true,
+            "sortable": false,
+            "facetable": false,
+            "key": false,
+            "synonymMaps": []
+        },
+        {
+            "name": "document_summary",
+            "type": "Edm.String",
+            "searchable": false,
+            "filterable": false,
+            "retrievable": true,
+            "stored": true,
+            "sortable": false,
+            "facetable": false,
+            "key": false,
+            "synonymMaps": []
+        },
+        {
+            "name": "user_id",
+            "type": "Edm.String",
+            "searchable": false,
+            "filterable": true,
+            "retrievable": true,
+            "stored": true,
+            "sortable": false,
+            "facetable": false,
+            "key": false,
+            "synonymMaps": []
+        },
+        {
+            "name": "section_vector",
+            "type": "Collection(Edm.Single)",
+            "searchable": true,
+            "filterable": false,
+            "retrievable": false,
+            "stored": true,
+            "sortable": false,
+            "facetable": false,
+            "key": false,
+            "dimensions": 1536,
+            "vectorSearchProfile": "vector-profile-large-doc-qa",
+            "synonymMaps": []
+        },
+        {
+            "name": "parent_section_vector",
+            "type": "Collection(Edm.Single)",
+            "searchable": true,
+            "filterable": false,
+            "retrievable": false,
+            "stored": true,
+            "sortable": false,
+            "facetable": false,
+            "key": false,
+            "dimensions": 1536,
+            "vectorSearchProfile": "vector-profile-large-doc-qa",
+            "synonymMaps": []
+        },
+        {
+            "name": "text_content_vector",
+            "type": "Collection(Edm.Single)",
+            "searchable": true,
+            "filterable": false,
+            "retrievable": false,
+            "stored": true,
+            "sortable": false,
+            "facetable": false,
+            "key": false,
+            "dimensions": 1536,
+            "vectorSearchProfile": "vector-profile-large-doc-qa",
+            "synonymMaps": []
+        },
+        {
+            "name": "file_path",
+            "type": "Edm.String",
+            "searchable": false,
+            "filterable": true,
+            "retrievable": true,
+            "stored": true,
+            "sortable": false,
+            "facetable": false,
+            "key": false,
+            "synonymMaps": []
+        },
+        {
+            "name": "extracted_title",
+            "type": "Edm.String",
+            "searchable": true,
+            "filterable": false,
+            "retrievable": true,
+            "stored": true,
+            "sortable": false,
+            "facetable": false,
+            "key": false,
+            "analyzer": "standard.lucene",
+            "synonymMaps": []
+        }
+    ],
+    "scoringProfiles": [],
+    "suggesters": [],
+    "analyzers": [],
+    "normalizers": [],
+    "tokenizers": [],
+    "tokenFilters": [],
+    "charFilters": [],
+    "similarity": {
+        "@odata.type": "#Microsoft.Azure.Search.BM25Similarity"
+    },
+    "semantic": {
+        "configurations": [
+            {
+                "name": "semantic-large-doc-qa",
+                "prioritizedFields": {
+                    "titleField": {
+                        "fieldName": "extracted_title"
+                    },
+                    "prioritizedContentFields": [
+                        {
+                            "fieldName": "text_content"
+                        },
+                        {
+                            "fieldName": "section"
+                        },
+                        {
+                            "fieldName": "parent_section"
+                        }
+                    ],
+                    "prioritizedKeywordsFields": [
+                        {
+                            "fieldName": "section"
+                        },
+                        {
+                            "fieldName": "parent_section"
+                        },
+                        {
+                            "fieldName": "file_name"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "vectorSearch": {
+        "algorithms": [
+            {
+                "name": "vector-config-large-doc-qa",
+                "kind": "hnsw",
+                "hnswParameters": {
+                    "metric": "cosine",
+                    "m": 4,
+                    "efConstruction": 400,
+                    "efSearch": 500
+                }
+            }
+        ],
+        "profiles": [
+            {
+                "name": "vector-profile-large-doc-qa",
+                "algorithm": "vector-config-large-doc-qa",
+                "vectorizer": "vectorizer-large-doc-qa"
+            }
+        ],
+        "vectorizers": [
+            {
+                "name": "vectorizer-large-doc-qa",
+                "kind": "azureOpenAI",
+                "azureOpenAIParameters": {
+                    "resourceUri": "https://XXXXX.openai.azure.com",
+                    "deploymentId": "text-embedding-ada-002-2",
+                    "apiKey": "<redacted>",
+                    "modelName": "text-embedding-ada-002"
+                }
+            }
+        ],
+        "compressions": []
+    }
+}

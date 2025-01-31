@@ -1,0 +1,42 @@
+{
+    "page_content": [
+        {
+            "section_name": "10. Isolating energy sources",
+            "parent_section_name": "[missing]",
+            "text": "NOTE\nIn some circumstances electrical isolators may only isolate control circuits \u2013 this is not sufficient for the safety of people required to work on the equipment.\nThe mains power source feeding the plant must be isolated.\nFor example, a piece of plant is connected via a switch panel to the main power board. Not only does the switch panel need to be isolated but also the circuit feeding the panel from the main power board.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "[missing]",
+            "parent_section_name": "[missing]",
+            "text": "Care must be taken to ensure all electricity sources are identified and isolated as some equipment will have several control stations and sections which could have independent electricity sources. If programmable logic devices are used to control the equipment, then it is essential to use local isolating switches as the means to achieve secure and safe isolation. It is not acceptable to rely on the controls of the programmable logic devices for the isolation of equipment.\nIsolating programs with step by step instructions must be developed and implemented wherever there is a danger of the plant being operated during periods of maintenance etc.\nIsolating the electricity supply to an item of plant must include checking that the electrical supply has been isolated, not just the control circuit, and disconnected if necessary by an electrician. There should be no possibility of the plant being inadvertently energised via another source or control system.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "11. Identify all isolation points",
+            "parent_section_name": "[missing]",
+            "text": "All plant of a type that could require an isolation procedure should be designed with appropriate isolation points for its energy sources to enable work on the plant to be carried out safely.\nIt is important to identify all isolation points in a system as it may be necessary to use a local isolator to shut down a specific part of the machine such as a motor while the remainder of the plant remains in operation. Clear identification markings or labels of the isolation points may be required, where this could assist the isolator select the correct isolation point, particularly where there could be the potential to make an error.\nEmergency stop buttons, lanyards and similar quick-stop devices on their own will not necessarily achieve isolation. It is dangerous to rely solely on emergency stopping devices as they are not designed for frequent use and cannot be locked out in all cases. Emergency stopping devices may allow energy to be inadvertently re-activated and may also allow control circuits to remain live.\nRemote control rooms and process computers should be considered when identifying isolation points.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "12. Fluid, steam and pneumatic energy",
+            "parent_section_name": "[missing]",
+            "text": "Isolation of fluid, steam and pneumatic energy sources is usually achieved by closing a valve. Care needs to be taken to ensure that isolation is effectively achieved as some valves may be automatically or remotely controlled by computers. Blanking or the use of spades may be the safest approach. Some examples of fluids that may be encountered include caustic or acid solutions, gas, solvents, mineral slurries or water at varying pressure or temperature.\nIt may be necessary to drain pipes and lines leading to the plant, to prevent workers being exposed to hazardous gases, liquids or covered by small solids eg. mineral ore, sand or grain. It may also be necessary to break an air lock to allow fluid to drain away to avoid the possibility of the air lock breaking and fluid engulfing workers while work is being done. Compressed air held in lines connected to the plant needs to be released safely. Plant should incorporate the means to deal safely with fluids and pneumatic gases. Materials that are gravity fed should also be addressed.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        }
+    ],
+    "page_header": "GUIDANCE NOTE ISOLATION OF PLANT",
+    "page_footer": "[missing]",
+    "page_number": "6",
+    "document_title": "Guidance note Isolation of plant 2010",
+    "document_summary": "The guidance note issued by the Commission for Occupational Safety and Health in Western Australia focuses on the isolation of plant to prevent workplace injuries. It outlines legislative frameworks, basic principles, and procedures for isolating plant, including risk management and alternative measures when isolation is not practicable. The document emphasizes the importance of strict adherence to isolation procedures and provides detailed steps for identifying and managing energy sources and other hazards. It also outlines the responsibilities of employers and workers under the Occupational Safety and Health Act 1984, and includes information on various isolation devices, tagging systems, and procedures for safely de-energizing equipment, along with additional resources and contact information for further assistance.",
+    "page_sequence_number": 12
+}

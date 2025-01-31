@@ -1,0 +1,34 @@
+{
+    "page_content": [
+        {
+            "section_name": "TABLE A2-2 WHS QUALITATIVE MEASURES OF CONSEQUENCE OR IMPACT",
+            "parent_section_name": "[missing]",
+            "text": "<table><tr><th>Level</th><th>Consequence</th><th>Description</th></tr><tr><td>1</td><td>Insignificant</td><td>No treatment required</td></tr><tr><td>2</td><td>Minor</td><td>First aid treatment required.</td></tr><tr><td>3</td><td>Moderate</td><td>Medical treatment required or Lost Time Injury</td></tr><tr><td>4</td><td>Major</td><td>Single fatality or major injuries or severe permanent disablement</td></tr><tr><td>5</td><td>Catastrophic</td><td>Multiple fatalities.</td></tr></table>",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "true"
+        },
+        {
+            "section_name": "TABLE A2-3 \u2013 QUALITATIVE MEASURES OF LIKELIHOOD",
+            "parent_section_name": "[missing]",
+            "text": "<table><tr><th>Likelihood</th><th>Description</th></tr><tr><td>Rare</td><td>The event or hazard: may occur only in exceptional circumstances, will probably occur with a frequency of less than 0.02 times per year (i.e. less than once in 50 years).</td></tr><tr><td>Unlikely</td><td>The event or hazard: could occur at some time, will probably occur with a frequency of 0.02 to 0.1 times per year (i.e. once in 10 to 50 years).</td></tr><tr><td>Possible</td><td>The event or hazard: might occur at some time, will probably occur with a frequency of 0.1 to 1 times per year (i.e. once in 1 to 10 years).</td></tr><tr><td>Likely</td><td>The event or hazard: will probably occur in most circumstances, will probably occur with a frequency of between 1 and 10 times per year.</td></tr><tr><td>Almost certain</td><td>The event or hazard: is expected to occur in most circumstances, will probably occur with a frequency in excess of 10 times per year.</td></tr></table>",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "true"
+        },
+        {
+            "section_name": "TABLE A2-3 \u2013 QUALITATIVE MEASURES OF LIKELIHOOD",
+            "parent_section_name": "[missing]",
+            "text": "IMPORTANT NOTE: The likelihood of an event or hazard occurring must first be assessed over the duration of the activity (i.e. \u201cperiod of exposure\u201d). For risk assessment purposes the assessed likelihood must then be proportioned for a \u201cperiod of exposure\u201d of one year. Example: An activity has a duration of 6 weeks (i.e. \u201cperiod of exposure\u201d = 6 weeks). The event or hazard being considered is assessed as likely to occur once every 20 times the activity occurs (i.e. likelihood or frequency = 1 event/20 times activity occurs = 0.05 times per activity). Assessed annual likelihood or frequency = 0.05 times per activity x 52 weeks/6 weeks = 0.4 times per year. Assessed likelihood = Possible.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        }
+    ],
+    "page_header": "[missing]",
+    "page_footer": "MAIN ROADS Western Australia",
+    "page_number": "vii",
+    "document_title": "Traffic Management for Works on Roads Code of Practice",
+    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works to ensure the safety of workers and road users. It includes standards for personnel competency, traffic management plans, risk management, and the use of traffic control devices. The document details specific requirements for signage, safety audits, and procedures for handling roadworks near sensitive areas. It also outlines the use of Truck Mounted Attenuators, shadow vehicles, and innovative traffic control devices, along with accreditation requirements for traffic management roles. Additionally, it provides an inventory and application schedule for various road signs used by Main Roads Western Australia.",
+    "page_sequence_number": 93
+}

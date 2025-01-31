@@ -1,0 +1,66 @@
+{
+    "page_content": [
+        {
+            "section_name": "6.11 TRAFFIC VOLUME",
+            "parent_section_name": "[missing]",
+            "text": "AGTTM Part 2 Traffic Management Planning (table 3.1) and Part 3 Static Worksites (table 2.4) provide details on the number of traffic lanes to be provided, these requirements are accepted in WA, the below table applies if varying from the desirable number of open lanes required in AGTTM. Approval for any variation to the traffic volume requirements detailed in AGTTM must be obtained from the relevant Road Infrastructure Manager.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "6.11 TRAFFIC VOLUME",
+            "parent_section_name": "[missing]",
+            "text": "<table><tr><th>Vehicles per hour per lane (AGTTM)</th><th>Vehicles per hour per lane AWTM to undertake a Variation to Standard</th><th>Vehicles per hour per lane RTM to undertake a Variation to Standard</th></tr><tr><td>Mid-block (one direction)</td><td>1000 or less</td><td>Less than 1350</td><td>1350 or more</td></tr><tr><td>Within 200 m of an intersection** (one direction)</td><td>500* or less</td><td>Less than 675</td><td>675 or more</td></tr></table>",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "true"
+        },
+        {
+            "section_name": "6.11 TRAFFIC VOLUME",
+            "parent_section_name": "[missing]",
+            "text": "Table 19 \u2013 Variations to traffic volumes\n*Prohibit right turns out of a single lane if the proportion of heavy vehicles and the volume of opposing traffic is high. Seek further assistance if needed.\n**As per AGTTM \u2018The word intersection applies where traffic in the considered direction is controlled by signals, a roundabout, stop/give way controls or other control devices.\u2019",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "6.11 TRAFFIC VOLUME",
+            "parent_section_name": "[missing]",
+            "text": "The traffic volumes shown in the table may need to be reduced under certain conditions as described below (taken direct from AGTTM for clarity):\n\u2022 Reduced by 30% if the pavement surface is rough or unsealed.\n\u2022 Reduced by 50% if the horizontal geometry through the work site is reduced to a speed value of less than 40 km/h.\n\u2022 Reduced by 20% if the volume of heavy vehicles exceeds 10% and the road is downward, level or easy upgrade.\n\u2022 Reduced by 40% if the volume of heavy vehicles exceeds 10% and the road has sustained upgrade > 5%.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "Traffic Volumes on Freeways and Grade Separated Motorways",
+            "parent_section_name": "[missing]",
+            "text": "Roads with grade separation generally allow traffic to move more freely with fewer interruptions, therefor the below table may be used when determining the number of lanes to be provided. This table recognises that limiting the speed reductions on these roads may allow for a greater volume of traffic.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "Traffic Volumes on Freeways and Grade Separated Motorways",
+            "parent_section_name": "[missing]",
+            "text": "<table><tr><th>Maximum vehicles per hour per lane (one direction)</th><th>Between ramps</th><th>Within 200m of an entry-ramp* Maximum vehicles per hour per lane (one direction)</th></tr><tr><td>40 km/h</td><td>1200</td><td>700</td></tr><tr><td>60 km/h</td><td>1400</td><td>900</td></tr><tr><td>80 km/h</td><td>1600</td><td>1100</td></tr></table>",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "true"
+        },
+        {
+            "section_name": "Traffic Volumes on Freeways and Grade Separated Motorways",
+            "parent_section_name": "[missing]",
+            "text": "Table 20: Traffic volumes on Grade Separated Roads\n*Applies from the start of the end of the gore area and start of the continuity or lane line see figure 7 below. This does not apply where the entry-ramp becomes an additional lane.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        }
+    ],
+    "page_header": "[missing]",
+    "page_footer": "MAIN ROADS Western Australia",
+    "page_number": "65",
+    "document_title": "Traffic Management for Works on Roads Code of Practice",
+    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works to ensure the safety of workers and road users. It includes standards for personnel competency, traffic management plans, risk management, and the use of traffic control devices. The document details specific requirements for signage, safety audits, and procedures for handling roadworks near sensitive areas. It also outlines the use of Truck Mounted Attenuators, shadow vehicles, and innovative traffic control devices, along with accreditation requirements for traffic management roles. Additionally, it provides an inventory and application schedule for various road signs used by Main Roads Western Australia.",
+    "page_sequence_number": 66
+}

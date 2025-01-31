@@ -1,0 +1,42 @@
+{
+    "page_content": [
+        {
+            "section_name": "6.17 APPROACH TAPERS",
+            "parent_section_name": "[missing]",
+            "text": "Lateral shifts or merge tapers have the potential for upstream congestion due to cautionary braking. For this reason, the taper lengths specified in Table 5.7 of AGTTM Part 3 are to be increased at long term works on high volume State Roads with a roadwork speed limit \u2265 80 km/h. Lateral shift tapers should not be less than 1:40 and merge tapers no less than 1:50. For example, a lane requiring a 3.2m lateral shift will require a taper length of at least 128m and 3.2m wide merged lanes will require a merge taper of at least 160m.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "Merges at Entry Ramps",
+            "parent_section_name": "6.17 APPROACH TAPERS",
+            "text": "Austroads Guide to Road Design Part 4C requires the following when traffic enters a major road from an entry ramp: \n\u2022 Mutual visibility between the driver on the major road and a driver on the entry ramp. \no Minimum of 4 seconds of travel at respective operating speeds prior to point where merging lanes are separated by 1 m (1.1 m eye height) \n\u2022 Parallel section to provide road users an opportunity to merge after reaching the major road speed. \no Minimum of 4 seconds of travel time. \n\u2022 Merge taper. \no Minimum 0.6 m/s lateral shift. \n\u2022 Run-out area to accommodate those vehicles prevented from merging as they approach the narrowed section. \no Maintaining a total pavement width in the direction of travel equal to at least the sum of the full lane width plus a sealed shoulder width of 2.0 m over the full length of the taper plus a 3.0 m shoulder for a distance of at least 30 m beyond the end.",
+            "image_diagram_summary": "Figure 15: Entry Ramp. The diagram illustrates the layout of an entry ramp with sections labeled as Gore area, Parallel Section, Merge Taper, and Run-out area. The image uses arrows and dashed lines to show the flow of traffic and the transition between different sections. #arrows #dashedlines #trafficflow",
+            "contains_image_diagam": "true",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "Merges at Entry Ramps",
+            "parent_section_name": "6.17 APPROACH TAPERS",
+            "text": "All entry ramp merges at long term works should be in accordance with Austroads Guide to Road Design:",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "Merges at Entry Ramps",
+            "parent_section_name": "6.17 APPROACH TAPERS",
+            "text": "<table><tr><th>Speed (km/h)</th><th>Mutual Visibility</th><th>Parallel Section</th><th>Merge Taper</th><th>Run-out area\u00b9</th></tr><tr><td>80</td><td>90</td><td>90</td><td>130</td><td>30</td></tr><tr><td>90</td><td>100</td><td>100</td><td>145</td><td>30</td></tr><tr><td>100</td><td>115</td><td>115</td><td>160</td><td>30</td></tr></table>\u00b9Run out area distance beyond the end of the merge taper.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "true"
+        }
+    ],
+    "page_header": "[missing]",
+    "page_footer": "MAIN ROADS Western Australia",
+    "page_number": "74",
+    "document_title": "Traffic Management for Works on Roads Code of Practice",
+    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works to ensure the safety of workers and road users. It includes standards for personnel competency, traffic management plans, risk management, and the use of traffic control devices. The document details specific requirements for signage, safety audits, and procedures for handling roadworks near sensitive areas. It also outlines the use of Truck Mounted Attenuators, shadow vehicles, and innovative traffic control devices, along with accreditation requirements for traffic management roles. Additionally, it provides an inventory and application schedule for various road signs used by Main Roads Western Australia.",
+    "page_sequence_number": 75
+}

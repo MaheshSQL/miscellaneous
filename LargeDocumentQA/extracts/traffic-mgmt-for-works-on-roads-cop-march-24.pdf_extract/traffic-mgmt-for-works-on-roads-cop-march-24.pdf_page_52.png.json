@@ -1,0 +1,42 @@
+{
+    "page_content": [
+        {
+            "section_name": "6.8.1 Advanced Warning Signs",
+            "parent_section_name": "[missing]",
+            "text": "Where traffic may be required to stop due to traffic control, the PREPARE TO STOP sign must be used in conjunction with the Traffic Controller (Symbolic), Signals Ahead or Boom Barrier sign (depending on the method of traffic control). Where possible the signs should be positioned side by side with the PREPARE TO STOP sign closest to the travel way.\n\nThe position of the PREPARE TO STOP sign and Traffic Controller (Symbolic), Signals Ahead or Boom Barrier sign must be according to the local prevailing conditions, it is recommended they be placed a minimum distance as shown in table 10 in advance of the Traffic Control station.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "6.8.1 Advanced Warning Signs",
+            "parent_section_name": "[missing]",
+            "text": "<table><tr><th>Speed (km/h)</th><th>Distance (m)</th></tr><tr><td>50 or less</td><td>30</td></tr><tr><td>60</td><td>45</td></tr><tr><td>70 or more</td><td>Equal to the speed (km/h)</td></tr></table>",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "true"
+        },
+        {
+            "section_name": "6.8.1 Advanced Warning Signs",
+            "parent_section_name": "[missing]",
+            "text": "Note: Refer section 6.8.2 for avoiding end of queue collisions.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "Figure 3: Placement of Traffic Controller Warning Signs (when using side by side)",
+            "parent_section_name": "[missing]",
+            "text": "Notes:\n1. Does not include all required signs and devices\n2. Signs may need to be placed on both sides of the carriageway.",
+            "image_diagram_summary": "Figure 3 shows a layout of traffic control signs including PREPARE TO STOP, ROADWORK AHEAD, and Traffic Control Station. The diagram includes directional arrows and labels indicating the positions of signs and vehicles. #trafficcontrol #signage #roadwork",
+            "contains_image_diagam": "true",
+            "contains_table": "false"
+        }
+    ],
+    "page_header": "OFFICIAL",
+    "page_footer": "MAIN ROADS Western Australia",
+    "page_number": "51",
+    "document_title": "Traffic Management for Works on Roads Code of Practice",
+    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works to ensure the safety of workers and road users. It includes standards for personnel competency, traffic management plans, risk management, and the use of traffic control devices. The document details specific requirements for signage, safety audits, and procedures for handling roadworks near sensitive areas. It also outlines the use of Truck Mounted Attenuators, shadow vehicles, and innovative traffic control devices, along with accreditation requirements for traffic management roles. Additionally, it provides an inventory and application schedule for various road signs used by Main Roads Western Australia.",
+    "page_sequence_number": 52
+}

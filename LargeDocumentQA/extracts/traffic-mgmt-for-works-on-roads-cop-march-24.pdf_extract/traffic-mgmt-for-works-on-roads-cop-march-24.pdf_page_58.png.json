@@ -1,0 +1,34 @@
+{
+    "page_content": [
+        {
+            "section_name": "Table 14 \u2013 Example traffic control scenarios on roads where PTCDs are mandatory",
+            "parent_section_name": "[missing]",
+            "text": "A risk assessment must be conducted prior to considering the use of PTCD. This should examine duration of operation (set up time risk), what would happen in the event of failure assessing available sight distances, traffic volumes and traffic speeds. Mitigating factors must include regular inspections and having back up traffic controllers. Wherever back up traffic controllers are provided they must be positioned in a safe but prominent location to ensure drivers are aware that compliance with the PTCD is being observed.\n\nPTCDs are only permitted to control a single lane of traffic, when traffic control is required on multilane roads, merge/s should be introduced in advance so the PTCD is only managing one lane, or temporary fixed traffic signals must be installed where controlling multiple lanes of traffic.\n\nPTCDs must be either:\n\u2022 a portable traffic signal that complies with AS4191, or\n\u2022 a PTCD that has been approved for use by Main Roads.\n\nPTCD options include portable traffic signal systems (PTSS) and portable boom barriers. Both types of PTCDs have advantages and disadvantages. A combination of a boom barrier and traffic signal is likely to the best method for controlling traffic, i.e. motorists are more accustomed to traffic signals, the traffic signal aspect is more visible, and the boom barrier provides a physical barrier to prevent motorists running the red light. It is expected, in the near future, the use of a boom barrier and traffic signal combination will be recommended under certain conditions when stopping traffic at temporary traffic management sites, e.g., traffic speed, traffic volume, duration of works, etc.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "6.8.4 Traffic Controllers",
+            "parent_section_name": "[missing]",
+            "text": "Traffic Controllers are primarily used to manage, control and stop traffic where other signs and devices are considered insufficient. Accredited Traffic Controllers (see section 8) are required to operate in compliance with AGTTM Part 7: Traffic Controllers.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "6.8.5 Stop-Slow Bats",
+            "parent_section_name": "[missing]",
+            "text": "When using a Stop-Slow bat to control traffic the B size, 600 mm diameter, STOP/SLOW face should be used unless the use of the A size, 450 mm diameter, STOP/SLOW face is supported by a risk assessment e.g. due to windy conditions.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        }
+    ],
+    "page_header": "[missing]",
+    "page_footer": "MAIN ROADS Western Australia",
+    "page_number": "57",
+    "document_title": "Traffic Management for Works on Roads Code of Practice",
+    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works to ensure the safety of workers and road users. It includes standards for personnel competency, traffic management plans, risk management, and the use of traffic control devices. The document details specific requirements for signage, safety audits, and procedures for handling roadworks near sensitive areas. It also outlines the use of Truck Mounted Attenuators, shadow vehicles, and innovative traffic control devices, along with accreditation requirements for traffic management roles. Additionally, it provides an inventory and application schedule for various road signs used by Main Roads Western Australia.",
+    "page_sequence_number": 58
+}

@@ -1,0 +1,34 @@
+{
+    "page_content": [
+        {
+            "section_name": "APPENDIX 5 - Multi-Message Sign Inventory and Application Schedule",
+            "parent_section_name": "[missing]",
+            "text": "[missing]",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "SIGN APPLICATION AND DESCRIPTION",
+            "parent_section_name": "[missing]",
+            "text": "1. Sign panels must only be located in the frame location as shown.\n2. Left side multi-message sign shown only.\n3. Multi-message signs located on both sides of the roadway must form a mirrored image of the signs being displayed.\n4. For sign specification go to www.mainroads.wa.gov.au > Technical & Commercial > Technical Library > Signs Index > Multi Message Signs Standards\n5. For multi-message signs frame refer to Main Roads standard drawing 201031-0155.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "ADVANCE WARNING SERIES SIGNS",
+            "parent_section_name": "[missing]",
+            "text": "<table><tr><th>Group</th><th>Sign</th><th>Main Roads Sign Number</th><th>Panel Size (mm)</th><th>Sign Application and Description</th></tr><tr><td>A D V</td><td><img src='km_ahead.png' alt='km AHEAD'></td><td>MMS-ADV-1</td><td>1200 x 300</td><td>'X' km AHEAD<br>\u2022 Must not be used in conjunction with a regulatory speed sign.</td></tr><tr><td>A D V</td><td><img src='km_ahead_yellow.png' alt='km AHEAD'></td><td>MMS-ADV-2</td><td>600 x 600</td><td>'X' km AHEAD<br>\u2022 Must not be used in conjunction with a regulatory speed sign.<br>\u2022 Sign may be classified as symbolic.</td></tr><tr><td>A D V</td><td><img src='40_ahead.png' alt='40 AHEAD'></td><td>MMS-ADV-3</td><td>600 x 600</td><td>40 km/h AHEAD SYMBOLIC</td></tr><tr><td>A D V</td><td><img src='60_ahead.png' alt='60 AHEAD'></td><td>MMS-ADV-3</td><td>600 x 600</td><td>60 km/h AHEAD SYMBOLIC</td></tr><tr><td>A D V</td><td><img src='80_ahead.png' alt='80 AHEAD'></td><td>MMS-ADV-3</td><td>600 x 600</td><td>80 km/h AHEAD SYMBOLIC</td></tr><tr><td>A D V</td><td><img src='at_intersection.png' alt='AT INTERSECTION'></td><td>MMS-ADV-4</td><td>1200 x 300</td><td>AT INTERSECTION<br>\u2022 Must not be used in conjunction with a regulatory sign.</td></tr><tr><td>A D V</td><td><img src='at_signals.png' alt='AT SIGNALS'></td><td>MMS-ADV-5</td><td>1200 x 300</td><td>AT SIGNALS<br>\u2022 Must not be used in conjunction with a regulatory sign.</td></tr><tr><td>A D V</td><td><img src='blasting_area.png' alt='BLASTING AREA'></td><td>MMS-ADV-6</td><td>1200 x 600</td><td>BLASTING AREA SWITCH OFF RADIO TRANSMISSION<br>\u2022 Only to be used where the posted speed is less than or equal to 80km/h.</td></tr></table>",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "true",
+            "contains_table": "true"
+        }
+    ],
+    "page_header": "OFFICIAL",
+    "page_footer": "Multi-Message Sign Inventory and Application Schedule",
+    "page_number": "1",
+    "document_title": "Traffic Management for Works on Roads Code of Practice",
+    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works to ensure the safety of workers and road users. It includes standards for personnel competency, traffic management plans, risk management, and the use of traffic control devices. The document details specific requirements for signage, safety audits, and procedures for handling roadworks near sensitive areas. It also outlines the use of Truck Mounted Attenuators, shadow vehicles, and innovative traffic control devices, along with accreditation requirements for traffic management roles. Additionally, it provides an inventory and application schedule for various road signs used by Main Roads Western Australia.",
+    "page_sequence_number": 102
+}

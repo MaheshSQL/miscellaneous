@@ -1,0 +1,42 @@
+{
+    "page_content": [
+        {
+            "section_name": "6.5.2 Setting out Temporary Speed Zones",
+            "parent_section_name": "[missing]",
+            "text": "Table 6 - Placement of temporary speed limit signs",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "true"
+        },
+        {
+            "section_name": "6.5.2 Setting out Temporary Speed Zones",
+            "parent_section_name": "[missing]",
+            "text": "<table><tr><th>Approach Speed (km/h)</th><th>Works Area Speed (km/h)</th><th>80 km/h Speed Buffer Required</th><th>L1 (80km/h buffer) (m)</th><th>L2 (60km/h buffer) (m)</th><th>L3 (m)</th></tr><tr><td>110</td><td>80</td><td>No</td><td>N/A</td><td>N/A</td><td>220</td></tr><tr><td>60</td><td>Yes</td><td>300</td><td>N/A</td><td>160</td></tr><tr><td>40</td><td>Yes</td><td>300</td><td>200</td><td>90</td></tr><tr><td>100</td><td>80</td><td>No</td><td>N/A</td><td>N/A</td><td>200</td></tr><tr><td>60</td><td>Yes</td><td>300</td><td>N/A</td><td>160</td></tr><tr><td>40</td><td>Yes</td><td>300</td><td>200</td><td>90</td></tr><tr><td>90</td><td>80</td><td>No</td><td>N/A</td><td>N/A</td><td>180</td></tr><tr><td>60</td><td>No</td><td>N/A</td><td>N/A</td><td>180</td></tr><tr><td>40</td><td>No</td><td>N/A</td><td>200</td><td>90</td></tr><tr><td>80</td><td>60</td><td>No</td><td>N/A</td><td>N/A</td><td>160</td></tr><tr><td>40</td><td>No</td><td>N/A</td><td>200</td><td>90</td></tr><tr><td>70</td><td>60</td><td>No</td><td>N/A</td><td>N/A</td><td>70</td></tr><tr><td>40</td><td>No</td><td>N/A</td><td>N/A</td><td>70</td></tr><tr><td>60</td><td>40</td><td>No</td><td>N/A</td><td>N/A</td><td>45</td></tr></table>",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "true"
+        },
+        {
+            "section_name": "6.5.2 Setting out Temporary Speed Zones",
+            "parent_section_name": "[missing]",
+            "text": "Notes: These spacings are required for the majority of scenarios. However, where a risk assessment determines that spacings need to be changed they must be changed in line with AS1742.3 and AGTTM Part 3. The reduced speed zone should be as short as possible and should not commence so far prior to the hazard (or workers) that drivers start to disregard the speed limit. The distance provided in L3 indicates the distance from the speed limit sign to the hazard, this is a balance between ensuring drivers can reduce speed prior to a hazard and not making that distance so long that compliance becomes an issue. Where it is unsafe for the buffer speed zones to be applied (e.g. unsealed roads) \u2018speed limit ahead\u2019 signs must be used in place of the buffer speed zones (see AGTTM Part 3). Signs installed within zones must be spaced in accordance with AGTTM. A safety buffer must be provided in accordance with AGTTM.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "6.5.3 Selecting Temporary Speed Limits on State Roads",
+            "parent_section_name": "[missing]",
+            "text": "AS1742.3 specifies that \u201cThe temporary speed zone shall apply only while the relevant conditions exist. It shall be removed as soon as practical after the need for its imposition passes\u201d. This typically means that if the speed limit has been implemented for road worker safety, a higher speed limit will be required when road workers are not present. AGTTM provides guidance on the conditions warranting temporary speed limits at road works. The speed selected may impact on the efficiency of traffic flows and driver compliance at the road work site.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        }
+    ],
+    "page_header": "[missing]",
+    "page_footer": "MAIN ROADS Western Australia",
+    "page_number": "46",
+    "document_title": "Traffic Management for Works on Roads Code of Practice",
+    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works to ensure the safety of workers and road users. It includes standards for personnel competency, traffic management plans, risk management, and the use of traffic control devices. The document details specific requirements for signage, safety audits, and procedures for handling roadworks near sensitive areas. It also outlines the use of Truck Mounted Attenuators, shadow vehicles, and innovative traffic control devices, along with accreditation requirements for traffic management roles. Additionally, it provides an inventory and application schedule for various road signs used by Main Roads Western Australia.",
+    "page_sequence_number": 47
+}

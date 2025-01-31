@@ -1,0 +1,58 @@
+{
+    "page_content": [
+        {
+            "section_name": "How much does it cost to use Azure OpenAI on your data?",
+            "parent_section_name": "[missing]",
+            "text": "When using Azure OpenAI on your data, you incur costs when you use Azure AI Search, Azure Blob Storage, Azure Web App Service, semantic search and OpenAI models. There's no additional cost for using the \"your data\" feature in the Azure AI Foundry portal.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "How can I customize or automate the index creation process?",
+            "parent_section_name": "[missing]",
+            "text": "You can prepare the index yourself using a script provided on GitHub. Using this script will create an Azure AI Search index with all the information needed to better use your data, with your documents broken down into manageable chunks. See the README file with the data preparation code for details on how to run it.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "How can I update my index?",
+            "parent_section_name": "[missing]",
+            "text": "You can schedule an automatic index refresh, or upload additional data to your Azure Blob Container and use it as your data source when you create a new index. The new index will include all of the data in your container.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "What file types does Azure OpenAI on your data support?",
+            "parent_section_name": "[missing]",
+            "text": "See Using your data for more information on supported file types.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "Is responsible AI supported by Azure OpenAI on your data?",
+            "parent_section_name": "[missing]",
+            "text": "Yes, Azure OpenAI on your data is part of the Azure OpenAI Service and works with the models available in Azure OpenAI. The content filtering and abuse monitoring features of Azure OpenAI still apply. For more information, see the overview of Responsible AI practices for Azure OpenAI models and the Transparency Note for Azure OpenAI for extra guidance on using Azure OpenAI on your data responsibly.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "Is there a token limit on the system message?",
+            "parent_section_name": "[missing]",
+            "text": "[missing]",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        }
+    ],
+    "page_header": "Azure OpenAI Service frequently asked questions - Azure AI services | Microsoft Learn",
+    "page_footer": "https://learn.microsoft.com/en-us/azure/ai-services/openai/faq",
+    "page_number": "16",
+    "document_title": "Azure OpenAI Service frequently asked questions",
+    "document_summary": "The document is a comprehensive FAQ for Azure OpenAI Service, addressing data privacy, API headers, model support, and capabilities. It clarifies that customer data is not used to retrain models and supports the latest GPT-4 models, including GPT-4 Turbo with Vision for image-related tasks. The document provides guidance on fine-tuning models, deploying with REST API, and handling common errors. It also covers data storage, encryption, usage policies, costs, and geographical data storage specifics, along with responsible AI practices and the Azure OpenAI on your data feature.",
+    "page_sequence_number": 16
+}

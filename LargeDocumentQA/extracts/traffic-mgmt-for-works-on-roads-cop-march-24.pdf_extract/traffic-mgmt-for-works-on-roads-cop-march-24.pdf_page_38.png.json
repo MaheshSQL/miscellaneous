@@ -1,0 +1,42 @@
+{
+    "page_content": [
+        {
+            "section_name": "6. DEPARTURES FROM DESIGN REQUIREMENTS IN AS1742.3 AND AGTTM",
+            "parent_section_name": "[missing]",
+            "text": "The following departures to the requirements of AS 1742.3, AGTTM and other additional requirements are to be applied to temporary traffic management in Western Australia.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "6.1 TEMPORARY SIGNAGE",
+            "parent_section_name": "6. DEPARTURES FROM DESIGN REQUIREMENTS IN AS1742.3 AND AGTTM",
+            "text": "[missing]",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "6.1.1 General",
+            "parent_section_name": "6.1 TEMPORARY SIGNAGE",
+            "text": "Any roadworks signage that is not within the AS 1742 series needs to be approved by Main Roads before it can be implemented on the road network. All Main Roads approved signage is on the Main Roads website at www.mainroads.wa.gov.au; go to \u2018Technical & Commercial\u2019 > \u2018Technical Library\u2019 > \u2018Signs Index\u2019. Warning and regulatory signs should not be altered or modified; particularly regulatory signs which may become unenforceable.\n\nAny new signs in AS1742.3-2019 cannot be adopted in WA until the sign specifications are added to AS1743 Road signs \u2013 Specifications. Main Roads signs with sign numbers and specifications should continue to be used.\n\nThe signs must be sourced from an approved sign maker. This ensures the sign sheeting materials are in accordance with the required standards. The list of approved manufacturers is available in Specifications 601 \u2013 Signs, which can be found on the Main Roads website www.mainroads.wa.gov.au (\u2018Technical & Commercial\u2019 > \u2018Technical Library\u2019) refer to Annexure 601 I \u2018Sign Makers Accredited by Retroreflective Sheeting Manufacturers\u2019.\n\nNote: Australian Standard or Main Roads signs usually used for permanent installation may be used at temporary traffic management sites as appropriate.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "6.1.2 REDUCE SPEED Signs",
+            "parent_section_name": "6.1 TEMPORARY SIGNAGE",
+            "text": "The REDUCE SPEED sign should be used at worksites with a posted speed limit greater than 60 km/h when reducing the speed by 30 km/h or more.\n\nThe signs should be placed on both sides of the carriageway, in advance of the lowest speed zone at the worksite. Distances prior to the sign and the temporary speed limit are provided in the table below.\n\n<table>\n<tr>\n<th>Speed of Traffic 200 m prior to sign (km/h)</th>\n<th>Distance (m)</th>\n</tr>\n<tr>\n<td>60 or less</td>\n<td>25</td>\n</tr>\n<tr>\n<td>70 - 110</td>\n<td>Half the traffic speed (km/h)</td>\n</tr>\n</table>\n\nTable 4 \u2013 REDUCE SPEED sign spacing\n\nWhen used in conjunction with a temporary speed limit sign in a multi-message sign arrangement, the REDUCE SPEED panel should be placed within the same multi message frame.",
+            "image_diagram_summary": "G9-9: A red and white sign with the text 'REDUCE SPEED' in bold letters. #red #white #boldtext",
+            "contains_image_diagam": "true",
+            "contains_table": "true"
+        }
+    ],
+    "page_header": "[missing]",
+    "page_footer": "MAIN ROADS Western Australia",
+    "page_number": "37",
+    "document_title": "Traffic Management for Works on Roads Code of Practice",
+    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works to ensure the safety of workers and road users. It includes standards for personnel competency, traffic management plans, risk management, and the use of traffic control devices. The document details specific requirements for signage, safety audits, and procedures for handling roadworks near sensitive areas. It also outlines the use of Truck Mounted Attenuators, shadow vehicles, and innovative traffic control devices, along with accreditation requirements for traffic management roles. Additionally, it provides an inventory and application schedule for various road signs used by Main Roads Western Australia.",
+    "page_sequence_number": 38
+}

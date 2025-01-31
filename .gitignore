@@ -3,3 +3,6 @@
 ./Azure Functions/GPT4V_Custom_Skill/local.settings.json
 ./Azure Functions/Proj_LLMSQL/.python_packages
 ./Azure Functions/GPT4V_Custom_Skill/.python_packages
+./LargeDocumentQA/.env*
+# ./LargeDocumentQA/extracts
+# ./LargeDocumentQA/images

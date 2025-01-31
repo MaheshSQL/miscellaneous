@@ -1,0 +1,26 @@
+{
+    "page_content": [
+        {
+            "section_name": "INCIDENT, FIRE AND EMERGENCY SERIES SIGNS",
+            "parent_section_name": "[missing]",
+            "text": "<table><tr><th>Sign</th><th>Main Roads Sign Number</th><th>Panel Size (mm)</th><th>SIGN APPLICATION AND DESCRIPTION</th></tr><tr><td><img src='bushfire_symbolic.png' alt='Bushfire Symbolic'></td><td>MMS-ADV-61</td><td>600 x 600</td><td>BUSHFIRE SYMBOLIC</td></tr><tr><td><img src='water_over_road_symbolic.png' alt='Water Over Road Symbolic'></td><td>MMS-ADV-62</td><td>600 x 600</td><td>WATER OVER ROAD SYMBOLIC</td></tr><tr><td><img src='crash_symbolic.png' alt='Crash Symbolic'></td><td>MMS-ADV-63</td><td>600 x 600</td><td>CRASH SYMBOLIC</td></tr><tr><td><img src='hazardous_material_symbolic.png' alt='Hazardous Material Symbolic'></td><td>MMS-ADV-64</td><td>600 x 600</td><td>HAZARDOUS MATERIAL SYMBOLIC</td></tr><tr><td><img src='bush_fire.png' alt='Bush Fire'></td><td>MMS-ADV-65</td><td>600 x 600</td><td>BUSH FIRE</td></tr><tr><td><img src='road_flooded.png' alt='Road Flooded'></td><td>MMS-ADV-66</td><td>600 x 600</td><td>ROAD FLOODED</td></tr><tr><td><img src='road_crash.png' alt='Road Crash'></td><td>MMS-ADV-67</td><td>600 x 600</td><td>ROAD CRASH</td></tr></table>",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "true",
+            "contains_table": "true"
+        },
+        {
+            "section_name": "INCIDENT, FIRE AND EMERGENCY SERIES SIGNS",
+            "parent_section_name": "[missing]",
+            "text": "6. Sign panels must only be located in the frame location as shown. 7. Left side multi-message sign shown only. 8. Multi-message signs located on both sides of the roadway must form a mirrored image of the signs being displayed. 9. For sign specification go to www.mainroads.wa.gov.au >Technical & Commercial > Technical Library > Signs Index > Multi Message Signs Standards 10. For multi-message signs frame refer to Main Roads standard drawing 201031-0155.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        }
+    ],
+    "page_header": "OFFICIAL",
+    "page_footer": "Multi-Message Sign Inventory and Application Schedule",
+    "page_number": "23",
+    "document_title": "Traffic Management for Works on Roads Code of Practice",
+    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works to ensure the safety of workers and road users. It includes standards for personnel competency, traffic management plans, risk management, and the use of traffic control devices. The document details specific requirements for signage, safety audits, and procedures for handling roadworks near sensitive areas. It also outlines the use of Truck Mounted Attenuators, shadow vehicles, and innovative traffic control devices, along with accreditation requirements for traffic management roles. Additionally, it provides an inventory and application schedule for various road signs used by Main Roads Western Australia.",
+    "page_sequence_number": 124
+}

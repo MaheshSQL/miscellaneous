@@ -1,0 +1,50 @@
+{
+    "page_content": [
+        {
+            "section_name": "6.13 SHADOW VEHICLE",
+            "parent_section_name": "[missing]",
+            "text": "Figure 13: Shadow vehicle scenario 2 \u2013 Works within 2 m of traffic lane.",
+            "image_diagram_summary": "Figure 13 shows a road with a work area within 2 meters of the traffic lane. A shadow vehicle is positioned to protect the work area. #road #workarea #shadowvehicle",
+            "contains_image_diagam": "true",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "6.14 TTM IMPLEMENTATION, OPERATION AND REMOVAL",
+            "parent_section_name": "[missing]",
+            "text": "AGTTM Part 6: Field Staff \u2013 Implementation and Removal provides requirements for installing and removing TTM schemes. AGTTM indicates the preferred method for implementing or removing TTM schemes is to use the TTM vehicle to shadow the TM workers and install/remove signs and devices on one side of the road at a time:",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "6.14 TTM IMPLEMENTATION, OPERATION AND REMOVAL",
+            "parent_section_name": "[missing]",
+            "text": "Figure 14: TTM implementation example from AGTTM Part 6 (figure 6.1)",
+            "image_diagram_summary": "Figure 14 illustrates a typical TTM implementation with numbered steps showing the placement of signs and devices along a road. #TTM #road #implementation",
+            "contains_image_diagam": "true",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "6.14 TTM IMPLEMENTATION, OPERATION AND REMOVAL",
+            "parent_section_name": "[missing]",
+            "text": "Crossing the road should be avoided where possible and where it is undertaken a look out person/spotter must be used for all activities where required in accordance with AGTTM Part 5. WA has the below additions to the requirements within AGTTM when implementing, monitoring or removing TTM schemes:",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "6.14.1 High Speed Multilane Roads",
+            "parent_section_name": "6.14 TTM IMPLEMENTATION, OPERATION AND REMOVAL",
+            "text": "Crossing the road is not permitted on any road where a Truck Mounted Attenuator is required to protect workers, see the Requirements for the Use of Truck Mounted Attenuators in WA \u2013 Code of Practice.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        }
+    ],
+    "page_header": "[missing]",
+    "page_footer": "MAIN ROADS Western Australia",
+    "page_number": "71",
+    "document_title": "Traffic Management for Works on Roads Code of Practice",
+    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works to ensure the safety of workers and road users. It includes standards for personnel competency, traffic management plans, risk management, and the use of traffic control devices. The document details specific requirements for signage, safety audits, and procedures for handling roadworks near sensitive areas. It also outlines the use of Truck Mounted Attenuators, shadow vehicles, and innovative traffic control devices, along with accreditation requirements for traffic management roles. Additionally, it provides an inventory and application schedule for various road signs used by Main Roads Western Australia.",
+    "page_sequence_number": 72
+}

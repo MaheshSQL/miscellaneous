@@ -1,0 +1,58 @@
+{
+    "page_content": [
+        {
+            "section_name": "Is there any additional pricing or quota for using Assistants?",
+            "parent_section_name": "[missing]",
+            "text": "No. All quotas apply to using models with Assistants.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "Does the Assistants API support non-Azure OpenAI models?",
+            "parent_section_name": "[missing]",
+            "text": "Assistants API only supports Azure OpenAI models.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "Is the Assistants API generally available?",
+            "parent_section_name": "[missing]",
+            "text": "The Assistants API is currently in public preview. Stay informed of our latest product updates by regularly visiting our What's New page.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "What are some examples or other resources I can use to learn about Assistants?",
+            "parent_section_name": "[missing]",
+            "text": "See the Conceptual, quickstart, how-to articles for information on getting started and using Assistants. You can also check out Azure OpenAI Assistants code samples on GitHub.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "Web app",
+            "parent_section_name": "[missing]",
+            "text": "[missing]",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "How can I customize my published web app?",
+            "parent_section_name": "Web app",
+            "text": "You can customize your published web app in the Azure portal. The source code for the published web app is available on GitHub, where you can find information on changing the app frontend, as well as instructions for building and deploying the app.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        }
+    ],
+    "page_header": "Azure OpenAI Service frequently asked questions - Azure AI services | Microsoft Learn",
+    "page_footer": "[missing]",
+    "page_number": "14",
+    "document_title": "Azure OpenAI Service frequently asked questions",
+    "document_summary": "The document is a comprehensive FAQ for Azure OpenAI Service, addressing data privacy, API headers, model support, and capabilities. It clarifies that customer data is not used to retrain models and supports the latest GPT-4 models, including GPT-4 Turbo with Vision for image-related tasks. The document provides guidance on fine-tuning models, deploying with REST API, and handling common errors. It also covers data storage, encryption, usage policies, costs, and geographical data storage specifics, along with responsible AI practices and the Azure OpenAI on your data feature.",
+    "page_sequence_number": 14
+}

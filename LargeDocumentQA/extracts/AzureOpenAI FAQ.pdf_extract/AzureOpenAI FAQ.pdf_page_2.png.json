@@ -1,0 +1,50 @@
+{
+    "page_content": [
+        {
+            "section_name": "Does Azure OpenAI work with the latest Python library released by OpenAI (version>=1.0)?",
+            "parent_section_name": "[missing]",
+            "text": "Azure OpenAI is supported by the latest release of the OpenAI Python library (version>=1.0). However, it's important to note migration of your codebase using openai migrate is not supported and will not work with code that targets Azure OpenAI.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "I can't find GPT-4 Turbo Preview, where is it?",
+            "parent_section_name": "[missing]",
+            "text": "GPT-4 Turbo Preview is the gpt-4 (1106-preview) model. To deploy this model, under Deployments select model gpt-4. For Model version select 1106-preview. To check which regions this model is available, refer to the models page.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "Does Azure OpenAI support GPT-4?",
+            "parent_section_name": "[missing]",
+            "text": "Azure OpenAI supports the latest GPT-4 models. It supports both GPT-4 and GPT-4-32K.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "How do the capabilities of Azure OpenAI compare to OpenAI?",
+            "parent_section_name": "[missing]",
+            "text": "Azure OpenAI Service gives customers advanced language AI with OpenAI GPT-3, Codex, and DALL-E models with the security and enterprise promise of Azure. Azure OpenAI codevelops the APIs with OpenAI, ensuring compatibility and a smooth transition from one to the other.\n\nWith Azure OpenAI, customers get the security capabilities of Microsoft Azure while running the same models as OpenAI.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "Does Azure OpenAI support VNETs and Private Endpoints?",
+            "parent_section_name": "[missing]",
+            "text": "Yes, as part of Azure AI services, Azure OpenAI supports VNETs and Private Endpoints. To learn more, consult the Azure AI services virtual networking guidance.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        }
+    ],
+    "page_header": "Azure OpenAI Service frequently asked questions - Azure AI services | Microsoft Learn",
+    "page_footer": "[missing]",
+    "page_number": "2",
+    "document_title": "Azure OpenAI Service frequently asked questions",
+    "document_summary": "The document is a comprehensive FAQ for Azure OpenAI Service, addressing data privacy, API headers, model support, and capabilities. It clarifies that customer data is not used to retrain models and supports the latest GPT-4 models, including GPT-4 Turbo with Vision for image-related tasks. The document provides guidance on fine-tuning models, deploying with REST API, and handling common errors. It also covers data storage, encryption, usage policies, costs, and geographical data storage specifics, along with responsible AI practices and the Azure OpenAI on your data feature.",
+    "page_sequence_number": 2
+}

@@ -1,0 +1,50 @@
+{
+    "page_content": [
+        {
+            "section_name": "Can I bring my own data store to use with Assistants?",
+            "parent_section_name": "[missing]",
+            "text": "No. Currently Assistants supports only local files uploaded to the Assistants-managed storage. You cannot use your private storage account with Assistants.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "Does Assistants support customer-managed key encryption (CMK)?",
+            "parent_section_name": "[missing]",
+            "text": "Today we support CMK for Threads and Files in Assistants. See the What's new page for available regions for this feature.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "Is my data used by Microsoft for training models?",
+            "parent_section_name": "[missing]",
+            "text": "No. Data is not used for Microsoft not used for training models. See the Responsible AI documentation for more information.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "Where is data stored geographically?",
+            "parent_section_name": "[missing]",
+            "text": "Azure OpenAI Assistants endpoints are regional, and data is stored in the same region as the endpoint. For more information, see the Azure data residency documentation.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "How am I charged for Assistants?",
+            "parent_section_name": "[missing]",
+            "text": "Inference cost (input and output) of the base model you're using for each Assistant (for example gpt-4-0125). If you've created multiple Assistants, you will be charged for the base model attached to each Assistant.\nIf you've enabled the Code Interpreter tool. For example if your assistant calls Code Interpreter simultaneously in two different threads, this would create two Code Interpreter sessions, each of which would be charged. Each session is active by default for one hour, which means that you would only pay this fee once if your user keeps giving instructions to Code Interpreter in the same thread for up to one hour.\nFile search is billed based on the vector storage used.\nFor more information, see the pricing page.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        }
+    ],
+    "page_header": "Azure OpenAI Service frequently asked questions - Azure AI services | Microsoft Learn",
+    "page_footer": "https://learn.microsoft.com/en-us/azure/ai-services/openai/faq",
+    "page_number": "13",
+    "document_title": "Azure OpenAI Service frequently asked questions",
+    "document_summary": "The document is a comprehensive FAQ for Azure OpenAI Service, addressing data privacy, API headers, model support, and capabilities. It clarifies that customer data is not used to retrain models and supports the latest GPT-4 models, including GPT-4 Turbo with Vision for image-related tasks. The document provides guidance on fine-tuning models, deploying with REST API, and handling common errors. It also covers data storage, encryption, usage policies, costs, and geographical data storage specifics, along with responsible AI practices and the Azure OpenAI on your data feature.",
+    "page_sequence_number": 13
+}

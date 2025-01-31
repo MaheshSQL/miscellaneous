@@ -1,0 +1,26 @@
+{
+    "page_content": [
+        {
+            "section_name": "REGULATORY SERIES SIGNS",
+            "parent_section_name": "[missing]",
+            "text": "SIGN APPLICATION AND DESCRIPTION\n1. Sign panels must only be located in the frame location as shown.\n2. Left side multi-message sign shown only.\n3. Multi-message signs located on both sides of the roadway must form a mirrored image of the signs being displayed.\n4. For sign specification go to www.mainroads.wa.gov.au > Technical & Commercial > Technical Library > Signs Index > Multi Message Signs Standards\n5. For multi-message signs frame refer to Main Roads standard drawing 201031-0155.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "true"
+        },
+        {
+            "section_name": "REGULATORY SERIES SIGNS",
+            "parent_section_name": "[missing]",
+            "text": "<table><tr><th>Group</th><th>Sign</th><th>Main Roads Sign Number</th><th>Panel Size (mm)</th><th>SIGN APPLICATION AND DESCRIPTION</th></tr><tr><td>REG</td><td><img src='40.png' alt='40 km/h'></td><td>MMS-REG-1(40)</td><td>600 x 600</td><td>40 km/h SPEED SIGN</td></tr><tr><td>REG</td><td><img src='50.png' alt='50 km/h'></td><td>MMS-REG-1(50)</td><td>600 x 600</td><td>50 km/h SPEED SIGN<br>\u2022 Must only be used to terminate a temporary speed zone.</td></tr><tr><td>REG</td><td><img src='60.png' alt='60 km/h'></td><td>MMS-REG-1(60)</td><td>600 x 600</td><td>60 km/h SPEED SIGN</td></tr><tr><td>REG</td><td><img src='70.png' alt='70 km/h'></td><td>MMS-REG-1(70)</td><td>600 x 600</td><td>70 km/h SPEED SIGN<br>\u2022 Must only be used to terminate a temporary speed zone.</td></tr><tr><td>REG</td><td><img src='80.png' alt='80 km/h'></td><td>MMS-REG-1(80)</td><td>600 x 600</td><td>80 km/h SPEED SIGN</td></tr><tr><td>REG</td><td><img src='90.png' alt='90 km/h'></td><td>MMS-REG-1(90)</td><td>600 x 600</td><td>90 km/h SPEED SIGN<br>\u2022 Must only be used to terminate a temporary speed zone.</td></tr><tr><td>REG</td><td><img src='100.png' alt='100 km/h'></td><td>MMS-REG-1(100)</td><td>600 x 600</td><td>100 km/h SPEED SIGN<br>\u2022 Must only be used to terminate a temporary speed zone.</td></tr><tr><td>REG</td><td><img src='110.png' alt='110 km/h'></td><td>MMS-REG-1(110)</td><td>600 x 600</td><td>110 km/h SPEED SIGN<br>\u2022 Must only be used to terminate a temporary speed zone.</td></tr></table>",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "true",
+            "contains_table": "true"
+        }
+    ],
+    "page_header": "[missing]",
+    "page_footer": "Multi-Message Sign Inventory and Application Schedule",
+    "page_number": "20",
+    "document_title": "Traffic Management for Works on Roads Code of Practice",
+    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works to ensure the safety of workers and road users. It includes standards for personnel competency, traffic management plans, risk management, and the use of traffic control devices. The document details specific requirements for signage, safety audits, and procedures for handling roadworks near sensitive areas. It also outlines the use of Truck Mounted Attenuators, shadow vehicles, and innovative traffic control devices, along with accreditation requirements for traffic management roles. Additionally, it provides an inventory and application schedule for various road signs used by Main Roads Western Australia.",
+    "page_sequence_number": 121
+}

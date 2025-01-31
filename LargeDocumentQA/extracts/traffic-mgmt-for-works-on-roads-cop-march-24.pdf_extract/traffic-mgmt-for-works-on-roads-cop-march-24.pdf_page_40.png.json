@@ -1,0 +1,42 @@
+{
+    "page_content": [
+        {
+            "section_name": "6.1.6 Pedestrian Warning Signs for Motorists",
+            "parent_section_name": "6.1.6 Pedestrian Warning Signs for Motorists",
+            "text": "Along with the requirements detailed in section 3.8.3 of AGTTM Part 3 for contraflow arrangements, the use of the Pedestrian Warning sign (MR-TAW-31) may be used to provide warning to motorists at locations that have pedestrian crossings.",
+            "image_diagram_summary": "MR-TAW-31: A rectangular sign with a pedestrian symbol in black on a yellow background, indicating pedestrian crossing. #yellow #black #pedestrian",
+            "contains_image_diagam": "true",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "6.1.7 Repeater Speed Restriction Signs",
+            "parent_section_name": "6.1.6 Pedestrian Warning Signs for Motorists",
+            "text": "At locations where the A size speed restriction sign, R4-1A (450 x 600 mm), is permitted in AS1742.3, the MMS-REG-1 (600 x 600 mm) may be used as a standalone sign only when used as a repeater speed sign and if it is within a purpose made frame.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "6.1.8 ROAD CLOSED and FOOTPATH CLOSED Signs",
+            "parent_section_name": "6.1.6 Pedestrian Warning Signs for Motorists",
+            "text": "The ROAD CLOSED (T2-4, TM2-4B and TM2-4C) and FOOTPATH CLOSED (T8-4 and TM8-4A) signs in AS1742.3-2019 are black on white, however as these signs are yet to be added to AS1743 Road signs \u2013 Specifications, the black on yellow signs should continue to be used.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "6.1.9 Sign Spacing",
+            "parent_section_name": "6.1.6 Pedestrian Warning Signs for Motorists",
+            "text": "Where there is only a single advanced sign, or single advance Multi Message Sign (MMS) frame, for approach speeds of 60 km/h or less, the sign may be positioned at the spacing shown in table 2.2 of AGTTM Part 3, i.e. the sign does not have to be double the spacing as required in section 2.5.3 of AGTTM Part 3. Refer to section 6.5 for setting out temporary speed zones.",
+            "image_diagram_summary": "Figure 1: Example single advance sign. A diagram showing a road with two lanes in each direction, with signs on both sides of the road indicating a single advance sign. #road #signs #lanes",
+            "contains_image_diagam": "true",
+            "contains_table": "false"
+        }
+    ],
+    "page_header": "[missing]",
+    "page_footer": "MAIN ROADS Western Australia",
+    "page_number": "39",
+    "document_title": "Traffic Management for Works on Roads Code of Practice",
+    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works to ensure the safety of workers and road users. It includes standards for personnel competency, traffic management plans, risk management, and the use of traffic control devices. The document details specific requirements for signage, safety audits, and procedures for handling roadworks near sensitive areas. It also outlines the use of Truck Mounted Attenuators, shadow vehicles, and innovative traffic control devices, along with accreditation requirements for traffic management roles. Additionally, it provides an inventory and application schedule for various road signs used by Main Roads Western Australia.",
+    "page_sequence_number": 40
+}

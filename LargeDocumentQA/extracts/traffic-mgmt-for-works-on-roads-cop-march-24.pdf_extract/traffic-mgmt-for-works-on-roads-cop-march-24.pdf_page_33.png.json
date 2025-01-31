@@ -1,0 +1,34 @@
+{
+    "page_content": [
+        {
+            "section_name": "Railway Crossings (Including Crossings without Flashing Signals)",
+            "parent_section_name": "[missing]",
+            "text": "Any works within the distances from a railway level crossing given in Table 3 and are likely to result in realignment of a road section or intersection impacting on the railway level crossing or significantly affecting the existing traffic flow through a railway level crossing, the relevant Rail Infrastructure Manager must be notified at least two (2) weeks prior to the works by the party arranging the works. The Rail Infrastructure Manager may determine a Rail Safety Management Plan (RSMP) is required for roadworks which impact on the safe operation of the railway.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "Railway Crossings (Including Crossings without Flashing Signals)",
+            "parent_section_name": "[missing]",
+            "text": "<table><tr><th>Speed limit (km/h)</th><th>Distance from railway (m)</th></tr><tr><td>&lt;70</td><td>150</td></tr><tr><td>70 to 90</td><td>200</td></tr><tr><td>&gt;90</td><td>300</td></tr></table>",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "true"
+        },
+        {
+            "section_name": "Railway Crossings (Including Crossings without Flashing Signals)",
+            "parent_section_name": "[missing]",
+            "text": "Traffic Controllers need to be aware that motorists will generally follow their directions when they differ from other signals, signs and devices on the road. They need to take special care at railway crossings to ensure they do not direct traffic through signals requiring vehicles to stop, unless it is clearly safe for vehicles to proceed through them.\n\nWhere a railway level crossing exists within a section being controlled by a Traffic Controller, a flag person with the relevant Track Access Permit should be stationed at the traffic stop line of the railway crossing at least 3m from the nearest rail, equipped with a two-way radio, to watch for trains and advise the Traffic Controllers to stop traffic in time for train movements through the level crossing.\n\nThe flag person should make sure that the relevant Rail Infrastructure Manager has been notified before their commences work. On each day, prior to the commencement of works, the Rail Infrastructure Manager should be advised of the works that will be proceeding on that day, so that train drivers can be warned of the works and advice can be received on the times that trains are expected to use the crossing (this will be determined by the relevant Rail Infrastructure Manager).\n\nIf the section of road under traffic control is to one side of the railway level crossing, but within the distances in Table 3, the flag person stationed at the railway level crossing must be stationed on the same side of the crossing as the section under traffic control, at the traffic stop line or at least 3 m from the nearest rail. The flag person stationed at the railway level crossing must be equipped with a hand-held STOP/SLOW sign that has the rear 'SLOW' sign covered. This is to prevent vehicles approaching the other side of the railway level crossing following the SLOW instruction and ignoring other signs or flashing signals.\n\nTraffic Controllers must also ensure that vehicles stopped do not queue back over a railway level crossing. If there is a chance of this happening, vehicles should be stopped prior to the railway level crossing.\n\nRefer to the Railway Crossing Control in Western Australia Policy and Guidelines on the Main Roads website at www.mainroads.wa.gov.au > 'Technical & Commercial' > 'Technical Library' > 'Traffic Management' > 'Railway Crossing Control'",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        }
+    ],
+    "page_header": "[missing]",
+    "page_footer": "MAIN ROADS Western Australia",
+    "page_number": "32",
+    "document_title": "Traffic Management for Works on Roads Code of Practice",
+    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works to ensure the safety of workers and road users. It includes standards for personnel competency, traffic management plans, risk management, and the use of traffic control devices. The document details specific requirements for signage, safety audits, and procedures for handling roadworks near sensitive areas. It also outlines the use of Truck Mounted Attenuators, shadow vehicles, and innovative traffic control devices, along with accreditation requirements for traffic management roles. Additionally, it provides an inventory and application schedule for various road signs used by Main Roads Western Australia.",
+    "page_sequence_number": 33
+}

@@ -1,0 +1,42 @@
+{
+    "page_content": [
+        {
+            "section_name": "13. Stored energy",
+            "parent_section_name": "13. Stored energy",
+            "text": "While sometimes it is possible to isolate energy in storage devices, such as batteries, with a valve or a switch, in other cases the energy must be dissipated before work begins on associated plant. This is particularly important with electrical capacitors, springs and gases under pressure, such as in suspension systems. Static electricity can be dissipated via an earth to the ground.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "14. Other energy devices",
+            "parent_section_name": "14. Other energy devices",
+            "text": "Other energy storing devices that must be considered in developing an isolation procedure include: \u2022 those with rotational motion (kinetic energy) such as flywheels, saws, planers, mixers, pulleys and similar; and \u2022 those with potential energy due to their position. This type of energy source cannot simply be turned off. The energy must be dissipated or controlled. When the potential energy is related to gravity, the plant must be allowed to \u2018complete its stroke\u2019 or \u2018come to rest\u2019 so that gravity has no further influence. Where this is not appropriate, it may be necessary to prevent movement by blocking, wedging or propping. The \u2018authorised person\u2019 should ensure props, blocks or wedges cannot be inadvertently removed. It may be possible to secure them with some type of locking system, including tagging.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "15. Negative pressure",
+            "parent_section_name": "15. Negative pressure",
+            "text": "Vacuum or negative pressure, while not strictly an energy source, may be used to activate the plant. As part of the isolation procedure, any negative pressure needs to be equalised to avoid hazardous fluids being released into a work area should the vacuum break while work is being undertaken.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "16. Locking out",
+            "parent_section_name": "16. Locking out",
+            "text": "A wide range of devices is available for locking out energy sources and other hazards that could pose a risk to people working on plant. These include switches with a built-in lock and lockouts for circuit breakers, fuses and all types of valves. Also readily available are chains, safety lockout jaws (sometimes called hasps) accommodating a number of padlocks, and sets of robust safety padlocks. Only devices that incorporate a lock or can accommodate one or more padlocks are suitable lockout devices. If more than one person is working on the same plant, each person must attach their own lock to prevent the isolator being opened before all locks have been removed or opened. The isolation procedure should identify common lock out points to ensure energy cannot be restored while someone is still working on the plant. Whatever locking device is used, it must function properly in the particular environment in which the work is undertaken. An example is lockout devices used in dusty or wet environments, as not all of them are dust or water proof and may fail under such conditions. Dust and water proof lockout devices are available from distributors of industrial safety equipment.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        }
+    ],
+    "page_header": "GUIDANCE NOTE ISOLATION OF PLANT",
+    "page_footer": "[missing]",
+    "page_number": "7",
+    "document_title": "Guidance note Isolation of plant 2010",
+    "document_summary": "The guidance note issued by the Commission for Occupational Safety and Health in Western Australia focuses on the isolation of plant to prevent workplace injuries. It outlines legislative frameworks, basic principles, and procedures for isolating plant, including risk management and alternative measures when isolation is not practicable. The document emphasizes the importance of strict adherence to isolation procedures and provides detailed steps for identifying and managing energy sources and other hazards. It also outlines the responsibilities of employers and workers under the Occupational Safety and Health Act 1984, and includes information on various isolation devices, tagging systems, and procedures for safely de-energizing equipment, along with additional resources and contact information for further assistance.",
+    "page_sequence_number": 13
+}

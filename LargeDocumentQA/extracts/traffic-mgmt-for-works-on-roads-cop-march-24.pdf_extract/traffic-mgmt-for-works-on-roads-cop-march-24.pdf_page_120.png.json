@@ -1,0 +1,26 @@
+{
+    "page_content": [
+        {
+            "section_name": "EVENT SERIES SIGNS",
+            "parent_section_name": "[missing]",
+            "text": "SIGN APPLICATION AND DESCRIPTION\n1. Sign panels must only be located in the frame location as shown.\n2. Left side multi-message sign shown only.\n3. Multi-message signs located on both sides of the roadway must form a mirrored image of the signs being displayed.\n4. For sign specification go to www.mainroads.wa.gov.au > Technical & Commercial > Technical Library > Signs Index > Multi Message Signs Standards\n5. For multi-message signs frame refer to Main Roads standard drawing 201031-0155.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "true"
+        },
+        {
+            "section_name": "EVENT SERIES SIGNS",
+            "parent_section_name": "[missing]",
+            "text": "<table><tr><th>Group</th><th>Sign</th><th>Main Roads Sign Number</th><th>Panel Size (mm)</th><th>Sign Application and Description</th></tr><tr><td>EVE</td><td><img src='cyclist.png' alt='Cyclist Sign'></td><td>MMS-EVE-1</td><td>600 x 600</td><td>CYCLIST</td></tr><tr><td>EVE</td><td><img src='end_event.png' alt='End Event Sign'></td><td>MMS-EVE-2</td><td>600 x 600</td><td>END EVENT</td></tr><tr><td>EVE</td><td><img src='event_ahead.png' alt='Event Ahead Sign'></td><td>MMS-EVE-3</td><td>600 x 600</td><td>EVENT AHEAD</td></tr><tr><td>EVE</td><td><img src='event_in_progress.png' alt='Event in Progress Sign'></td><td>MMS-EVE-4</td><td>1200 x 300</td><td>EVENT IN PROGRESS</td></tr><tr><td>EVE</td><td><img src='event_on_side_road.png' alt='Event on Side Road Sign'></td><td>MMS-EVE-5</td><td>1200 x 600</td><td>EVENT ON SIDE ROAD</td></tr><tr><td>EVE</td><td><img src='pedestrians.png' alt='Pedestrians Sign'></td><td>MMS-EVE-6</td><td>600 x 600</td><td>PEDESTRIANS</td></tr><tr><td>EVE</td><td><img src='runner.png' alt='Runner Sign'></td><td>MMS-EVE-7</td><td>600 x 600</td><td>RUNNER</td></tr><tr><td>EVE</td><td><img src='end_event_large.png' alt='End Event Large Sign'></td><td>MMS-EVE-9</td><td>1200 x 600</td><td>END EVENT</td></tr><tr><td>EVE</td><td><img src='event_ahead_large.png' alt='Event Ahead Large Sign'></td><td>MMS-EVE-10</td><td>1200 x 600</td><td>EVENT AHEAD</td></tr></table>",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "true",
+            "contains_table": "true"
+        }
+    ],
+    "page_header": "OFFICIAL",
+    "page_footer": "Multi-Message Sign Inventory and Application Schedule",
+    "page_number": "19",
+    "document_title": "Traffic Management for Works on Roads Code of Practice",
+    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works to ensure the safety of workers and road users. It includes standards for personnel competency, traffic management plans, risk management, and the use of traffic control devices. The document details specific requirements for signage, safety audits, and procedures for handling roadworks near sensitive areas. It also outlines the use of Truck Mounted Attenuators, shadow vehicles, and innovative traffic control devices, along with accreditation requirements for traffic management roles. Additionally, it provides an inventory and application schedule for various road signs used by Main Roads Western Australia.",
+    "page_sequence_number": 120
+}

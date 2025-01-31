@@ -1,0 +1,42 @@
+{
+    "page_content": [
+        {
+            "section_name": "6.8.6 Shuttle flow",
+            "parent_section_name": "[missing]",
+            "text": "The below variation to the maximum permitted length of single lane shuttle within AGTTM Part 2 and 3 may be applied (changes in red):",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "true"
+        },
+        {
+            "section_name": "6.8.6 Shuttle flow",
+            "parent_section_name": "[missing]",
+            "text": "<table><tr><th>Total volume in both directions (vph)</th><th>Length of single lane section (m)</th></tr><tr><td>Residential street</td><td>60</td></tr><tr><td>701-800</td><td>70</td></tr><tr><td>601-700</td><td>100</td></tr><tr><td>501-600</td><td>150</td></tr><tr><td>401-500</td><td>250</td></tr><tr><td>351-400</td><td>400</td></tr><tr><td>301-350</td><td>600</td></tr><tr><td>251-300</td><td>800</td></tr><tr><td>201-250</td><td>1200</td></tr><tr><td>151-200</td><td>1600</td></tr><tr><td>\u2264150</td><td>2200</td></tr></table>",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "true"
+        },
+        {
+            "section_name": "6.8.6 Shuttle flow",
+            "parent_section_name": "[missing]",
+            "text": "NOTE: Lengths to be taken as the distance between the STOP HERE ON RED SIGNAL or STOP HERE WHEN DIRECTED sign positions for each direction.\n\nShuttle lengths exceeding the lengths provided within AGTTM must be based on a risk assessment to the satisfaction of the relevant road authority. The risk assessment must consider stopping time, queue length, clearance time, number of worksites along the route, heavy vehicle composition, road geometry and road user compliance. Use of a roadworks pilot vehicle should be considered.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "6.8.7 Roadworks Pilot Vehicles",
+            "parent_section_name": "[missing]",
+            "text": "A roadwork pilot vehicle, consistent with the requirements of AGTTM Part 3, should be considered on all Main Roads\u2019 roads where all the following conditions apply, unless otherwise supported by a risk assessment:\n\u2022 the closure of one or more lanes that necessitates the use of a shuttle flow with use of a PTCD or traffic controller; and\n\u2022 the travel path for vehicles is not clearly delineated for the full length of the lane closure with cones, bollards or similar.\n\nFurther to all the above conditions, a roadwork pilot vehicle must be utilised when all the above apply as well as all the following conditions applying:\n\u2022 the length of the shuttle flow is greater than 500 m; and\n\u2022 the traffic volume of the road is greater than 500 vehicles / day (AADT).",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        }
+    ],
+    "page_header": "[missing]",
+    "page_footer": "MAIN ROADS Western Australia",
+    "page_number": "58",
+    "document_title": "Traffic Management for Works on Roads Code of Practice",
+    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works to ensure the safety of workers and road users. It includes standards for personnel competency, traffic management plans, risk management, and the use of traffic control devices. The document details specific requirements for signage, safety audits, and procedures for handling roadworks near sensitive areas. It also outlines the use of Truck Mounted Attenuators, shadow vehicles, and innovative traffic control devices, along with accreditation requirements for traffic management roles. Additionally, it provides an inventory and application schedule for various road signs used by Main Roads Western Australia.",
+    "page_sequence_number": 59
+}

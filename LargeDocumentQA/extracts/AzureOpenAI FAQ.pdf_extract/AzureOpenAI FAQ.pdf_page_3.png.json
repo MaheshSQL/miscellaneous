@@ -1,0 +1,42 @@
+{
+    "page_content": [
+        {
+            "section_name": "Do the GPT-4 models currently support image input?",
+            "parent_section_name": "[missing]",
+            "text": "No, GPT-4 is designed by OpenAI to be multimodal, but currently only text input and output are supported.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "How do I apply for new use cases?",
+            "parent_section_name": "[missing]",
+            "text": "Previously, the process for adding new use cases required customers to reapply to the service. Now, we're releasing a new process that allows you to quickly add new use cases to your use of the service. This process follows the established Limited Access process within Azure AI services. Existing customers can attest to any and all new use cases here. Note that this is required anytime you would like to use the service for a new use case you didn't originally apply for.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "I'm trying to use embeddings and received the error \"InvalidRequestError: Too many inputs. The max number of inputs is 16.\" How do I fix this?",
+            "parent_section_name": "[missing]",
+            "text": "This error typically occurs when you try to send a batch of text to embed in a single API request as an array. Currently Azure OpenAI only supports arrays of embeddings with multiple inputs for the text-embedding-ada-002 Version 2 model. This model version supports an array consisting of up to 16 inputs per API request. The array can be up to 8,191 tokens in length when using the text-embedding-ada-002 (Version 2) model.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "Where can I read about better ways to use Azure OpenAI to get the responses I want from the service?",
+            "parent_section_name": "[missing]",
+            "text": "Check out our introduction to prompt engineering. While these models are powerful, their behavior is also very sensitive to the prompts they receive from the user. This makes prompt construction an important skill to develop. After you've completed the introduction, check out our article on system messages.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        }
+    ],
+    "page_header": "Azure OpenAI Service frequently asked questions - Azure AI services | Microsoft Learn",
+    "page_footer": "[missing]",
+    "page_number": "3",
+    "document_title": "Azure OpenAI Service frequently asked questions",
+    "document_summary": "The document is a comprehensive FAQ for Azure OpenAI Service, addressing data privacy, API headers, model support, and capabilities. It clarifies that customer data is not used to retrain models and supports the latest GPT-4 models, including GPT-4 Turbo with Vision for image-related tasks. The document provides guidance on fine-tuning models, deploying with REST API, and handling common errors. It also covers data storage, encryption, usage policies, costs, and geographical data storage specifics, along with responsible AI practices and the Azure OpenAI on your data feature.",
+    "page_sequence_number": 3
+}
