@@ -1129,40 +1129,6 @@ elif Scenarios(int(input_scenario)) == Scenarios.UPLOAD: # Handle document UPLOA
 
     print(f'[INFO] Chunk ingestion to AI Search completed')
 
-# # TEMP
-# elif Scenarios(int(input_scenario)) == Scenarios.QUERY: # TEMP for debugging, remove... whole elif section
-
-#     # Select file from user input
-#     print(print_colorful(f'✅ You have selected {Scenarios(int(input_scenario))}', '1;32'))
-
-#     # Dynamically show file names based on available files
-#     user_text = '\n'+' '.join([f'[{key}] {os.path.basename(path)}' for key, path in file_paths_dict.items()]) + ': '
-#     selected_document = input(user_text)
-
-#     # Validate
-#     if selected_document not in [str(sampledocs.value) for sampledocs in SampleDocs]:
-#         print(print_colorful('❌ Invalid document, please try again.','1;31'))
-#         sys.exit(1)
-
-#     print(print_colorful(f'✅ You have selected {SampleDocs(int(selected_document))}', '1;32'))
-
-#     file_path = file_paths_dict[int(selected_document)]
-#     print(f'[INFO] File path:{file_path}')
-
-#     # path_to_sample_document
-#     file_name = os.path.basename(file_path)
-#     child_directory_path = os.path.join(document_extract_directory,file_name+'_extract') # This is where the extracts were created by previous EXTRACT step
-#     # print(f'child_directory_path:{child_directory_path}')
-
-#     # Read json extracts saved by previous step EXTRACT based on input file selected  
-#     extracted_metadata_list, extracted_metadata_file_list = load_json_content_from_dir(child_directory_path)
-#     print(f'[INFO] Extracts loaded')
-
-#     # Handle when Sections break across multiple pages, use previous last Section name as Section name of first [missing] section, overwrite JSON file.
-#     # Add missing Sections and Parent Sections
-#     extracted_metadata_updated_list, extracted_metadata_file_list = add_missing_metadata(extracted_metadata_list, extracted_metadata_file_list)
-#     print(f'[INFO] Missing informations added')
-
 else:
     print(print_colorful('🚧 Coming soon, not implemented yet.','1;33'))
     sys.exit(1)
