@@ -88,3 +88,7 @@ This repository contains miscellaneous script collections.
       _(Query run in SQL Server Management Studio)_
     - The dataset / LLM prompt can be adjusted as per your requirement once you get this solution working.
     - The LLM prompt produces output in the JSON format. The T-SQL SELECT query to parse the output is also included in this repo.
+
+- <b>/AzureML/AutoML BatchEndpoints</b>: This directory contains notebooks to train AutoML model and deploy it as a batch endpoint.
+
+- <b>/LargeDocumentQA</b>: This directory contains demo python code to extract the text from small / large PDF documents, chunk and vectorize into AI Search Index for Document QA task.
