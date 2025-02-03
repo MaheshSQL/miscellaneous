@@ -3,16 +3,88 @@
         {
             "section_name": "REGULATORY SERIES SIGNS",
             "parent_section_name": "[missing]",
-            "text": "<table><tr><th>REG</th><th>Sign</th><th>Size</th><th>Description</th></tr><tr><td>REG</td><td><img src='END_40.png' alt='END 40'></td><td>600 x 600</td><td>END 40 km/h SYMBOLIC<br>\u2022 Must only be used to terminate a temporary speed zone on a road that had not been speed zoned, or on a mobile convoy</td></tr><tr><td>REG</td><td><img src='END_60.png' alt='END 60'></td><td>600 x 600</td><td>END 60 km/h SYMBOLIC<br>\u2022 Must only be used to terminate a temporary speed zone on a road that had not been speed zoned, or on a mobile convoy</td></tr><tr><td>REG</td><td><img src='END_80.png' alt='END 80'></td><td>600 x 600</td><td>END 80 km/h SYMBOLIC<br>\u2022 Must only be used to terminate a temporary speed zone on a road that had not been speed zoned, or on a mobile convoy</td></tr><tr><td>REG</td><td><img src='NO_ENTRY.png' alt='NO ENTRY'></td><td>600 x 600</td><td>NO ENTRY SYMBOLIC</td></tr><tr><td>REG</td><td><img src='NO_LEFT_TURN.png' alt='NO LEFT TURN'></td><td>600 x 600</td><td>NO LEFT TURN SYMBOLIC</td></tr><tr><td>REG</td><td><img src='NO_RIGHT_TURN.png' alt='NO RIGHT TURN'></td><td>600 x 600</td><td>NO RIGHT TURN SYMBOLIC</td></tr><tr><td>REG</td><td><img src='NO_OVERTAKING.png' alt='NO OVERTAKING'></td><td>600 x 600</td><td>NO OVERTAKING OR PASSING</td></tr><tr><td>REG</td><td><img src='LEFT_ONLY.png' alt='LEFT ONLY'></td><td>600 x 600</td><td>LEFT ONLY</td></tr><tr><td>REG</td><td><img src='RIGHT_ONLY.png' alt='RIGHT ONLY'></td><td>600 x 600</td><td>RIGHT ONLY</td></tr><tr><td>REG</td><td><img src='SHARED_PATH.png' alt='SHARED PATH'></td><td>600 x 600</td><td>SHARED PATH</td></tr></table>",
-            "image_diagram_summary": "[missing]",
+            "text": "END 40 km/h SYMBOLIC\n\u2022 Must only be used to terminate a temporary speed zone on a road that had not been speed zoned, or on a mobile convoy.",
+            "image_diagram_summary": "END 40 sign with a grey background and black border, indicating the end of a 40 km/h speed limit. #speedlimit #end #symbolic",
             "contains_image_diagam": "true",
-            "contains_table": "true"
+            "contains_table": "false"
+        },
+        {
+            "section_name": "REGULATORY SERIES SIGNS",
+            "parent_section_name": "[missing]",
+            "text": "END 60 km/h SYMBOLIC\n\u2022 Must only be used to terminate a temporary speed zone on a road that had not been speed zoned, or on a mobile convoy.",
+            "image_diagram_summary": "END 60 sign with a grey background and black border, indicating the end of a 60 km/h speed limit. #speedlimit #end #symbolic",
+            "contains_image_diagam": "true",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "REGULATORY SERIES SIGNS",
+            "parent_section_name": "[missing]",
+            "text": "END 80 km/h SYMBOLIC\n\u2022 Must only be used to terminate a temporary speed zone on a road that had not been speed zoned, or on a mobile convoy.",
+            "image_diagram_summary": "END 80 sign with a grey background and black border, indicating the end of an 80 km/h speed limit. #speedlimit #end #symbolic",
+            "contains_image_diagam": "true",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "REGULATORY SERIES SIGNS",
+            "parent_section_name": "[missing]",
+            "text": "NO ENTRY SYMBOLIC",
+            "image_diagram_summary": "NO ENTRY sign with a red circle and white horizontal bar, indicating no entry. #noentry #symbolic",
+            "contains_image_diagam": "true",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "REGULATORY SERIES SIGNS",
+            "parent_section_name": "[missing]",
+            "text": "NO LEFT TURN SYMBOLIC",
+            "image_diagram_summary": "NO LEFT TURN sign with a red circle and diagonal line over a left arrow, indicating no left turn. #noleftturn #symbolic",
+            "contains_image_diagam": "true",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "REGULATORY SERIES SIGNS",
+            "parent_section_name": "[missing]",
+            "text": "NO RIGHT TURN SYMBOLIC",
+            "image_diagram_summary": "NO RIGHT TURN sign with a red circle and diagonal line over a right arrow, indicating no right turn. #norightturn #symbolic",
+            "contains_image_diagam": "true",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "REGULATORY SERIES SIGNS",
+            "parent_section_name": "[missing]",
+            "text": "NO OVERTAKING OR PASSING",
+            "image_diagram_summary": "NO OVERTAKING OR PASSING sign with black text on a white background, indicating no overtaking or passing. #noovertaking #nopassing",
+            "contains_image_diagam": "true",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "REGULATORY SERIES SIGNS",
+            "parent_section_name": "[missing]",
+            "text": "LEFT ONLY",
+            "image_diagram_summary": "LEFT ONLY sign with a left arrow and the word 'ONLY' below it, indicating left turn only. #leftonly",
+            "contains_image_diagam": "true",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "REGULATORY SERIES SIGNS",
+            "parent_section_name": "[missing]",
+            "text": "RIGHT ONLY",
+            "image_diagram_summary": "RIGHT ONLY sign with a right arrow and the word 'ONLY' below it, indicating right turn only. #rightonly",
+            "contains_image_diagam": "true",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "REGULATORY SERIES SIGNS",
+            "parent_section_name": "[missing]",
+            "text": "SHARED PATH",
+            "image_diagram_summary": "SHARED PATH sign with a bicycle and pedestrian symbol, indicating a shared path for both. #sharedpath",
+            "contains_image_diagam": "true",
+            "contains_table": "false"
         }
     ],
     "page_header": "OFFICIAL",
     "page_footer": "Multi-Message Sign Inventory and Application Schedule",
     "page_number": "21",
-    "document_title": "Traffic Management for Works on Roads Code of Practice",
-    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works to ensure the safety of workers and road users. It includes standards for personnel competency, traffic management plans, risk management, and the use of traffic control devices. The document details specific requirements for signage, safety audits, and procedures for handling roadworks near sensitive areas. It also outlines the use of Truck Mounted Attenuators, shadow vehicles, and innovative traffic control devices, along with accreditation requirements for traffic management roles. Additionally, it provides an inventory and application schedule for various road signs used by Main Roads Western Australia.",
+    "document_title": "Traffic Management for Works on Roads - Code of Practice",
+    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works. It emphasizes the importance of safety for both road users and workers, detailing the responsibilities of various authorities and the necessary procedures for implementing Traffic Management Plans (TMPs). The document includes specific requirements for temporary signage, traffic control devices, and risk management, as well as the use of Truck Mounted Attenuators (TMAs) and other safety measures. It also outlines accreditation requirements for traffic management personnel and provides detailed inventories and application schedules for various road signs.",
     "page_sequence_number": 122
 }

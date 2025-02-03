@@ -11,7 +11,7 @@
         {
             "section_name": "Legislation",
             "parent_section_name": "Appendix 1: Other sources of information",
-            "text": "\u2022 Occupational Safety and Health Act 1984\n\u2022 Occupational Safety and Health Regulations 1996\n\nCopies of the above legislation can be downloaded from the website of the State Law Publisher at www.slp.wa.gov.au\n\nPrinted copies can be purchased from the State Law Publisher at 10 William Street, Perth.\n\nCopies are also held in the WorkSafe library, 5th floor, 1260 Hay Street, West Perth.",
+            "text": "\u2022 Occupational Safety and Health Act 1984\n\u2022 Occupational Safety and Health Regulations 1996\nCopies of the above legislation can be downloaded from the website of the State Law Publisher at www.slp.wa.gov.au\nPrinted copies can be purchased from the State Law Publisher at 10 William Street, Perth.\nCopies are also held in the WorkSafe library, 5th floor, 1260 Hay Street, West Perth.",
             "image_diagram_summary": "[missing]",
             "contains_image_diagam": "false",
             "contains_table": "false"
@@ -19,7 +19,7 @@
         {
             "section_name": "Commission for Occupational Safety and Health publications",
             "parent_section_name": "Appendix 1: Other sources of information",
-            "text": "\u2022 Code of Practice: Safeguarding of machinery and plant\n\n\u2022 Codes of Practice: First aid facilities and services, workplace amenities and facilities, personal protective clothing and equipment\n\n\u2022 Guidance Note: The general duty of care in Western Australian workplaces\n\n\u2022 Guidance Note: Working alone\n\n\u2022 Guidance Note: Powered mobile plant\n\n\u2022 Plant Design - A guide for designers, manufacturers, importers, suppliers and installers of plant\n\n\u2022 Plant Design - A guide for employers, self-employed persons and employees\n\nThe above codes of practice and guidance notes can be purchased from WorkSafe or downloaded from WorkSafe\u2019s website at: www.worksafe.wa.gov.au. Copies are also held in the WorkSafe library.",
+            "text": "\u2022 Code of Practice: Safeguarding of machinery and plant\n\u2022 Codes of Practice: First aid facilities and services, workplace amenities and facilities, personal protective clothing and equipment\n\u2022 Guidance Note: The general duty of care in Western Australian workplaces\n\u2022 Guidance Note: Working alone\n\u2022 Guidance Note: Powered mobile plant\n\u2022 Plant Design - A guide for designers, manufacturers, importers, suppliers and installers of plant\n\u2022 Plant Design - A guide for employers, self-employed persons and employees\nThe above codes of practice and guidance notes can be purchased from WorkSafe or downloaded from WorkSafe\u2019s website at: www.worksafe.wa.gov.au. Copies are also held in the WorkSafe library.",
             "image_diagram_summary": "[missing]",
             "contains_image_diagam": "false",
             "contains_table": "false"
@@ -27,7 +27,7 @@
         {
             "section_name": "WorkSafe and Department of Mines and Petroleum publication",
             "parent_section_name": "Appendix 1: Other sources of information",
-            "text": "\u2022 A guide to testing and tagging portable electrical equipment and residual current devices.\n\nThe above publication is also a useful resource for information on isolation of plant. It can be downloaded from www.worksafe.wa.gov.au",
+            "text": "\u2022 A guide to testing and tagging portable electrical equipment and residual current devices.\nThe above publication is also a useful resource for information on isolation of plant. It can be downloaded from www.worksafe.wa.gov.au",
             "image_diagram_summary": "[missing]",
             "contains_image_diagam": "false",
             "contains_table": "false"
@@ -69,6 +69,6 @@
     "page_footer": "[missing]",
     "page_number": "11",
     "document_title": "Guidance note Isolation of plant 2010",
-    "document_summary": "The guidance note issued by the Commission for Occupational Safety and Health in Western Australia focuses on the isolation of plant to prevent workplace injuries. It outlines legislative frameworks, basic principles, and procedures for isolating plant, including risk management and alternative measures when isolation is not practicable. The document emphasizes the importance of strict adherence to isolation procedures and provides detailed steps for identifying and managing energy sources and other hazards. It also outlines the responsibilities of employers and workers under the Occupational Safety and Health Act 1984, and includes information on various isolation devices, tagging systems, and procedures for safely de-energizing equipment, along with additional resources and contact information for further assistance.",
+    "document_summary": "The guidance note from the Commission for Occupational Safety and Health in Western Australia focuses on the isolation of plant to prevent workplace injuries. It outlines the legislative framework, principles, and procedures for isolating plant, emphasizing strict adherence and risk management. The document details steps for isolating various energy sources, including electrical, fluid, steam, and pneumatic energy, and highlights the use of lockout and tagging systems. It also covers the responsibilities of employers and workers under the Occupational Safety and Health Act 1984 and provides references for further information and resources.",
     "page_sequence_number": 17
 }

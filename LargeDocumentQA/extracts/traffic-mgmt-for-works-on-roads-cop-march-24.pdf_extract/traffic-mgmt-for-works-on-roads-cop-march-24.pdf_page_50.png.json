@@ -1,42 +1,18 @@
 {
     "page_content": [
         {
-            "section_name": "6.6.1 Delineation of Temporary Road Safety Barriers",
+            "section_name": "6.6.2 Barrier Edge Clearances",
             "parent_section_name": "[missing]",
-            "text": "1. REFLECTIVE AREA OF THE TEMPORARY PAVEMENT MARKERS TO BE LOCATED PERPENDICULAR TO THE FACE OF WHICH THEY ARE APPLIED. 2. TEMPORARY PAVEMENT MARKERS SHALL BE ALIGNED SUCH THAT THE RETROREFLECTIVE SURFACES OF THE MARKER ARE ANGLED BETWEEN 85 TO 95 DEGREES TO THE DIRECTION OF ONCOMING TRAFFIC. 3. ADHESIVE FOR TEMPORARY PAVEMENT MARKERS SHALL BE EITHER HOT MELT ADHESIVE OR EPOXY ADHESIVE. REFER TO MRWA SPECIFICATION 604, SECTION 604.12.02 FOR FURTHER DETAILS. 4. FOR REFLECTIVITY OF TEMPORARY PAVEMENT MARKERS REFER TO MRWA SPECIFICATION 604; SECTION 604.12.01 FOR FURTHER DETAILS.",
-            "image_diagram_summary": "Diagram showing the front and side views of temporary pavement markers. The front view includes two locations for reflective strips, while the side view shows the placement of temporary pavement markers at 12m intervals. The diagram also includes detailed measurements for the reflective strip and adhesive placement. #technicaldrawing #reflectivestrips #pavementmarkers",
+            "text": "The below minimum edge clearances are recommended as a variation to table 5.1 of AGTTM Part 3.\n\nTable 8 \u2013 Road Safety Barrier System Clearance to Traffic Lane\n\n<table>\n<tr><th>Speed (km/h)</th><th>Distance (m)*</th></tr>\n<tr><td>40 km/h or less</td><td>0.2</td></tr>\n<tr><td>41-60 km/h</td><td>0.3</td></tr>\n<tr><td>61-80 km/h</td><td>0.5</td></tr>\n<tr><td>Greater than 80 km/h</td><td>1</td></tr>\n</table>\n\nThe above reduced clearance does not apply to the leading edge of the barrier system, Table 5.1 of AGTTM Part 3 should apply. This will reduce the risk of errant vehicles colliding with the end treatment of the barrier.",
+            "image_diagram_summary": "Diagram showing the front and side views of temporary pavement markers. The front view includes two locations for reflective strips, while the side view shows the placement of markers at 12m intervals. Detailed dimensions and notes on adhesive and reflective strip placement are also provided. #diagram #reflective #markers #dimensions",
             "contains_image_diagam": "true",
-            "contains_table": "false"
-        },
-        {
-            "section_name": "6.6.2 Barrier Edge Clearances",
-            "parent_section_name": "[missing]",
-            "text": "The below minimum edge clearances are recommended as a variation to table 5.1 of AGTTM Part 3.",
-            "image_diagram_summary": "[missing]",
-            "contains_image_diagam": "false",
-            "contains_table": "false"
-        },
-        {
-            "section_name": "6.6.2 Barrier Edge Clearances",
-            "parent_section_name": "[missing]",
-            "text": "<table><tr><th>Speed (km/h)</th><th>Distance (m)*</th></tr><tr><td>40 km/h or less</td><td>0.2</td></tr><tr><td>41-60 km/h</td><td>0.3</td></tr><tr><td>61-80 km/h</td><td>0.5</td></tr><tr><td>Greater than 80 km/h</td><td>1</td></tr></table>",
-            "image_diagram_summary": "[missing]",
-            "contains_image_diagam": "false",
             "contains_table": "true"
-        },
-        {
-            "section_name": "6.6.2 Barrier Edge Clearances",
-            "parent_section_name": "[missing]",
-            "text": "The above reduced clearance does not apply to the leading edge of the barrier system. Table 5.1 of AGTTM Part 3 should apply. This will reduce the risk of errant vehicles colliding with the end treatment of the barrier.",
-            "image_diagram_summary": "[missing]",
-            "contains_image_diagam": "false",
-            "contains_table": "false"
         }
     ],
-    "page_header": "OFFICIAL",
+    "page_header": "[missing]",
     "page_footer": "MAIN ROADS Western Australia",
     "page_number": "49",
-    "document_title": "Traffic Management for Works on Roads Code of Practice",
-    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works to ensure the safety of workers and road users. It includes standards for personnel competency, traffic management plans, risk management, and the use of traffic control devices. The document details specific requirements for signage, safety audits, and procedures for handling roadworks near sensitive areas. It also outlines the use of Truck Mounted Attenuators, shadow vehicles, and innovative traffic control devices, along with accreditation requirements for traffic management roles. Additionally, it provides an inventory and application schedule for various road signs used by Main Roads Western Australia.",
+    "document_title": "Traffic Management for Works on Roads - Code of Practice",
+    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works. It emphasizes the importance of safety for both road users and workers, detailing the responsibilities of various authorities and the necessary procedures for implementing Traffic Management Plans (TMPs). The document includes specific requirements for temporary signage, traffic control devices, and risk management, as well as the use of Truck Mounted Attenuators (TMAs) and other safety measures. It also outlines accreditation requirements for traffic management personnel and provides detailed inventories and application schedules for various road signs.",
     "page_sequence_number": 50
 }

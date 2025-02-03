@@ -3,16 +3,88 @@
         {
             "section_name": "ADVANCE WARNING SERIES SIGNS",
             "parent_section_name": "[missing]",
-            "text": "<table><tr><th>ADV</th><th>Image</th><th>Code</th><th>Size</th><th>Description</th></tr><tr><td>ADV</td><td><img src='MMS-ADV-46.png'/></td><td>MMS-ADV-46</td><td>1200 x 300</td><td>TEMPORARY HAZARD MARKER<br>\u2022 Only to be used where the top two (2) panels contain a yellow background. Otherwise, the temporary hazard marker 'MMS-ADV-45' must be used.</td></tr><tr><td>ADV</td><td><img src='MMS-ADV-47.png'/></td><td>MMS-ADV-47</td><td>600 x 600</td><td>TRAFFIC CONTROLLER SYMBOLIC</td></tr><tr><td>ADV</td><td><img src='MMS-ADV-48.png'/></td><td>MMS-ADV-48</td><td>600 x 600</td><td>TRAFFIC SIGNALS</td></tr><tr><td>ADV</td><td><img src='MMS-ADV-49.png'/></td><td>MMS-ADV-49</td><td>600 x 600</td><td>TRAFFIC SIGNALS NOT IN USE</td></tr><tr><td>ADV</td><td><img src='MMS-ADV-50.png'/></td><td>MMS-ADV-50</td><td>600 x 600</td><td>TRAFFIC SIGNALS NOT WORKING</td></tr><tr><td>ADV</td><td><img src='MMS-ADV-51.png'/></td><td>MMS-ADV-51</td><td>600 x 600</td><td>TRUCK SYMBOLIC</td></tr><tr><td>ADV</td><td><img src='MMS-ADV-52A.png'/></td><td>MMS-ADV-52A</td><td>600 x 600</td><td>WORKER SYMBOLIC</td></tr><tr><td>ADV</td><td><img src='MMS-ADV-52B.png'/></td><td>MMS-ADV-52B</td><td>1200 x 600</td><td>WORKER SYMBOLIC</td></tr><tr><td>ADV</td><td><img src='MMS-ADV-53.png'/></td><td>MMS-ADV-53</td><td>1200 x 300</td><td>UHF CHANNEL XX<br>\u2022 The use of channels 31-38 UHF is prohibited; channels 5 & 35 are for emergency use only.</td></tr><tr><td>ADV</td><td><img src='MMS-ADV-54.png'/></td><td>MMS-ADV-54</td><td>600 x 600</td><td>UHF CHANNEL XX<br>\u2022 The use of channels 31-38 UHF is prohibited; channels 5 & 35 are for emergency use only.</td></tr></table>",
-            "image_diagram_summary": "[missing]",
+            "text": "MMS-ADV-46 1200 x 300 TEMPORARY HAZARD MARKER \u2022 Only to be used where the top two (2) panels contain a yellow background. Otherwise, the temporary hazard marker 'MMS-ADV-45' must be used.",
+            "image_diagram_summary": "Black and white chevron pattern indicating a temporary hazard marker. #black #white #chevron",
             "contains_image_diagam": "true",
-            "contains_table": "true"
+            "contains_table": "false"
+        },
+        {
+            "section_name": "ADVANCE WARNING SERIES SIGNS",
+            "parent_section_name": "[missing]",
+            "text": "MMS-ADV-47 600 x 600 TRAFFIC CONTROLLER SYMBOLIC",
+            "image_diagram_summary": "Orange background with a person holding a stop sign, indicating traffic controller. #orange #person #stop_sign",
+            "contains_image_diagam": "true",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "ADVANCE WARNING SERIES SIGNS",
+            "parent_section_name": "[missing]",
+            "text": "MMS-ADV-48 600 x 600 TRAFFIC SIGNALS",
+            "image_diagram_summary": "Yellow background with a traffic light symbol, indicating traffic signals. #yellow #traffic_light",
+            "contains_image_diagam": "true",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "ADVANCE WARNING SERIES SIGNS",
+            "parent_section_name": "[missing]",
+            "text": "MMS-ADV-49 600 x 600 TRAFFIC SIGNALS NOT IN USE",
+            "image_diagram_summary": "Yellow background with a traffic light symbol and text 'SIGNALS NOT IN USE'. #yellow #traffic_light #text",
+            "contains_image_diagam": "true",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "ADVANCE WARNING SERIES SIGNS",
+            "parent_section_name": "[missing]",
+            "text": "MMS-ADV-50 600 x 600 TRAFFIC SIGNALS NOT WORKING",
+            "image_diagram_summary": "Yellow background with a traffic light symbol and a cross, indicating traffic signals not working. #yellow #traffic_light #cross",
+            "contains_image_diagam": "true",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "ADVANCE WARNING SERIES SIGNS",
+            "parent_section_name": "[missing]",
+            "text": "MMS-ADV-51 600 x 600 TRUCK SYMBOLIC",
+            "image_diagram_summary": "Yellow background with a truck symbol, indicating truck symbolic. #yellow #truck",
+            "contains_image_diagam": "true",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "ADVANCE WARNING SERIES SIGNS",
+            "parent_section_name": "[missing]",
+            "text": "MMS-ADV-52A 600 x 600 WORKER SYMBOLIC",
+            "image_diagram_summary": "Orange background with a person digging, indicating worker symbolic. #orange #person #digging",
+            "contains_image_diagam": "true",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "ADVANCE WARNING SERIES SIGNS",
+            "parent_section_name": "[missing]",
+            "text": "MMS-ADV-52B 1200 x 600 WORKER SYMBOLIC",
+            "image_diagram_summary": "Orange background with a person digging, indicating worker symbolic. #orange #person #digging",
+            "contains_image_diagam": "true",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "ADVANCE WARNING SERIES SIGNS",
+            "parent_section_name": "[missing]",
+            "text": "MMS-ADV-53 1200 x 300 UHF CHANNEL XX \u2022 The use of channels 31-38 UHF is prohibited; channels 5 & 35 are for emergency use only.",
+            "image_diagram_summary": "Yellow background with text 'UHF CHANNEL' and channel number, indicating UHF channel. #yellow #text #channel_number",
+            "contains_image_diagam": "true",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "ADVANCE WARNING SERIES SIGNS",
+            "parent_section_name": "[missing]",
+            "text": "MMS-ADV-54 600 x 600 UHF CHANNEL XX \u2022 The use of channels 31-38 UHF is prohibited; channels 5 & 35 are for emergency use only.",
+            "image_diagram_summary": "Yellow background with text 'UHF CHANNEL' and channel number, indicating UHF channel. #yellow #text #channel_number",
+            "contains_image_diagam": "true",
+            "contains_table": "false"
         }
     ],
     "page_header": "OFFICIAL",
     "page_footer": "Multi-Message Sign Inventory and Application Schedule",
     "page_number": "6",
-    "document_title": "Traffic Management for Works on Roads Code of Practice",
-    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works to ensure the safety of workers and road users. It includes standards for personnel competency, traffic management plans, risk management, and the use of traffic control devices. The document details specific requirements for signage, safety audits, and procedures for handling roadworks near sensitive areas. It also outlines the use of Truck Mounted Attenuators, shadow vehicles, and innovative traffic control devices, along with accreditation requirements for traffic management roles. Additionally, it provides an inventory and application schedule for various road signs used by Main Roads Western Australia.",
+    "document_title": "Traffic Management for Works on Roads - Code of Practice",
+    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works. It emphasizes the importance of safety for both road users and workers, detailing the responsibilities of various authorities and the necessary procedures for implementing Traffic Management Plans (TMPs). The document includes specific requirements for temporary signage, traffic control devices, and risk management, as well as the use of Truck Mounted Attenuators (TMAs) and other safety measures. It also outlines accreditation requirements for traffic management personnel and provides detailed inventories and application schedules for various road signs.",
     "page_sequence_number": 107
 }

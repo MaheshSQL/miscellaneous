@@ -3,23 +3,23 @@
         {
             "section_name": "MISCELLANEOUS SIGNS",
             "parent_section_name": "[missing]",
-            "text": "",
+            "text": "[missing]",
             "image_diagram_summary": "[missing]",
             "contains_image_diagam": "false",
             "contains_table": "true"
         },
         {
             "section_name": "SIGN APPLICATION AND DESCRIPTION",
-            "parent_section_name": "MISCELLANEOUS SIGNS",
-            "text": "<ul><li>Sign panels must only be located in the frame location as shown.</li><li>Left side multi-message sign shown only.</li><li>Multi-message signs located on both sides of the roadway must form a mirrored image of the signs being displayed.</li><li>For sign specification go to <a href='http://www.mainroads.wa.gov.au'>www.mainroads.wa.gov.au</a> > Technical & Commercial > Technical Library > Signs Index > Multi Message Signs Standards</li><li>For multi-message signs frame refer to Main Roads standard drawing 201031-0155.</li></ul>",
+            "parent_section_name": "[missing]",
+            "text": "1. Sign panels must only be located in the frame location as shown.\n2. Left side multi-message sign shown only.\n3. Multi-message signs located on both sides of the roadway must form a mirrored image of the signs being displayed.\n4. For sign specification go to www.mainroads.wa.gov.au >Technical & Commercial > Technical Library > Signs Index > Multi Message Signs Standards\n5. For multi-message signs frame refer to Main Roads standard drawing 201031-0155.",
             "image_diagram_summary": "[missing]",
             "contains_image_diagam": "false",
             "contains_table": "false"
         },
         {
             "section_name": "SIGN APPLICATION AND DESCRIPTION",
-            "parent_section_name": "MISCELLANEOUS SIGNS",
-            "text": "<table><tr><th>Sign</th><th>Main Roads Sign Number</th><th>Panel Size (mm)</th><th>Description</th></tr><tr><td><div style='background-color:black; width:120px; height:30px;'></div></td><td>N/A</td><td>1200 x 300</td><td>BLANK - BLACK<ul><li>May be used in lieu of 'THANK YOU', 'DRIVE SLOWLY' and/or 'DRIVE SAFELY' to reduce redundant messages.</li></ul></td></tr><tr><td><div style='background-color:yellow; width:120px; height:30px;'></div></td><td>N/A</td><td>1200 x 300</td><td>BLANK - YELLOW<ul><li>Must be retroreflective</li></ul></td></tr><tr><td><div style='background-color:yellow; width:60px; height:60px;'></div></td><td>N/A</td><td>600 x 600</td><td>BLANK - YELLOW<ul><li>Must be retroreflective</li></ul></td></tr></table>",
+            "parent_section_name": "[missing]",
+            "text": "<table><tr><th>Sign</th><th>Main Roads Sign Number</th><th>Panel Size (mm)</th><th>BLANK - BLACK</th></tr><tr><td><div style='background-color:black;width:100px;height:50px;'></div></td><td>N/A</td><td>1200 x 300</td><td><ul><li>May be used in lieu of 'THANK YOU', 'DRIVE SLOWLY' and/or 'DRIVE SAFELY' to reduce redundant messages.</li></ul></td></tr><tr><th>Sign</th><th>Main Roads Sign Number</th><th>Panel Size (mm)</th><th>BLANK - YELLOW</th></tr><tr><td><div style='background-color:yellow;width:100px;height:50px;'></div></td><td>N/A</td><td>1200 x 300</td><td><ul><li>Must be retroreflective</li></ul></td></tr><tr><th>Sign</th><th>Main Roads Sign Number</th><th>Panel Size (mm)</th><th>BLANK - YELLOW</th></tr><tr><td><div style='background-color:yellow;width:100px;height:100px;'></div></td><td>N/A</td><td>600 x 600</td><td><ul><li>Must be retroreflective</li></ul></td></tr></table>",
             "image_diagram_summary": "[missing]",
             "contains_image_diagam": "false",
             "contains_table": "true"
@@ -28,7 +28,7 @@
     "page_header": "OFFICIAL",
     "page_footer": "Multi-Message Sign Inventory and Application Schedule",
     "page_number": "25",
-    "document_title": "Traffic Management for Works on Roads Code of Practice",
-    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works to ensure the safety of workers and road users. It includes standards for personnel competency, traffic management plans, risk management, and the use of traffic control devices. The document details specific requirements for signage, safety audits, and procedures for handling roadworks near sensitive areas. It also outlines the use of Truck Mounted Attenuators, shadow vehicles, and innovative traffic control devices, along with accreditation requirements for traffic management roles. Additionally, it provides an inventory and application schedule for various road signs used by Main Roads Western Australia.",
+    "document_title": "Traffic Management for Works on Roads - Code of Practice",
+    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works. It emphasizes the importance of safety for both road users and workers, detailing the responsibilities of various authorities and the necessary procedures for implementing Traffic Management Plans (TMPs). The document includes specific requirements for temporary signage, traffic control devices, and risk management, as well as the use of Truck Mounted Attenuators (TMAs) and other safety measures. It also outlines accreditation requirements for traffic management personnel and provides detailed inventories and application schedules for various road signs.",
     "page_sequence_number": 126
 }

@@ -9,7 +9,7 @@
             "contains_table": "false"
         },
         {
-            "section_name": "[missing]",
+            "section_name": "Basic isolation procedure",
             "parent_section_name": "[missing]",
             "text": "Written isolation procedures should be developed where plant is combined with other machinery or equipment and may involve different processes, hazards or power sources. Only people with the right skills should develop these procedures.\n\nThe procedures should be developed in consultation with safety and health representatives, people doing adjustments, cleaning, maintenance, repairs or inspections and, if possible, plant manufacturers, suppliers and people who designed and installed the plant. Where practical, people experienced in operating the plant should also be consulted.\n\nThe effectiveness of isolation procedures relies on providing workers involved with the plant with information, instruction and training, and appointing an authorised person to supervise and ensure isolation procedures are rigorously applied.\n\nThe isolation procedure should be displayed in a prominent position on or adjacent to the plant where possible.",
             "image_diagram_summary": "[missing]",
@@ -37,6 +37,6 @@
     "page_footer": "[missing]",
     "page_number": "3",
     "document_title": "Guidance note Isolation of plant 2010",
-    "document_summary": "The guidance note issued by the Commission for Occupational Safety and Health in Western Australia focuses on the isolation of plant to prevent workplace injuries. It outlines legislative frameworks, basic principles, and procedures for isolating plant, including risk management and alternative measures when isolation is not practicable. The document emphasizes the importance of strict adherence to isolation procedures and provides detailed steps for identifying and managing energy sources and other hazards. It also outlines the responsibilities of employers and workers under the Occupational Safety and Health Act 1984, and includes information on various isolation devices, tagging systems, and procedures for safely de-energizing equipment, along with additional resources and contact information for further assistance.",
+    "document_summary": "The guidance note from the Commission for Occupational Safety and Health in Western Australia focuses on the isolation of plant to prevent workplace injuries. It outlines the legislative framework, principles, and procedures for isolating plant, emphasizing strict adherence and risk management. The document details steps for isolating various energy sources, including electrical, fluid, steam, and pneumatic energy, and highlights the use of lockout and tagging systems. It also covers the responsibilities of employers and workers under the Occupational Safety and Health Act 1984 and provides references for further information and resources.",
     "page_sequence_number": 9
 }

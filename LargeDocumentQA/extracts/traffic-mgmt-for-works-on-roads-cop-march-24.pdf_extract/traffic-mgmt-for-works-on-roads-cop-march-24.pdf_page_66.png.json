@@ -19,7 +19,7 @@
         {
             "section_name": "6.11 TRAFFIC VOLUME",
             "parent_section_name": "[missing]",
-            "text": "Table 19 \u2013 Variations to traffic volumes\n*Prohibit right turns out of a single lane if the proportion of heavy vehicles and the volume of opposing traffic is high. Seek further assistance if needed.\n**As per AGTTM \u2018The word intersection applies where traffic in the considered direction is controlled by signals, a roundabout, stop/give way controls or other control devices.\u2019",
+            "text": "Table 19 \u2013 Variations to traffic volumes *Prohibit right turns out of a single lane if the proportion of heavy vehicles and the volume of opposing traffic is high. Seek further assistance if needed. **As per AGTTM \u2018The word intersection applies where traffic in the considered direction is controlled by signals, a roundabout, stop/give way controls or other control devices.\u2019",
             "image_diagram_summary": "[missing]",
             "contains_image_diagam": "false",
             "contains_table": "false"
@@ -27,7 +27,7 @@
         {
             "section_name": "6.11 TRAFFIC VOLUME",
             "parent_section_name": "[missing]",
-            "text": "The traffic volumes shown in the table may need to be reduced under certain conditions as described below (taken direct from AGTTM for clarity):\n\u2022 Reduced by 30% if the pavement surface is rough or unsealed.\n\u2022 Reduced by 50% if the horizontal geometry through the work site is reduced to a speed value of less than 40 km/h.\n\u2022 Reduced by 20% if the volume of heavy vehicles exceeds 10% and the road is downward, level or easy upgrade.\n\u2022 Reduced by 40% if the volume of heavy vehicles exceeds 10% and the road has sustained upgrade > 5%.",
+            "text": "The traffic volumes shown in the table may need to be reduced under certain conditions as described below (taken direct from AGTTM for clarity): Reduced by 30% if the pavement surface is rough or unsealed. Reduced by 50% if the horizontal geometry through the work site is reduced to a speed value of less than 40 km/h. Reduced by 20% if the volume of heavy vehicles exceeds 10% and the road is downward, level or easy upgrade. Reduced by 40% if the volume of heavy vehicles exceeds 10% and the road has sustained upgrade > 5%.",
             "image_diagram_summary": "[missing]",
             "contains_image_diagam": "false",
             "contains_table": "false"
@@ -43,7 +43,7 @@
         {
             "section_name": "Traffic Volumes on Freeways and Grade Separated Motorways",
             "parent_section_name": "[missing]",
-            "text": "<table><tr><th>Maximum vehicles per hour per lane (one direction)</th><th>Between ramps</th><th>Within 200m of an entry-ramp* Maximum vehicles per hour per lane (one direction)</th></tr><tr><td>40 km/h</td><td>1200</td><td>700</td></tr><tr><td>60 km/h</td><td>1400</td><td>900</td></tr><tr><td>80 km/h</td><td>1600</td><td>1100</td></tr></table>",
+            "text": "<table><tr><th>Between ramps Maximum vehicles per hour per lane (one direction)</th><th>Within 200m of an entry-ramp* Maximum vehicles per hour per lane (one direction)</th></tr><tr><th>40 km/h</th><th>60 km/h</th><th>80 km/h</th><th>40 km/h</th><th>60 km/h</th><th>80 km/h</th></tr><tr><td>1200</td><td>1400</td><td>1600</td><td>700</td><td>900</td><td>1100</td></tr></table>",
             "image_diagram_summary": "[missing]",
             "contains_image_diagam": "false",
             "contains_table": "true"
@@ -51,7 +51,7 @@
         {
             "section_name": "Traffic Volumes on Freeways and Grade Separated Motorways",
             "parent_section_name": "[missing]",
-            "text": "Table 20: Traffic volumes on Grade Separated Roads\n*Applies from the start of the end of the gore area and start of the continuity or lane line see figure 7 below. This does not apply where the entry-ramp becomes an additional lane.",
+            "text": "Table 20: Traffic volumes on Grade Separated Roads *Applies from the start of the end of the gore area and start of the continuity or lane line see figure 7 below. This does not apply where the entry-ramp becomes an additional lane.",
             "image_diagram_summary": "[missing]",
             "contains_image_diagam": "false",
             "contains_table": "false"
@@ -60,7 +60,7 @@
     "page_header": "[missing]",
     "page_footer": "MAIN ROADS Western Australia",
     "page_number": "65",
-    "document_title": "Traffic Management for Works on Roads Code of Practice",
-    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works to ensure the safety of workers and road users. It includes standards for personnel competency, traffic management plans, risk management, and the use of traffic control devices. The document details specific requirements for signage, safety audits, and procedures for handling roadworks near sensitive areas. It also outlines the use of Truck Mounted Attenuators, shadow vehicles, and innovative traffic control devices, along with accreditation requirements for traffic management roles. Additionally, it provides an inventory and application schedule for various road signs used by Main Roads Western Australia.",
+    "document_title": "Traffic Management for Works on Roads - Code of Practice",
+    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works. It emphasizes the importance of safety for both road users and workers, detailing the responsibilities of various authorities and the necessary procedures for implementing Traffic Management Plans (TMPs). The document includes specific requirements for temporary signage, traffic control devices, and risk management, as well as the use of Truck Mounted Attenuators (TMAs) and other safety measures. It also outlines accreditation requirements for traffic management personnel and provides detailed inventories and application schedules for various road signs.",
     "page_sequence_number": 66
 }

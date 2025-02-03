@@ -4,8 +4,8 @@
             "section_name": "6.5.2 Setting out Temporary Speed Zones",
             "parent_section_name": "[missing]",
             "text": "Table 6 - Placement of temporary speed limit signs",
-            "image_diagram_summary": "[missing]",
-            "contains_image_diagam": "false",
+            "image_diagram_summary": "Table 6 shows the placement of temporary speed limit signs based on approach speed, works area speed, and buffer requirements. It includes columns for Approach Speed (km/h), Works Area Speed (km/h), 80 km/h Speed Buffer Required, L1 (80km/h buffer) (m), L2 (60km/h buffer) (m), and L3 (m). The table is color-coded for different speed ranges and buffer requirements. #table #speedlimits #buffers",
+            "contains_image_diagam": "true",
             "contains_table": "true"
         },
         {
@@ -36,7 +36,7 @@
     "page_header": "[missing]",
     "page_footer": "MAIN ROADS Western Australia",
     "page_number": "46",
-    "document_title": "Traffic Management for Works on Roads Code of Practice",
-    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works to ensure the safety of workers and road users. It includes standards for personnel competency, traffic management plans, risk management, and the use of traffic control devices. The document details specific requirements for signage, safety audits, and procedures for handling roadworks near sensitive areas. It also outlines the use of Truck Mounted Attenuators, shadow vehicles, and innovative traffic control devices, along with accreditation requirements for traffic management roles. Additionally, it provides an inventory and application schedule for various road signs used by Main Roads Western Australia.",
+    "document_title": "Traffic Management for Works on Roads - Code of Practice",
+    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works. It emphasizes the importance of safety for both road users and workers, detailing the responsibilities of various authorities and the necessary procedures for implementing Traffic Management Plans (TMPs). The document includes specific requirements for temporary signage, traffic control devices, and risk management, as well as the use of Truck Mounted Attenuators (TMAs) and other safety measures. It also outlines accreditation requirements for traffic management personnel and provides detailed inventories and application schedules for various road signs.",
     "page_sequence_number": 47
 }

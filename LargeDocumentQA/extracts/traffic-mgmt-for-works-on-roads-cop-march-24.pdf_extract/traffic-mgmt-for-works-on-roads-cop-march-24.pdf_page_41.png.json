@@ -10,9 +10,9 @@
         },
         {
             "section_name": "6.1.11 U-Turn DETOUR Ahead Sign",
-            "parent_section_name": "6.1.11 U-Turn DETOUR Ahead Sign",
+            "parent_section_name": "6.1.10 Advance Warning on Freeways and High-Speed High-Volume Roads",
             "text": "The U-Turn DETOUR Ahead sign (MMS-DIV-10) may be used where a detour route involves traffic undertaking a U-turn. Traffic should only be directed to undertake a U-turn at roundabouts or at traffic signals where U-turns are permitted.\n\nThe U-Turn DETOUR ahead sign may be used as a standalone sign if it is within a purpose made frame. Alternatively, if there are no relevant messages that may be added to the assembly two blanks (600 x 600) may be added to the MMS frame when using the sign.",
-            "image_diagram_summary": "MMS-DIV-10: A yellow rectangular sign with the text 'DETOUR' and a black arrow pointing left. The sign is designed to guide traffic for U-turn detours. #yellow #rectangular #blackarrow",
+            "image_diagram_summary": "DETOUR P sign (MMS-DIV-10) is a yellow rectangular sign with black text and a black arrow pointing left. It is used to indicate a detour route for U-turns. #yellow #black #arrow",
             "contains_image_diagam": "true",
             "contains_table": "false"
         },
@@ -52,7 +52,7 @@
     "page_header": "[missing]",
     "page_footer": "MAIN ROADS Western Australia",
     "page_number": "40",
-    "document_title": "Traffic Management for Works on Roads Code of Practice",
-    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works to ensure the safety of workers and road users. It includes standards for personnel competency, traffic management plans, risk management, and the use of traffic control devices. The document details specific requirements for signage, safety audits, and procedures for handling roadworks near sensitive areas. It also outlines the use of Truck Mounted Attenuators, shadow vehicles, and innovative traffic control devices, along with accreditation requirements for traffic management roles. Additionally, it provides an inventory and application schedule for various road signs used by Main Roads Western Australia.",
+    "document_title": "Traffic Management for Works on Roads - Code of Practice",
+    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works. It emphasizes the importance of safety for both road users and workers, detailing the responsibilities of various authorities and the necessary procedures for implementing Traffic Management Plans (TMPs). The document includes specific requirements for temporary signage, traffic control devices, and risk management, as well as the use of Truck Mounted Attenuators (TMAs) and other safety measures. It also outlines accreditation requirements for traffic management personnel and provides detailed inventories and application schedules for various road signs.",
     "page_sequence_number": 41
 }

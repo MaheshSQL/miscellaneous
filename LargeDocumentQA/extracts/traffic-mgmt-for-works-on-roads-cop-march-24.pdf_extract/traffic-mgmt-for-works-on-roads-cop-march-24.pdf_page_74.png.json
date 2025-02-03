@@ -9,15 +9,15 @@
             "contains_table": "false"
         },
         {
-            "section_name": "Technical Requirements:",
+            "section_name": "Technical Requirements",
             "parent_section_name": "[missing]",
-            "text": "Speed feedback signs should meet the following requirements:\n\n- Have a display area of at least 430 mm x 430 mm\n- Be positioned within or just in advance of the work area\n- Be positioned at least 30 m or the distance as shown in table 2.2 of AGTTM Part 3, whichever is greater, from traffic signals, so as not to cause motorist confusion\n- The lower edge of the sign be a minimum of 1 m above the level of the nearest lane\n- The display and optical requirements in accordance with AS 4852.2: 2019 Variable message signs Part 2: Portable signs.\n- Be calibrated to specified tolerances in accordance with manufacturer specifications and calibrated at intervals specified by the manufacturer.\n- Have the ability to display speed and message for a minimum period of five seconds\n- Have a minimum 100 metre detection range and the ability to display a message every three seconds\n- Have the ability to obtain speed data and prepare reports using proprietary software for export to Excel compatible file",
+            "text": "Speed feedback signs should meet the following requirements:\n\n\u2022 Have a display area of at least 430 mm x 430 mm\n\u2022 Be positioned within or just in advance of the work area\n\u2022 Be positioned at least 30 m or the distance as shown in table 2.2 of AGTTM Part 3, whichever is greater, from traffic signals, so as not to cause motorist confusion\n\u2022 The lower edge of the sign be a minimum of 1 m above the level of the nearest lane\n\u2022 The display and optical requirements in accordance with AS 4852.2: 2019 Variable message signs Part 2: Portable signs.\n\u2022 Be calibrated to specified tolerances in accordance with manufacturer specifications and calibrated at intervals specified by the manufacturer.\n\u2022 Have the ability to display speed and message for a minimum period of five seconds\n\u2022 Have a minimum 100 metre detection range and the ability to display a message every three seconds\n\u2022 Have the ability to obtain speed data and prepare reports using proprietary software for export to Excel compatible file",
             "image_diagram_summary": "[missing]",
             "contains_image_diagam": "false",
             "contains_table": "false"
         },
         {
-            "section_name": "Technical Requirements:",
+            "section_name": "Technical Requirements",
             "parent_section_name": "[missing]",
             "text": "<table><tr><th>Speed (km/h)</th><th>Distance (m)</th></tr><tr><td>55 or less</td><td>30</td></tr><tr><td>56-65</td><td>45</td></tr><tr><td>66 or more</td><td>Equal to the speed (km/h)</td></tr></table>\n\nFor more information on vehicle activated signs refer to the Main Roads Policy and Guidelines for Vehicle Activated Signs.",
             "image_diagram_summary": "[missing]",
@@ -28,7 +28,7 @@
     "page_header": "[missing]",
     "page_footer": "MAIN ROADS Western Australia",
     "page_number": "73",
-    "document_title": "Traffic Management for Works on Roads Code of Practice",
-    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works to ensure the safety of workers and road users. It includes standards for personnel competency, traffic management plans, risk management, and the use of traffic control devices. The document details specific requirements for signage, safety audits, and procedures for handling roadworks near sensitive areas. It also outlines the use of Truck Mounted Attenuators, shadow vehicles, and innovative traffic control devices, along with accreditation requirements for traffic management roles. Additionally, it provides an inventory and application schedule for various road signs used by Main Roads Western Australia.",
+    "document_title": "Traffic Management for Works on Roads - Code of Practice",
+    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works. It emphasizes the importance of safety for both road users and workers, detailing the responsibilities of various authorities and the necessary procedures for implementing Traffic Management Plans (TMPs). The document includes specific requirements for temporary signage, traffic control devices, and risk management, as well as the use of Truck Mounted Attenuators (TMAs) and other safety measures. It also outlines accreditation requirements for traffic management personnel and provides detailed inventories and application schedules for various road signs.",
     "page_sequence_number": 74
 }

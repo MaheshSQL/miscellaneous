@@ -11,7 +11,7 @@
         {
             "section_name": "Merges at Entry Ramps",
             "parent_section_name": "[missing]",
-            "text": "<table><tr><th>Speed (km/h)</th><th>Mutual Visibility</th><th>Required length, m</th></tr><tr><td></td><td></td><td>Parallel Section<sup>1</sup></td><td>Merge Taper</td><td>Run-out area<sup>2</sup></td></tr><tr><td>80</td><td>90</td><td>65</td><td>80</td><td>30</td></tr><tr><td>90</td><td>100</td><td>75</td><td>90</td><td>30</td></tr><tr><td>100</td><td>115</td><td>85</td><td>100</td><td>30</td></tr></table> Table 25: Minimum entry ramp merging lengths (variation approval required) <sup>1</sup>The full length of the parallel section must allow drivers to legally change lanes on to the major road (i.e. separated by lane or continuity lines). <sup>2</sup>Run-out area distance beyond the end of the merge taper.",
+            "text": "<table><tr><th>Speed (km/h)</th><th>Mutual Visibility</th><th>Required length, m</th><th>Parallel Section<sup>1</sup></th><th>Merge Taper</th><th>Run-out area<sup>2</sup></th></tr><tr><td>80</td><td>90</td><td>65</td><td>80</td><td>30</td></tr><tr><td>90</td><td>100</td><td>75</td><td>90</td><td>30</td></tr><tr><td>100</td><td>115</td><td>85</td><td>100</td><td>30</td></tr></table>",
             "image_diagram_summary": "[missing]",
             "contains_image_diagam": "false",
             "contains_table": "true"
@@ -19,7 +19,15 @@
         {
             "section_name": "Merges at Entry Ramps",
             "parent_section_name": "[missing]",
-            "text": "The following must be considered when applying the minimum distances: Staging the works so that the reduced distances are only provided during the early stages of the works and installed for as short a duration as possible. Providing lane change pavement arrows The design of entry merges at long-term works must be undertaken by either: A specialist road designer in consultation with an RTM; or Endorsed by an RTM proficient in Road Design Principles, Austroads Guide to Road Design and Main Roads WA Road Design Guidelines.",
+            "text": "Table 25: Minimum entry ramp merging lengths (variation approval required)\n1The full length of the parallel section must allow drivers to legally change lanes on to the major road (i.e. separated by lane or continuity lines).\n2Run-out area distance beyond the end of the merge taper.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "Merges at Entry Ramps",
+            "parent_section_name": "[missing]",
+            "text": "The following must be considered when applying the minimum distances:\n\u2022 Staging the works so that the reduced distances are only provided during the early stages of the works and installed for as short a duration as possible.\n\u2022 Providing lane change pavement arrows\nThe design of entry merges at long-term works must be undertaken by either:\n\u2022 A specialist road designer in consultation with an RTM; or\n\u2022 Endorsed by an RTM proficient in Road Design Principles, Austroads Guide to Road Design and Main Roads WA Road Design Guidelines.",
             "image_diagram_summary": "[missing]",
             "contains_image_diagam": "false",
             "contains_table": "false"
@@ -27,7 +35,7 @@
         {
             "section_name": "6.18 EMERGENCY LANES AND VEHICLE BREAKDOWNS",
             "parent_section_name": "[missing]",
-            "text": "If long-term works on high volume State Roads remove the emergency lane for the purposes of the works and/or long term works on a Freeway, the following must be provided to reduce the likelihood of congestion if incidents or breakdowns occur and to ensure the safety of road users: stopping bays must be provided every 500 m for the duration of the works; and a dedicated tow truck must be arranged by the contractor (assessment of the operating hours for tow truck should be coordinated by Main Roads Road Planned Interventions).",
+            "text": "If long-term works on high volume State Roads remove the emergency lane for the purposes of the works and/or long term works on a Freeway, the following must be provided to reduce the likelihood of congestion if incidents or breakdowns occur and to ensure the safety of road users:\n\u2022 stopping bays must be provided every 500 m for the duration of the works; and\n\u2022 a dedicated tow truck must be arranged by the contractor (assessment of the operating hours for tow truck should be coordinated by Main Roads Road Planned Interventions).",
             "image_diagram_summary": "[missing]",
             "contains_image_diagam": "false",
             "contains_table": "false"
@@ -35,7 +43,7 @@
         {
             "section_name": "6.19 SMART FREEWAYS",
             "parent_section_name": "[missing]",
-            "text": "Where works are planned on the Smart Freeway sections of the freeway (Kwinana Freeway northbound from Farrington Road to the Narrows Bridge); those planning the works are to contact Road Planned Interventions for guidance prior to the preparation of the TMP (e.g. how to incorporate the Lane Use Management Signs). Details regarding the proposed works are to be sent to enquiries@mainroads.wa.gov.au From late 2024, where works are planned on the Smart Freeway section of the Mitchell Freeway (Mitchell Freeway southbound from Hester Ave to Vincent St) the above is also applicable.",
+            "text": "Where works are planned on the Smart Freeway sections of the freeway (Kwinana Freeway northbound from Farrington Road to the Narrows Bridge); those planning the works are to contact Road Planned Interventions for guidance prior to the preparation of the TMP (e.g. how to incorporate the Lane Use Management Signs). Details regarding the proposed works are to be sent to enquiries@mainroads.wa.gov.au\nFrom late 2024, where works are planned on the Smart Freeway section of the Mitchell Freeway (Mitchell Freeway southbound from Hester Ave to Vincent St) the above is also applicable.",
             "image_diagram_summary": "[missing]",
             "contains_image_diagam": "false",
             "contains_table": "false"
@@ -44,7 +52,7 @@
     "page_header": "[missing]",
     "page_footer": "MAIN ROADS Western Australia",
     "page_number": "75",
-    "document_title": "Traffic Management for Works on Roads Code of Practice",
-    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works to ensure the safety of workers and road users. It includes standards for personnel competency, traffic management plans, risk management, and the use of traffic control devices. The document details specific requirements for signage, safety audits, and procedures for handling roadworks near sensitive areas. It also outlines the use of Truck Mounted Attenuators, shadow vehicles, and innovative traffic control devices, along with accreditation requirements for traffic management roles. Additionally, it provides an inventory and application schedule for various road signs used by Main Roads Western Australia.",
+    "document_title": "Traffic Management for Works on Roads - Code of Practice",
+    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works. It emphasizes the importance of safety for both road users and workers, detailing the responsibilities of various authorities and the necessary procedures for implementing Traffic Management Plans (TMPs). The document includes specific requirements for temporary signage, traffic control devices, and risk management, as well as the use of Truck Mounted Attenuators (TMAs) and other safety measures. It also outlines accreditation requirements for traffic management personnel and provides detailed inventories and application schedules for various road signs.",
     "page_sequence_number": 76
 }

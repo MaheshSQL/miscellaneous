@@ -2,7 +2,7 @@
     "page_content": [
         {
             "section_name": "6.9.2 Other use of TMAs",
-            "parent_section_name": "[missing]",
+            "parent_section_name": "6.9.2 Other use of TMAs",
             "text": "In addition to the mandatory requirements for the use of TMAs as prescribed above consideration must be given to the use of TMAs when all the criteria described below exist at a work site:\n\u2022 The work area occupies the live traffic lane; and\n\u2022 The work area will not be separated or protected by a full road closure or road safety barrier; and\n\u2022 The posted speed limit prior to road works is 100 km/h or more; and\n\u2022 The road is a multilane road.\nTMAs may be used at other locations than those detailed above, it is important to note if using a TMA on 2 lane 2 way roads the display of the arrow on the illuminated flashing arrow sign is likely not appropriate, as traffic is likely to need to seek a gap in oncoming traffic to safely pass. Where the arrow cannot be displayed, either the bar of the arrow only or the four corner lights at the extremities of the barbs must be flashed (refer AS1742.3).\nRefer to section 8.7 for TMA operator training requirements.",
             "image_diagram_summary": "[missing]",
             "contains_image_diagam": "false",
@@ -10,7 +10,7 @@
         },
         {
             "section_name": "6.9.3 Incident Response and Emergency Works",
-            "parent_section_name": "[missing]",
+            "parent_section_name": "6.9.3 Incident Response and Emergency Works",
             "text": "When responding to incidents and/or emergencies there are many different risks to consider compared with planned works. It is recognised that it will generally not be possible to set up the site to be fully compliant with temporary traffic management requirements, including the use of TMAs where required.\nEmergency Management Agencies (and their approved contractors when undertaking these tasks) should consider the following when responding to incidents at locations where a TMA is required:\n\u2022 The risk posed by the incident if left untreated, i.e. is taking no action deemed a higher risk than if action is taken\n\u2022 The timeframe to have a TMA or IPPV on site\n\u2022 The speed of traffic, e.g. has the traffic speed been significantly reduced due to the incident (or general traffic congestion)\n\u2022 The part of the roadway where the incident has occurred, e.g. will there be an escape path for workers\n\u2022 The traffic volume at the time of the incident, e.g. will there be sufficient gaps in traffic for workers to treat the incident\n\u2022 The use of a lookout person to warn workers of oncoming vehicles\n\u2022 Is the vehicle fitted with a flashing arrow sign, to provide warning to oncoming vehicles and shadow the workers\n\u2022 Can Variable Message Signs (VMS), the Lane Use Management System (LUMS) and/or other ITS solutions be utilised to warn and/or control motorists.",
             "image_diagram_summary": "[missing]",
             "contains_image_diagam": "false",
@@ -20,7 +20,7 @@
     "page_header": "[missing]",
     "page_footer": "MAIN ROADS Western Australia",
     "page_number": "63",
-    "document_title": "Traffic Management for Works on Roads Code of Practice",
-    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works to ensure the safety of workers and road users. It includes standards for personnel competency, traffic management plans, risk management, and the use of traffic control devices. The document details specific requirements for signage, safety audits, and procedures for handling roadworks near sensitive areas. It also outlines the use of Truck Mounted Attenuators, shadow vehicles, and innovative traffic control devices, along with accreditation requirements for traffic management roles. Additionally, it provides an inventory and application schedule for various road signs used by Main Roads Western Australia.",
+    "document_title": "Traffic Management for Works on Roads - Code of Practice",
+    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works. It emphasizes the importance of safety for both road users and workers, detailing the responsibilities of various authorities and the necessary procedures for implementing Traffic Management Plans (TMPs). The document includes specific requirements for temporary signage, traffic control devices, and risk management, as well as the use of Truck Mounted Attenuators (TMAs) and other safety measures. It also outlines accreditation requirements for traffic management personnel and provides detailed inventories and application schedules for various road signs.",
     "page_sequence_number": 64
 }

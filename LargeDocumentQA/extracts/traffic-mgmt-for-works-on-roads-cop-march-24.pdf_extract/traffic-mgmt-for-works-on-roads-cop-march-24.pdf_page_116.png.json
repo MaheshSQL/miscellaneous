@@ -3,7 +3,7 @@
         {
             "section_name": "TERMINATION SERIES SIGNS",
             "parent_section_name": "[missing]",
-            "text": "<table><tr><th>Sign</th><th>Main Roads Sign Number</th><th>Panel Size (mm)</th><th>Sign Application and Description</th></tr><tr><td>DRIVE SAFELY</td><td>MMS-TER-1</td><td>1200 x 300</td><td>DRIVE SAFELY</td></tr><tr><td>END BLASTING AREA</td><td>MMS-TER-2</td><td>1200 x 600</td><td>END BLASTING AREA</td></tr><tr><td>END DETOUR</td><td>MMS-TER-3</td><td>600 x 600</td><td>END DETOUR</td></tr><tr><td>END ROADWORK</td><td>MMS-TER-4</td><td>600 x 600</td><td>END ROADWORK</td></tr><tr><td>END ROADWORK</td><td>MMS-TER-5</td><td>1200 x 600</td><td>END ROADWORK</td></tr><tr><td>THANK YOU</td><td>MMS-TER-6</td><td>1200 x 300</td><td>THANK YOU</td></tr></table>",
+            "text": "[missing]",
             "image_diagram_summary": "[missing]",
             "contains_image_diagam": "false",
             "contains_table": "true"
@@ -11,16 +11,24 @@
         {
             "section_name": "SIGN APPLICATION AND DESCRIPTION",
             "parent_section_name": "[missing]",
-            "text": "1. Sign panels must only be located in the frame location as shown.\n2. Left side multi-message sign shown only.\n3. Multi-message signs located on both sides of the roadway must form a mirrored image of the signs being displayed.\n4. For sign specification go to www.mainroads.wa.gov.au > Technical & Commercial > Technical Library > Signs Index > Multi Message Signs Standards\n5. For multi-message signs frame refer to Main Roads standard drawing 201031-0155.",
+            "text": "1. Sign panels must only be located in the frame location as shown.<br>2. Left side multi-message sign shown only.<br>3. Multi-message signs located on both sides of the roadway must form a mirrored image of the signs being displayed.<br>4. For sign specification go to www.mainroads.wa.gov.au >Technical & Commercial > Technical Library > Signs Index > Multi Message Signs Standards<br>5. For multi-message signs frame refer to Main Roads standard drawing 201031-0155.",
             "image_diagram_summary": "[missing]",
             "contains_image_diagam": "false",
             "contains_table": "false"
+        },
+        {
+            "section_name": "SIGN APPLICATION AND DESCRIPTION",
+            "parent_section_name": "[missing]",
+            "text": "<table><tr><th>Group</th><th>Sign</th><th>Main Roads Sign Number</th><th>Panel Size (mm)</th><th></th></tr><tr><td>T E R</td><td><img src='drive_safely.png' alt='DRIVE SAFELY'></td><td>MMS-TER-1</td><td>1200 x 300</td><td>DRIVE SAFELY</td></tr><tr><td>T E R</td><td><img src='end_blasting_area.png' alt='END BLASTING AREA'></td><td>MMS-TER-2</td><td>1200 x 600</td><td>END BLASTING AREA</td></tr><tr><td>T E R</td><td><img src='end_detour.png' alt='END DETOUR'></td><td>MMS-TER-3</td><td>600 x 600</td><td>END DETOUR</td></tr><tr><td>T E R</td><td><img src='end_road_work.png' alt='END ROAD WORK'></td><td>MMS-TER-4</td><td>600 x 600</td><td>END ROADWORK</td></tr><tr><td>T E R</td><td><img src='end_roadwork.png' alt='END ROADWORK'></td><td>MMS-TER-5</td><td>1200 x 600</td><td>END ROADWORK</td></tr><tr><td>T E R</td><td><img src='thank_you.png' alt='THANK YOU'></td><td>MMS-TER-6</td><td>1200 x 300</td><td>THANK YOU</td></tr></table>",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "true",
+            "contains_table": "true"
         }
     ],
     "page_header": "OFFICIAL",
     "page_footer": "Multi-Message Sign Inventory and Application Schedule",
     "page_number": "15",
-    "document_title": "Traffic Management for Works on Roads Code of Practice",
-    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works to ensure the safety of workers and road users. It includes standards for personnel competency, traffic management plans, risk management, and the use of traffic control devices. The document details specific requirements for signage, safety audits, and procedures for handling roadworks near sensitive areas. It also outlines the use of Truck Mounted Attenuators, shadow vehicles, and innovative traffic control devices, along with accreditation requirements for traffic management roles. Additionally, it provides an inventory and application schedule for various road signs used by Main Roads Western Australia.",
+    "document_title": "Traffic Management for Works on Roads - Code of Practice",
+    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works. It emphasizes the importance of safety for both road users and workers, detailing the responsibilities of various authorities and the necessary procedures for implementing Traffic Management Plans (TMPs). The document includes specific requirements for temporary signage, traffic control devices, and risk management, as well as the use of Truck Mounted Attenuators (TMAs) and other safety measures. It also outlines accreditation requirements for traffic management personnel and provides detailed inventories and application schedules for various road signs.",
     "page_sequence_number": 116
 }

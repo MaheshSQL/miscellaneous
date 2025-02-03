@@ -36,10 +36,15 @@ DOCUMENTINTELLIGENCE_ENDPOINT = os.getenv('DOCUMENTINTELLIGENCE_ENDPOINT')
 DOCUMENTINTELLIGENCE_API_KEY = os.getenv('DOCUMENTINTELLIGENCE_API_KEY')
 
 ############################ Variables #######################
+
+# Pages skipped due to error: 
+# 2017-foreign-policy-white-paper.pdf_page_38.png (content_filter)
+
 file_paths_dict = {
     1: ".\\sample_documents\\AzureOpenAI FAQ.pdf",
     2: ".\\sample_documents\\guide-isolation_of_plant.pdf",
-    3: ".\\sample_documents\\traffic-mgmt-for-works-on-roads-cop-march-24.pdf"
+    3: ".\\sample_documents\\traffic-mgmt-for-works-on-roads-cop-march-24.pdf",
+    4: ".\\sample_documents\\2017-foreign-policy-white-paper.pdf" 
 }
 
 image_output_directory = '.\\images'
@@ -63,6 +68,7 @@ class SampleDocs(Enum):
     AOAI_FAQ = 1
     ISOLATION_OF_PLANT = 2
     TRAFFIC_MGMT = 3
+    FOREIGN_POLICY =4
 
 class ParagraphRoles(Enum):
     """ Enum to define the priority of paragraph roles """
@@ -601,6 +607,8 @@ def get_text_metadata_image_list(path_to_sample_document, image_path_list):
     # Create required directories if missing
     os.makedirs(child_directory_path, exist_ok=True)
 
+    extract_title_finish_reason, page_summary_finish_reason, document_summary_finish_reason = '', '', ''
+
     # Title --------------------------------------
     completion_title_json = json.loads(llm_completion(image_path_list[:top_n_pages], SystemMessage.EXTRACT_TITLE, detail = image_res))  
    
@@ -610,6 +618,10 @@ def get_text_metadata_image_list(path_to_sample_document, image_path_list):
     else: # In case the AOAI response is not as expected above, print it out to the user
         print(f'[ERROR]: Could not retrieve the document title')
         print(f'completion_title_json:{json.dumps(completion_title_json, indent=4)}')
+
+    # Add finish_reason - help analyze if any responses had errors due to content_filter, length, etc.
+    if "choices" in completion_title_json and len(completion_title_json["choices"]) and "finish_reason" in completion_title_json["choices"][0]:
+        extract_title_finish_reason = completion_title_json["choices"][0]["finish_reason"]
 
     print(f'[INFO] document_title:{document_title}')
     
@@ -631,6 +643,10 @@ def get_text_metadata_image_list(path_to_sample_document, image_path_list):
             print(f'[ERROR]: Could not retrieve the page summary')
             print(f'completion_page_summary_json:{json.dumps(completion_page_summary_json, indent=4)}')
 
+            # Add finish_reason - help analyze if any responses had errors due to content_filter, length, etc.
+        if "choices" in completion_page_summary_json and len(completion_page_summary_json["choices"]) and "finish_reason" in completion_page_summary_json["choices"][0]:
+            page_summary_finish_reason = completion_page_summary_json["choices"][0]["finish_reason"]
+
         # print(f'[INFO] page_summary:{page_summary}')
         page_summary_list.append(page_summary)
         
@@ -648,6 +664,10 @@ def get_text_metadata_image_list(path_to_sample_document, image_path_list):
     else: # In case the AOAI response is not as expected above, print it out to the user
         print(f'[ERROR]: Could not retrieve the document summary')
         print(f'document_summary:{json.dumps(completion_document_summary_json, indent=4)}')
+
+    # Add finish_reason - help analyze if any responses had errors due to content_filter, length, etc.
+    if "choices" in completion_document_summary_json and len(completion_document_summary_json["choices"]) and "finish_reason" in completion_document_summary_json["choices"][0]:
+        document_summary_finish_reason = completion_document_summary_json["choices"][0]["finish_reason"]
 
     # print(f'[INFO] document_summary:{document_summary}')      
     print(f'[INFO] Document summary created')
@@ -674,10 +694,22 @@ def get_text_metadata_image_list(path_to_sample_document, image_path_list):
             print(f'[ERROR]: Could not retrieve the document content - {image_path}')
             print(f'completion_content_json:{json.dumps(completion_content_json, indent=4)}')
 
+        # Add finish_reason when it is other than 'stop'- help analyze if any responses had errors due to content_filter, length, etc.
+        if "choices" in completion_content_json and len(completion_content_json["choices"]) and "finish_reason" in completion_content_json["choices"][0] and completion_content_json["choices"][0]["finish_reason"] != 'stop':
+            document_content["llm_extract_content_finish_reason"] = completion_content_json["choices"][0]["finish_reason"]
+
         # Enrich content
         document_content["document_title"] = document_title
         document_content["document_summary"] = document_summary
-        document_content["page_sequence_number"] = page_sequence_number             
+        document_content["page_sequence_number"] = page_sequence_number   
+
+        # Include finish_reason when it is other than 'stop'
+        if extract_title_finish_reason!='' and extract_title_finish_reason!='stop':
+            document_content["extract_title_finish_reason"] = extract_title_finish_reason
+        if page_summary_finish_reason!='' and page_summary_finish_reason!='stop':
+            document_content["page_summary_finish_reason"] = page_summary_finish_reason
+        if document_summary_finish_reason!='' and document_summary_finish_reason!='stop':
+            document_content["document_summary_finish_reason"] = document_summary_finish_reason
 
         # Save dictionary to a JSON file  
         json_extract_path = f'{os.path.join(child_directory_path, os.path.basename(image_path))}.json'
@@ -708,6 +740,7 @@ def add_missing_metadata(extracted_metadata_list, extracted_metadata_file_list):
         # print(f'Adding missing metadata to page sequence no. {str(i+1)}')
         page_content_json = extracted_metadata_list[i]
         metadata_file_path = extracted_metadata_file_list[i]
+        # print(f'Processing file: {os.path.basename(metadata_file_path)}')
 
         is_modified = False
 
@@ -717,9 +750,9 @@ def add_missing_metadata(extracted_metadata_list, extracted_metadata_file_list):
             # Previous page
             prev_page_content_json = extracted_metadata_list[i-1]
 
-            # Addition 1
+            # Addition 1: Propogate section_name and parent_section_name from previous page
             # Check if there's text item present on both current and previous page
-            if "page_content" in page_content_json and len(page_content_json["page_content"]) > 0 and len(prev_page_content_json["page_content"]) > 0: 
+            if "page_content" in page_content_json and len(page_content_json["page_content"]) > 0 and "page_content" in prev_page_content_json and len(prev_page_content_json["page_content"]) > 0: 
 
                 # Check if text present for the first item of the current page
                 if len(page_content_json["page_content"][0]["text"].strip()) > 0 and page_content_json["page_content"][0]["text"].strip() != "[missing]": 
@@ -746,10 +779,11 @@ def add_missing_metadata(extracted_metadata_list, extracted_metadata_file_list):
                             is_modified = True
                             # print('parent_section_name updated')
 
-            # Addition 2
+            # Addition 2: Propogate section_name and parent_section_name to subsequent items on same page
             # Check if there's text item present on current page
             if "page_content" in page_content_json and len(page_content_json["page_content"]) > 0:
 
+                # Items detected on a page
                 for j in range(len(page_content_json["page_content"])):
 
                     # Skip first item as it's section and parent section name will be used for items immediately after it with [missing] section and parent section
@@ -813,7 +847,7 @@ def create_chunks(file_path, extracted_metadata_updated_list, extracted_metadata
     search_document_chunks_list = []
 
     # Each page
-    for i in range(len(extracted_metadata_updated_list)):
+    for i in range(len(extracted_metadata_updated_list)):        
 
         # Extracted items in each page
         page_extract = extracted_metadata_updated_list[i]        
@@ -855,7 +889,7 @@ def create_chunks(file_path, extracted_metadata_updated_list, extracted_metadata
                     parent_section = text_item["parent_section_name"] if "parent_section_name" in text_item and text_item["parent_section_name"].strip() != '[missing]' else ''
                     text = text_item["text"] if "text" in text_item and text_item["text"].strip() != '[missing]' else ''
 
-                    image_flag = True if "contains_image_diagam" in text_item and text_item["contains_image_diagam"].strip() != '[missing]' and text_item["contains_image_diagam"].strip().upper() == 'true'.upper() else False
+                    image_flag = True if "contains_image_diagam" in text_item and str(text_item["contains_image_diagam"]).strip() != '[missing]' and str(text_item["contains_image_diagam"]).strip().upper() == 'true'.upper() else False
                     image_diagram_summary =  text_item["image_diagram_summary"] if "image_diagram_summary" in text_item and text_item["image_diagram_summary"].strip() != '[missing]' else ''
                     
                     text_content = f'''  
@@ -935,6 +969,10 @@ def create_chunks(file_path, extracted_metadata_updated_list, extracted_metadata
 
         # break # Comment post debugging
 
+        # Print a progress every 20 pages or when all done
+        if (i + 1) % 20 == 0 or (i + 1) == len(extracted_metadata_updated_list):  
+            print(f'[INFO] {i + 1} pages completed')
+
     # Save chunk list in file for review / debugging    
     # Create required directories if missing
     os.makedirs(chunk_export_directory, exist_ok=True)
@@ -964,6 +1002,7 @@ def ingest_chunks(search_document_chunks_list):
     # https://learn.microsoft.com/en-us/azure/search/search-what-is-data-import#pushing-data-to-an-index
     batches_list = chunk_list(search_document_chunks_list, AI_Search_batch_size) # Keep it below 1000 items
 
+    print(f'[INFO] Uploading to {AI_SEARCH_INDEX_NAME} index')
     for batch in batches_list:
 
         print(f'[INFO] Uploading {len(batch)} documents')
@@ -1090,6 +1129,39 @@ elif Scenarios(int(input_scenario)) == Scenarios.UPLOAD: # Handle document UPLOA
 
     print(f'[INFO] Chunk ingestion to AI Search completed')
 
+# # TEMP
+# elif Scenarios(int(input_scenario)) == Scenarios.QUERY: # TEMP for debugging, remove... whole elif section
+
+#     # Select file from user input
+#     print(print_colorful(f'✅ You have selected {Scenarios(int(input_scenario))}', '1;32'))
+
+#     # Dynamically show file names based on available files
+#     user_text = '\n'+' '.join([f'[{key}] {os.path.basename(path)}' for key, path in file_paths_dict.items()]) + ': '
+#     selected_document = input(user_text)
+
+#     # Validate
+#     if selected_document not in [str(sampledocs.value) for sampledocs in SampleDocs]:
+#         print(print_colorful('❌ Invalid document, please try again.','1;31'))
+#         sys.exit(1)
+
+#     print(print_colorful(f'✅ You have selected {SampleDocs(int(selected_document))}', '1;32'))
+
+#     file_path = file_paths_dict[int(selected_document)]
+#     print(f'[INFO] File path:{file_path}')
+
+#     # path_to_sample_document
+#     file_name = os.path.basename(file_path)
+#     child_directory_path = os.path.join(document_extract_directory,file_name+'_extract') # This is where the extracts were created by previous EXTRACT step
+#     # print(f'child_directory_path:{child_directory_path}')
+
+#     # Read json extracts saved by previous step EXTRACT based on input file selected  
+#     extracted_metadata_list, extracted_metadata_file_list = load_json_content_from_dir(child_directory_path)
+#     print(f'[INFO] Extracts loaded')
+
+#     # Handle when Sections break across multiple pages, use previous last Section name as Section name of first [missing] section, overwrite JSON file.
+#     # Add missing Sections and Parent Sections
+#     extracted_metadata_updated_list, extracted_metadata_file_list = add_missing_metadata(extracted_metadata_list, extracted_metadata_file_list)
+#     print(f'[INFO] Missing informations added')
 
 else:
     print(print_colorful('🚧 Coming soon, not implemented yet.','1;33'))

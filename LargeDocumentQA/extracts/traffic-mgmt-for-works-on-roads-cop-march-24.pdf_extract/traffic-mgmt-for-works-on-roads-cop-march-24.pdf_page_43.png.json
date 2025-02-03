@@ -2,8 +2,8 @@
     "page_content": [
         {
             "section_name": "6.3 SECURING SIGNS AND DEVICES",
-            "parent_section_name": "6.3 SECURING SIGNS AND DEVICES",
-            "text": "",
+            "parent_section_name": "[missing]",
+            "text": "[missing]",
             "image_diagram_summary": "[missing]",
             "contains_image_diagam": "false",
             "contains_table": "false"
@@ -11,7 +11,7 @@
         {
             "section_name": "6.3.1 Securing Signs",
             "parent_section_name": "6.3 SECURING SIGNS AND DEVICES",
-            "text": "",
+            "text": "[missing]",
             "image_diagram_summary": "[missing]",
             "contains_image_diagam": "false",
             "contains_table": "false"
@@ -19,7 +19,7 @@
         {
             "section_name": "6.3.1 Securing Signs",
             "parent_section_name": "6.3 SECURING SIGNS AND DEVICES",
-            "text": "Requirement to Secure Signs\nAS 1742.3 requires that signs and devices must be positioned and erected so that they are properly displayed and securely mounted. This requirement applies irrespective of the length of time that the sign is displayed, where the sign is located or the environmental conditions.\nFactors that influence the risk of fallen signs are:\n\u2022 Wind force; travel speeds; sign offset from the edge line; the presence of road trains and expected weather conditions,\n\u2022 Slope of ground; with steeper batters increasing the risk,\n\u2022 Duration that the sign is place; longer duration increases risk.",
+            "text": "Requirement to Secure Signs\nAS 1742.3 requires that signs and devices must be positioned and erected so that they are properly displayed and securely mounted. This requirement applies irrespective of the length of time that the sign is displayed, where the sign is located or the environmental conditions.\n\nFactors that influence the risk of fallen signs are:\n\u2022 Wind force; travel speeds; sign offset from the edge line; the presence of road trains and expected weather conditions,\n\u2022 Slope of ground; with steeper batters increasing the risk,\n\u2022 Duration that the sign is place; longer duration increases risk.",
             "image_diagram_summary": "[missing]",
             "contains_image_diagam": "false",
             "contains_table": "false"
@@ -35,7 +35,7 @@
         {
             "section_name": "6.3.1 Securing Signs",
             "parent_section_name": "6.3 SECURING SIGNS AND DEVICES",
-            "text": "Requirements for Signs not Mounted on Permanent Posts\nAt locations where signs are not mounted on permanent posts the signs must be securely mounted.\nWhere workers are not available to immediately identify and rectify fallen signs, the securing of signs must include one of the following methods:\n\u2022 Sandbags (or similar) on all 4 legs (total weight of at least 40 kg)*\n\u2022 Affixing to other suitable permanent roadside infrastructure12\n\u2022 Semi-permanent mounting of permanent posts (in accordance with manufacturers specifications) e.g. Oz Spike or similar\n*The lateral offset to the travelled way and the speed of passing traffic have a significant impact on the risk of signs falling over, the number of sandbags may be reduced to the figures indicated in the table 5 below (other factors such as number of heavy vehicles and weather conditions must also be considered).",
+            "text": "Requirements for Signs not Mounted on Permanent Posts\nAt locations where signs are not mounted on permanent posts the signs must be securely mounted.\n\nWhere workers are not available to immediately identify and rectify fallen signs, the securing of signs must include one of the following methods:\n\u2022 Sandbags (or similar) on all 4 legs (total weight of at least 40 kg)*\n\u2022 Affixing to other suitable permanent roadside infrastructure12\n\u2022 Semi-permanent mounting of permanent posts (in accordance with manufacturers specifications) e.g. Oz Spike or similar\n\n*The lateral offset to the travelled way and the speed of passing traffic have a significant impact on the risk of signs falling over, the number of sandbags may be reduced to the figures indicated in the table 5 below (other factors such as number of heavy vehicles and weather conditions must also be considered).",
             "image_diagram_summary": "[missing]",
             "contains_image_diagam": "false",
             "contains_table": "false"
@@ -43,16 +43,32 @@
         {
             "section_name": "6.3.1 Securing Signs",
             "parent_section_name": "6.3 SECURING SIGNS AND DEVICES",
-            "text": "<table><tr><th>Permanent Speed Limit</th><th>Clearance of sign to travelled path</th><th>Minimum number of 10kg sandbags</th></tr><tr><td>90-110 km/h</td><td>1 m or less</td><td>4</td></tr><tr><td></td><td>More than 1 m</td><td>2</td></tr><tr><td>70-80 km/h</td><td>1 m or less</td><td>3</td></tr><tr><td></td><td>More than 1 m</td><td>2</td></tr><tr><td>60 km/h or less</td><td>any</td><td>2</td></tr></table>",
+            "text": "Table 5 \u2013 Minimum sandbags to secure signs",
             "image_diagram_summary": "[missing]",
             "contains_image_diagam": "false",
             "contains_table": "true"
+        },
+        {
+            "section_name": "6.3.1 Securing Signs",
+            "parent_section_name": "6.3 SECURING SIGNS AND DEVICES",
+            "text": "<table><tr><th>Permanent Speed Limit</th><th>Clearance of sign to travelled path</th><th>Minimum number of 10kg sandbags</th></tr><tr><td>90-110 km/h</td><td>1 m or less</td><td>4</td></tr><tr><td>90-110 km/h</td><td>More than 1 m</td><td>2</td></tr><tr><td>70-80 km/h</td><td>1 m or less</td><td>3</td></tr><tr><td>70-80 km/h</td><td>More than 1 m</td><td>2</td></tr><tr><td>60 km/h or less</td><td>any</td><td>2</td></tr></table>",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "true"
+        },
+        {
+            "section_name": "6.3.1 Securing Signs",
+            "parent_section_name": "6.3 SECURING SIGNS AND DEVICES",
+            "text": "11 Permanent posts and mounting in accordance with Main Roads Specification 601\n12 Signs must not be affixed to road safety barriers. If affixing to permanent sign posts ensure the permanent sign is covered or removed if required.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
         }
     ],
     "page_header": "OFFICIAL",
     "page_footer": "MAIN ROADS Western Australia",
     "page_number": "42",
-    "document_title": "Traffic Management for Works on Roads Code of Practice",
-    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works to ensure the safety of workers and road users. It includes standards for personnel competency, traffic management plans, risk management, and the use of traffic control devices. The document details specific requirements for signage, safety audits, and procedures for handling roadworks near sensitive areas. It also outlines the use of Truck Mounted Attenuators, shadow vehicles, and innovative traffic control devices, along with accreditation requirements for traffic management roles. Additionally, it provides an inventory and application schedule for various road signs used by Main Roads Western Australia.",
+    "document_title": "Traffic Management for Works on Roads - Code of Practice",
+    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works. It emphasizes the importance of safety for both road users and workers, detailing the responsibilities of various authorities and the necessary procedures for implementing Traffic Management Plans (TMPs). The document includes specific requirements for temporary signage, traffic control devices, and risk management, as well as the use of Truck Mounted Attenuators (TMAs) and other safety measures. It also outlines accreditation requirements for traffic management personnel and provides detailed inventories and application schedules for various road signs.",
     "page_sequence_number": 43
 }

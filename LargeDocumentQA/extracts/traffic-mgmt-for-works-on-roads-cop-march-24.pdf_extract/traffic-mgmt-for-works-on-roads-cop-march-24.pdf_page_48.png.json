@@ -4,22 +4,14 @@
             "section_name": "Long Term Works",
             "parent_section_name": "[missing]",
             "text": "As a component of planning the works, traffic management must be designed with due consideration to traffic efficiency and the amenity of road users and the community. For any long term works on high volume State Roads, the minimum roadwork speed zone must be no greater than 20 km/h below the posted speed limit and must be in accordance with Table 7.",
-            "image_diagram_summary": "[missing]",
-            "contains_image_diagam": "false",
+            "image_diagram_summary": "Table 7: Minimum roadwork speed limits. The table outlines the minimum roadwork speed limits for high volume roads based on the posted speed. For example, for a posted speed of 110 km/h, the roadwork speed should be \u2265 80 km/h. The table includes various speed limits ranging from 40 km/h to 110 km/h. #table #speedlimits #roadwork",
+            "contains_image_diagam": "true",
             "contains_table": "true"
         },
         {
             "section_name": "Long Term Works",
             "parent_section_name": "[missing]",
-            "text": "<table><tr><th>High volume roads</th><th>Posted Speed</th><th>Roadwork Speed</th></tr><tr><td>110 km/h</td><td>\u2265 80 km/h</td></tr><tr><td>100 km/h</td><td>\u2265 80 km/h</td></tr><tr><td>90 km/h</td><td>\u2265 80 km/h(or 70 km/h)</td></tr><tr><td>80 km/h</td><td>\u2265 60 km/h</td></tr><tr><td>70 km/h</td><td>\u2265 60 km/h(or 50 km/h)</td></tr><tr><td>60 km/h</td><td>\u2265 40 km/h</td></tr><tr><td>50 km/h</td><td>\u2265 40 km/h</td></tr><tr><td>40 km/h</td><td>\u2265 40 km/h</td></tr></table>",
-            "image_diagram_summary": "[missing]",
-            "contains_image_diagam": "false",
-            "contains_table": "true"
-        },
-        {
-            "section_name": "Long Term Works",
-            "parent_section_name": "[missing]",
-            "text": "When preparing a TMP the allowable traffic speed will be determined by various factors including the distance of separation between workers and moving traffic. Site constraints will often limit the available distance, which in turn necessitates the lowering of traffic speed limits. Note: Where the temporary speed limit for a project is increased in order to comply with this requirement, then all elements of the traffic management must be designed for the higher limit. For example, the temporary speed limit may require a greater separation between workers and traffic or the installation of an appropriate roadworks road safety barrier system.",
+            "text": "When preparing a TMP the allowable traffic speed will be determined by various factors including the distance of separation between workers and moving traffic. Site constraints will often limit the available distance, which in turn necessitates the lowering of traffic speed limits.\n\nNote: Where the temporary speed limit for a project is increased in order to comply with this requirement, then all elements of the traffic management must be designed for the higher limit. For example, the temporary speed limit may require a greater separation between workers and traffic or the installation of an appropriate roadworks road safety barrier system.",
             "image_diagram_summary": "[missing]",
             "contains_image_diagam": "false",
             "contains_table": "false"
@@ -27,7 +19,7 @@
         {
             "section_name": "Short Term Activities at Long Term Works",
             "parent_section_name": "[missing]",
-            "text": "Within a long-term work project, it is accepted there will be short periods where speed limits lower than Table 7 may be required to carry out unavoidable high-risk tasks. These circumstances include, but are not limited to, activities such as setting out/ removing barriers, setup/ takedown of traffic management or work vehicles exiting the worksite into free-flowing traffic. In these circumstances, a temporarily reduced limit of 60 km/h or 40 km/h may be warranted where the lower speed limit is only applied while the high-risk activity is taking place (e.g. where unprotected workers are required to be within 3m of traffic). Where the lower speed limit is needed often the use of electronic speed signs that can be changed remotely should be considered. It is not necessary to apply to Main Roads for a variation to standards in these circumstances if efforts are made to ensure these temporary reductions are kept to a minimum and/or conducted outside of peak periods wherever possible. See section 4.2.3 if reducing traffic speeds to 40 km/h on high speed high volume roads.",
+            "text": "Within a long-term work project, it is accepted there will be short periods where speed limits lower than Table 7 may be required to carry out unavoidable high-risk tasks. These circumstances include, but are not limited to, activities such as setting out/ removing barriers, setup/ takedown of traffic management or work vehicles exiting the worksite into free-flowing traffic. In these circumstances, a temporarily reduced limit of 60 km/h or 40 km/h may be warranted where the lower speed limit is only applied while the high-risk activity is taking place (e.g. where unprotected workers are required to be within 3m of traffic).\n\nWhere the lower speed limit is needed often the use of electronic speed signs that can be changed remotely should be considered.\n\nIt is not necessary to apply to Main Roads for a variation to standards in these circumstances if efforts are made to ensure these temporary reductions are kept to a minimum and/or conducted outside of peak periods wherever possible.\n\nSee section 4.2.3 if reducing traffic speeds to 40 km/h on high speed high volume roads.",
             "image_diagram_summary": "[missing]",
             "contains_image_diagam": "false",
             "contains_table": "false"
@@ -36,7 +28,7 @@
     "page_header": "[missing]",
     "page_footer": "MAIN ROADS Western Australia",
     "page_number": "47",
-    "document_title": "Traffic Management for Works on Roads Code of Practice",
-    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works to ensure the safety of workers and road users. It includes standards for personnel competency, traffic management plans, risk management, and the use of traffic control devices. The document details specific requirements for signage, safety audits, and procedures for handling roadworks near sensitive areas. It also outlines the use of Truck Mounted Attenuators, shadow vehicles, and innovative traffic control devices, along with accreditation requirements for traffic management roles. Additionally, it provides an inventory and application schedule for various road signs used by Main Roads Western Australia.",
+    "document_title": "Traffic Management for Works on Roads - Code of Practice",
+    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works. It emphasizes the importance of safety for both road users and workers, detailing the responsibilities of various authorities and the necessary procedures for implementing Traffic Management Plans (TMPs). The document includes specific requirements for temporary signage, traffic control devices, and risk management, as well as the use of Truck Mounted Attenuators (TMAs) and other safety measures. It also outlines accreditation requirements for traffic management personnel and provides detailed inventories and application schedules for various road signs.",
     "page_sequence_number": 48
 }

@@ -1,26 +1,42 @@
 {
     "page_content": [
         {
+            "section_name": "[missing]",
+            "parent_section_name": "[missing]",
+            "text": "OFFICIAL",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
             "section_name": "AMENDMENT / REVISION STATUS RECORD",
             "parent_section_name": "[missing]",
             "text": "Date Section Amendment / Revision Description",
             "image_diagram_summary": "[missing]",
             "contains_image_diagam": "false",
-            "contains_table": "true"
+            "contains_table": "false"
         },
         {
             "section_name": "AMENDMENT / REVISION STATUS RECORD",
             "parent_section_name": "[missing]",
-            "text": "<table><tr><th>Date</th><th>Section</th><th>Amendment / Revision Description</th></tr><tr><td>July 2024</td><td>Section 2.1.2</td><td>Updates to Registration Scheme</td></tr><tr><td></td><td>Section 6.8.2</td><td>Figure 4 and 5 \u2013 error in table references amended</td></tr><tr><td></td><td>Section 6.9.1</td><td>Updates to Mandatory Use of TMAs (note amendment to H035 and H058)</td></tr><tr><td></td><td>Section 6.9.3</td><td>New section Incident Response and Emergency Works (relocated from TMA Code of Practice)</td></tr><tr><td></td><td>Section 6.16</td><td>Clarification - Speed feedback sign requirements</td></tr><tr><td>March 2024</td><td>Section 1.3.2</td><td>Update to Austroads National Training</td></tr><tr><td></td><td>Section 2.1</td><td>Link added to determine State Roads and SLK</td></tr><tr><td></td><td>Section 2.1.1</td><td>Main Roads Policy for Works on High Volume Roads incorporated into Code of Practice</td></tr><tr><td></td><td>Section 2.1.2</td><td>Updates to Registration Scheme</td></tr><tr><td></td><td>Section 2.4</td><td>Traffic Modelling Guideline due for release</td></tr><tr><td></td><td>Section 4.2.3</td><td>Removal of the term \u2018metropolitan area\u2019 from item ii Clarification unsignalised turn lanes included in item iii Item ix relocated from Main Roads State Policy On site personnel requirement relocated from section 2.1.2</td></tr><tr><td></td><td>Section 4.5</td><td>Variation to the Code requirements updated</td></tr><tr><td></td><td>Section 6.1.9</td><td>Sign spacing requirements clarified</td></tr><tr><td></td><td>Section 6.3.1</td><td>Securing signs updated</td></tr><tr><td></td><td>Section 6.5.2</td><td>Figure 2 modified, Table 6 updated</td></tr><tr><td></td><td>Section 6.5.3</td><td>New section - Selecting Temporary Speed limits on State Roads</td></tr><tr><td></td><td>Section 6.8.1</td><td>STOP HERE WHEN DIRECTED or STOP ON RED SIGNAL placement modified</td></tr><tr><td></td><td>Section 6.8.3</td><td>Boom barriers must be considered at signalised intersections on roads where PTCDs are required Traffic controller position to be identified on TGS</td></tr><tr><td></td><td>Section 6.8.6</td><td>Removal of maximum queue length</td></tr><tr><td></td><td>Section 6.8.8</td><td>New section \u2013 Traffic Control Near Intersections</td></tr></table>",
+            "text": "July 2024 Section 2.1.2 Updates to Registration Scheme Section 6.8.2 Figure 4 and 5 \u2013 error in table references amended Section 6.9.1 Updates to Mandatory Use of TMAs (note amendment to H035 and H058) Section 6.9.3 New section Incident Response and Emergency Works (relocated from TMA Code of Practice) Section 6.16 Clarification - Speed feedback sign requirements",
             "image_diagram_summary": "[missing]",
             "contains_image_diagam": "false",
-            "contains_table": "true"
+            "contains_table": "false"
+        },
+        {
+            "section_name": "AMENDMENT / REVISION STATUS RECORD",
+            "parent_section_name": "[missing]",
+            "text": "March 2024 Section 1.3.2 Update to Austroads National Training Section 2.1 Link added to determine State Roads and SLK Section 2.1.1 Main Roads Policy for Works on High Volume Roads incorporated into Code of Practice Section 2.1.2 Updates to Registration Scheme Section 2.4 Traffic Modelling Guideline due for release Section 4.2.3 Removal of the term \u2018metropolitan area\u2019 from item ii Clarification unsignalised turn lanes included in item iii Item ix relocated from Main Roads State Policy On site personnel requirement relocated from section 2.1.2 Section 4.5 Variation to the Code requirements updated Section 6.1.9 Sign spacing requirements clarified Section 6.3.1 Securing signs updated Section 6.5.2 Figure 2 modified, Table 6 updated Section 6.5.3 New section - Selecting Temporary Speed limits on State Roads Section 6.8.1 STOP HERE WHEN DIRECTED or STOP ON RED SIGNAL placement modified Section 6.8.3 Boom barriers must be considered at signalised intersections on roads where PTCDs are required Traffic controller position to be identified on TGS Section 6.8.6 Removal of maximum queue length Section 6.8.8 New section \u2013 Traffic Control Near Intersections",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
         }
     ],
-    "page_header": "OFFICIAL",
+    "page_header": "[missing]",
     "page_footer": "[missing]",
     "page_number": "[missing]",
-    "document_title": "Traffic Management for Works on Roads Code of Practice",
-    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works to ensure the safety of workers and road users. It includes standards for personnel competency, traffic management plans, risk management, and the use of traffic control devices. The document details specific requirements for signage, safety audits, and procedures for handling roadworks near sensitive areas. It also outlines the use of Truck Mounted Attenuators, shadow vehicles, and innovative traffic control devices, along with accreditation requirements for traffic management roles. Additionally, it provides an inventory and application schedule for various road signs used by Main Roads Western Australia.",
+    "document_title": "Traffic Management for Works on Roads - Code of Practice",
+    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works. It emphasizes the importance of safety for both road users and workers, detailing the responsibilities of various authorities and the necessary procedures for implementing Traffic Management Plans (TMPs). The document includes specific requirements for temporary signage, traffic control devices, and risk management, as well as the use of Truck Mounted Attenuators (TMAs) and other safety measures. It also outlines accreditation requirements for traffic management personnel and provides detailed inventories and application schedules for various road signs.",
     "page_sequence_number": 4
 }

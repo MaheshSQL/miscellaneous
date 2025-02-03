@@ -3,16 +3,88 @@
         {
             "section_name": "ADVANCE WARNING SERIES SIGNS",
             "parent_section_name": "[missing]",
-            "text": "<table><tr><th>A D V</th><th>LINE MARKING</th><th>MMS-ADV-16</th><th>1200 x 300</th><th>LINE MARKING</th></tr><tr><th>A D V</th><th>LOOK BOTH WAYS TWO WAY TRAFFIC</th><th>MMS-ADV-17</th><th>1200 x 600</th><th>LOOK BOTH WAYS TWO WAY TRAFFIC</th></tr><tr><th>A D V</th><th>NEXT 'X' km</th><th>MMS-ADV-18</th><th>600 x 600</th><th>NEXT 'X' km<br>\u2022 Must not be used in conjunction with a regulatory speed sign.<br>\u2022 Sign may be classified as symbolic.</th></tr><tr><th>A D V</th><th>NEXT 'X' km (WHITE)</th><th>MMS-ADV-19</th><th>1200 x 300</th><th>NEXT 'X' km (WHITE)<br>\u2022 Must not be used in conjunction with a regulatory speed sign.</th></tr><tr><th>A D V</th><th>NOW</th><th>MMS-ADV-20</th><th>1200 x 300</th><th>NOW<br>\u2022 Must only be used in conjunction with the sign MMS-ADV-30.</th></tr><tr><th>A D V</th><th>OBSTRUCTION MARKER</th><th>MMS-ADV-21</th><th>1200 x 300</th><th>OBSTRUCTION MARKER<br>\u2022 Must not be used in conjunction with an Advanced Warning message panel.</th></tr><tr><th>A D V</th><th>ON SIDE ROAD</th><th>MMS-ADV-22</th><th>1200 x 300</th><th>ON SIDE ROAD<br>\u2022 Must not be used in conjunction with a regulatory speed sign.</th></tr><tr><th>A D V</th><th>OVER 'X' m</th><th>MMS-ADV-23</th><th>1200 x 300</th><th>OVER 'X' m</th></tr><tr><th>A D V</th><th>OVER 'X' GVM</th><th>MMS-ADV-24</th><th>1200 x 300</th><th>OVER 'X' GVM</th></tr><tr><th>A D V</th><th>POWER LINE WORKS IN PROGRESS</th><th>MMS-ADV-25</th><th>1200 x 600</th><th>POWER LINE WORKS IN PROGRESS</th></tr></table>",
-            "image_diagram_summary": "[missing]",
+            "text": "A D V LINE MARKING MMS-ADV-16 1200 x 300 LINE MARKING",
+            "image_diagram_summary": "A yellow rectangular sign with the text 'LINE MARKING' in black. #yellow #rectangular #blacktext",
             "contains_image_diagam": "true",
-            "contains_table": "true"
+            "contains_table": "false"
+        },
+        {
+            "section_name": "ADVANCE WARNING SERIES SIGNS",
+            "parent_section_name": "[missing]",
+            "text": "A D V LOOK BOTH WAYS TWO WAY TRAFFIC MMS-ADV-17 1200 x 600 LOOK BOTH WAYS TWO WAY TRAFFIC",
+            "image_diagram_summary": "A yellow rectangular sign with the text 'LOOK BOTH WAYS TWO-WAY TRAFFIC' in black. #yellow #rectangular #blacktext",
+            "contains_image_diagam": "true",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "ADVANCE WARNING SERIES SIGNS",
+            "parent_section_name": "[missing]",
+            "text": "A D V NEXT 'X' km MMS-ADV-18 600 x 600 NEXT 'X' km Must not be used in conjunction with a regulatory speed sign. Sign may be classified as symbolic.",
+            "image_diagram_summary": "A yellow square sign with the text 'NEXT X km' in black. #yellow #square #blacktext",
+            "contains_image_diagam": "true",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "ADVANCE WARNING SERIES SIGNS",
+            "parent_section_name": "[missing]",
+            "text": "A D V NEXT 'X' km (WHITE) MMS-ADV-19 1200 x 300 NEXT 'X' km (WHITE) Must not be used in conjunction with a regulatory speed sign.",
+            "image_diagram_summary": "A white rectangular sign with the text 'NEXT X km' in black. #white #rectangular #blacktext",
+            "contains_image_diagam": "true",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "ADVANCE WARNING SERIES SIGNS",
+            "parent_section_name": "[missing]",
+            "text": "A D V NOW MMS-ADV-20 1200 x 300 NOW Must only be used in conjunction with the sign MMS-ADV-30.",
+            "image_diagram_summary": "A red rectangular sign with the text 'NOW' in white. #red #rectangular #whitetext",
+            "contains_image_diagam": "true",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "ADVANCE WARNING SERIES SIGNS",
+            "parent_section_name": "[missing]",
+            "text": "A D V OBSTRUCTION MARKER MMS-ADV-21 1200 x 300 OBSTRUCTION MARKER Must not be used in conjunction with an Advanced Warning message panel.",
+            "image_diagram_summary": "A white rectangular sign with black and white vertical stripes. #white #rectangular #blackandwhite",
+            "contains_image_diagam": "true",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "ADVANCE WARNING SERIES SIGNS",
+            "parent_section_name": "[missing]",
+            "text": "A D V ON SIDE ROAD MMS-ADV-22 1200 x 300 ON SIDE ROAD Must not be used in conjunction with a regulatory speed sign.",
+            "image_diagram_summary": "A yellow rectangular sign with the text 'ON SIDE ROAD' in black. #yellow #rectangular #blacktext",
+            "contains_image_diagam": "true",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "ADVANCE WARNING SERIES SIGNS",
+            "parent_section_name": "[missing]",
+            "text": "A D V OVER 'X' m MMS-ADV-23 1200 x 300 OVER 'X' m",
+            "image_diagram_summary": "A white rectangular sign with the text 'OVER X m' in black. #white #rectangular #blacktext",
+            "contains_image_diagam": "true",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "ADVANCE WARNING SERIES SIGNS",
+            "parent_section_name": "[missing]",
+            "text": "A D V OVER 'X' GVM MMS-ADV-24 1200 x 300 OVER 'X' GVM",
+            "image_diagram_summary": "A white rectangular sign with the text 'OVER X GVM' in black. #white #rectangular #blacktext",
+            "contains_image_diagam": "true",
+            "contains_table": "false"
+        },
+        {
+            "section_name": "ADVANCE WARNING SERIES SIGNS",
+            "parent_section_name": "[missing]",
+            "text": "A D V POWER LINE WORKS IN PROGRESS MMS-ADV-25 1200 x 600 POWER LINE WORKS IN PROGRESS",
+            "image_diagram_summary": "A yellow rectangular sign with the text 'POWER LINE WORKS IN PROGRESS' in black. #yellow #rectangular #blacktext",
+            "contains_image_diagam": "true",
+            "contains_table": "false"
         }
     ],
     "page_header": "OFFICIAL",
     "page_footer": "Multi-Message Sign Inventory and Application Schedule",
     "page_number": "3",
-    "document_title": "Traffic Management for Works on Roads Code of Practice",
-    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works to ensure the safety of workers and road users. It includes standards for personnel competency, traffic management plans, risk management, and the use of traffic control devices. The document details specific requirements for signage, safety audits, and procedures for handling roadworks near sensitive areas. It also outlines the use of Truck Mounted Attenuators, shadow vehicles, and innovative traffic control devices, along with accreditation requirements for traffic management roles. Additionally, it provides an inventory and application schedule for various road signs used by Main Roads Western Australia.",
+    "document_title": "Traffic Management for Works on Roads - Code of Practice",
+    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works. It emphasizes the importance of safety for both road users and workers, detailing the responsibilities of various authorities and the necessary procedures for implementing Traffic Management Plans (TMPs). The document includes specific requirements for temporary signage, traffic control devices, and risk management, as well as the use of Truck Mounted Attenuators (TMAs) and other safety measures. It also outlines accreditation requirements for traffic management personnel and provides detailed inventories and application schedules for various road signs.",
     "page_sequence_number": 104
 }

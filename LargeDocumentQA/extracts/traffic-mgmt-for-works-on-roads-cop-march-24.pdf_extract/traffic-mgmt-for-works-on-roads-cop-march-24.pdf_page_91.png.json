@@ -1,6 +1,14 @@
 {
     "page_content": [
         {
+            "section_name": "NOTES:",
+            "parent_section_name": "[missing]",
+            "text": "access roads. The route of the Local Distributor discourages through traffic so that the cell formed by the grid of District Distributors only carries traffic belonging to or serving the area. These roads should accommodate buses but discourage trucks. They are managed by local government.",
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": "false",
+            "contains_table": "false"
+        },
+        {
             "section_name": "Access Roads",
             "parent_section_name": "[missing]",
             "text": "Provides access to abutting properties with amenity, safety and aesthetic aspects having priority over the vehicle movement function. These roads are bicycle and pedestrian friendly. They are managed by local government.",
@@ -17,10 +25,10 @@
             "contains_table": "false"
         }
     ],
-    "page_header": "[missing]",
+    "page_header": "OFFICIAL",
     "page_footer": "MAIN ROADS Western Australia",
     "page_number": "5",
-    "document_title": "Traffic Management for Works on Roads Code of Practice",
-    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works to ensure the safety of workers and road users. It includes standards for personnel competency, traffic management plans, risk management, and the use of traffic control devices. The document details specific requirements for signage, safety audits, and procedures for handling roadworks near sensitive areas. It also outlines the use of Truck Mounted Attenuators, shadow vehicles, and innovative traffic control devices, along with accreditation requirements for traffic management roles. Additionally, it provides an inventory and application schedule for various road signs used by Main Roads Western Australia.",
+    "document_title": "Traffic Management for Works on Roads - Code of Practice",
+    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works. It emphasizes the importance of safety for both road users and workers, detailing the responsibilities of various authorities and the necessary procedures for implementing Traffic Management Plans (TMPs). The document includes specific requirements for temporary signage, traffic control devices, and risk management, as well as the use of Truck Mounted Attenuators (TMAs) and other safety measures. It also outlines accreditation requirements for traffic management personnel and provides detailed inventories and application schedules for various road signs.",
     "page_sequence_number": 91
 }

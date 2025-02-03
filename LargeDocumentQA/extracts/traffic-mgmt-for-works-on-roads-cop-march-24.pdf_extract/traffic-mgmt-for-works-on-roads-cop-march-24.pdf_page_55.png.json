@@ -4,39 +4,47 @@
             "section_name": "End of Queue Protection",
             "parent_section_name": "[missing]",
             "text": "The diagrams below depict how these signs should be laid out to ensure adequate advanced warning to road users.",
-            "image_diagram_summary": "Figure 4 and Figure 5 show road layouts with 'PREPARE TO STOP' signs placed at various points to avoid end of queue collisions. The diagrams include references to tables 10 and 12 for specific distances. #roadlayout #warningsigns #trafficcontrol",
-            "contains_image_diagam": "true",
-            "contains_table": "false"
+            "image_diagram_summary": "[missing]",
+            "contains_image_diagam": false,
+            "contains_table": false
         },
         {
             "section_name": "End of Queue Protection",
             "parent_section_name": "[missing]",
             "text": "Diagram notes:\n\u2022 The diagrams do not depict speed reduction and advanced warning signage which must be included (see table 2.2 of AGTTM Part 3 for sign spacing).\n\u2022 The additional PREPARE TO STOP sign should be installed a distance provided in table 12 from the end of the queue.\n\u2022 It is recommended the PREPARE TO STOP sign T1-18B or Queued Traffic ahead multi-message sign (MMS-ADV-90, MMS-ADV-91, MMS-ADV-26) is used in advance of the end of queue.\n\u2022 Provide PREPARE TO STOP and symbolic warning sign in advance of the control point a distance shown in table 10.\n\u2022 Sight distance to the end of queue should be a minimum distance provided in table 12 from the predicted end of queue for the peak period.\n\u2022 Where the queue is expected to be more than the distance provided in table 13 additional PREPARE TO STOP sign at the predicted end of queue (figure 5).",
             "image_diagram_summary": "[missing]",
-            "contains_image_diagam": "false",
-            "contains_table": "false"
+            "contains_image_diagam": false,
+            "contains_table": false
         },
         {
             "section_name": "Table 13 \u2013 Predicted queue length requiring additional Prepare to Stop Sign",
             "parent_section_name": "[missing]",
             "text": "<table><tr><th>Speed (km/h)</th><th>Distance (m) requiring additional Prepare to Stop at the end of queue location</th></tr><tr><td>50 or less</td><td>>60</td></tr><tr><td>60</td><td>>180</td></tr><tr><td>70 or more</td><td>>4 times the speed of traffic (km/h)</td></tr></table>",
             "image_diagram_summary": "[missing]",
-            "contains_image_diagam": "false",
-            "contains_table": "true"
+            "contains_image_diagam": false,
+            "contains_table": true
         },
         {
             "section_name": "Table 13 \u2013 Predicted queue length requiring additional Prepare to Stop Sign",
             "parent_section_name": "[missing]",
             "text": "For further guidance see Traffic Control - Avoiding End of Queue Collisions on High Speed Roads Fact Sheet, go www.mainroads.wa.gov.au > \u2018Technical & Commercial\u2019 > \u2018Working on roads\u2019.",
             "image_diagram_summary": "[missing]",
-            "contains_image_diagam": "false",
-            "contains_table": "false"
+            "contains_image_diagam": false,
+            "contains_table": false
+        },
+        {
+            "section_name": "Table 13 \u2013 Predicted queue length requiring additional Prepare to Stop Sign",
+            "parent_section_name": "[missing]",
+            "text": "Figure 4: Avoiding end of queue collision\nFigure 5: Avoiding end of queue collision (predicted queue length in table 13)",
+            "image_diagram_summary": "Two diagrams showing road layouts with 'PREPARE TO STOP' signs and predicted end of queue. The diagrams include references to tables 10 and 12 for distances. #road #signs #queue #warning",
+            "contains_image_diagam": true,
+            "contains_table": false
         }
     ],
-    "page_header": "[missing]",
+    "page_header": "OFFICIAL",
     "page_footer": "MAIN ROADS Western Australia",
     "page_number": "54",
-    "document_title": "Traffic Management for Works on Roads Code of Practice",
-    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works to ensure the safety of workers and road users. It includes standards for personnel competency, traffic management plans, risk management, and the use of traffic control devices. The document details specific requirements for signage, safety audits, and procedures for handling roadworks near sensitive areas. It also outlines the use of Truck Mounted Attenuators, shadow vehicles, and innovative traffic control devices, along with accreditation requirements for traffic management roles. Additionally, it provides an inventory and application schedule for various road signs used by Main Roads Western Australia.",
+    "document_title": "Traffic Management for Works on Roads - Code of Practice",
+    "document_summary": "The 'Traffic Management for Works on Roads: Code of Practice' by Main Roads Western Australia provides comprehensive guidelines for managing traffic during road works. It emphasizes the importance of safety for both road users and workers, detailing the responsibilities of various authorities and the necessary procedures for implementing Traffic Management Plans (TMPs). The document includes specific requirements for temporary signage, traffic control devices, and risk management, as well as the use of Truck Mounted Attenuators (TMAs) and other safety measures. It also outlines accreditation requirements for traffic management personnel and provides detailed inventories and application schedules for various road signs.",
     "page_sequence_number": 55
 }

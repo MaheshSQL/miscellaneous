@@ -9,7 +9,7 @@
             "contains_table": "false"
         },
         {
-            "section_name": "[missing]",
+            "section_name": "10. Isolating energy sources",
             "parent_section_name": "[missing]",
             "text": "Care must be taken to ensure all electricity sources are identified and isolated as some equipment will have several control stations and sections which could have independent electricity sources. If programmable logic devices are used to control the equipment, then it is essential to use local isolating switches as the means to achieve secure and safe isolation. It is not acceptable to rely on the controls of the programmable logic devices for the isolation of equipment.\nIsolating programs with step by step instructions must be developed and implemented wherever there is a danger of the plant being operated during periods of maintenance etc.\nIsolating the electricity supply to an item of plant must include checking that the electrical supply has been isolated, not just the control circuit, and disconnected if necessary by an electrician. There should be no possibility of the plant being inadvertently energised via another source or control system.",
             "image_diagram_summary": "[missing]",
@@ -37,6 +37,6 @@
     "page_footer": "[missing]",
     "page_number": "6",
     "document_title": "Guidance note Isolation of plant 2010",
-    "document_summary": "The guidance note issued by the Commission for Occupational Safety and Health in Western Australia focuses on the isolation of plant to prevent workplace injuries. It outlines legislative frameworks, basic principles, and procedures for isolating plant, including risk management and alternative measures when isolation is not practicable. The document emphasizes the importance of strict adherence to isolation procedures and provides detailed steps for identifying and managing energy sources and other hazards. It also outlines the responsibilities of employers and workers under the Occupational Safety and Health Act 1984, and includes information on various isolation devices, tagging systems, and procedures for safely de-energizing equipment, along with additional resources and contact information for further assistance.",
+    "document_summary": "The guidance note from the Commission for Occupational Safety and Health in Western Australia focuses on the isolation of plant to prevent workplace injuries. It outlines the legislative framework, principles, and procedures for isolating plant, emphasizing strict adherence and risk management. The document details steps for isolating various energy sources, including electrical, fluid, steam, and pneumatic energy, and highlights the use of lockout and tagging systems. It also covers the responsibilities of employers and workers under the Occupational Safety and Health Act 1984 and provides references for further information and resources.",
     "page_sequence_number": 12
 }
