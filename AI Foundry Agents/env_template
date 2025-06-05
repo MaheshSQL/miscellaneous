@@ -1,0 +1,2 @@
+PROJECT_ENDPOINT = "https://XXXXX.services.ai.azure.com/api/projects/<foundry-project>" # Has to be Foundry Project not a Hub-based project
+MODEL_DEPLOYMENT_NAME = "<gpt-4o>"
