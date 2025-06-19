@@ -1,2 +1,11 @@
 PROJECT_ENDPOINT = "https://XXXXX.services.ai.azure.com/api/projects/<foundry-project>" # Has to be Foundry Project not a Hub-based project
 MODEL_DEPLOYMENT_NAME = "<gpt-4o>"
+
+LOGIC_APP_NAME = "<logicapp-name>"
+LOGIC_APP_TRIGGER_NAME = "<When_a_HTTP_request_is_received>"
+SUBSCRIPTION_ID = "<xxxxx-xxxxx-xxxxx>"
+RESOURCE_GROUP_NAME = "<rg-xxxxx>"
+
+# Taken from the Logic App's HTTP trigger URL (To simulate OpenAPI endpoint)
+
+OPENAPI_ENDPOINT = "<https://prod-24.australiaeast.logic.azure.com:443/workflows/......>"

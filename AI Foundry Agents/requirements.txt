@@ -3,3 +3,4 @@ azure-identity==1.23.0
 jsonref 
 azure-ai-projects==1.0.0b11
 python-dotenv
+azure-mgmt-logic==10.0.0
