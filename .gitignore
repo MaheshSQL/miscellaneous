@@ -1,4 +1,4 @@
-./_readme.md
+_readme.md
 ./Azure Functions/Proj_LLMSQL/local.settings.json
 ./Azure Functions/GPT4V_Custom_Skill/local.settings.json
 ./Azure Functions/Proj_LLMSQL/.python_packages
@@ -6,3 +6,7 @@
 ./LargeDocumentQA/.env*
 # ./LargeDocumentQA/extracts
 # ./LargeDocumentQA/images
+.env
+./AI Foundry Agents/.env
+*.pyc
+pycache/
