@@ -1,0 +1,10 @@
+AZURE_OPENAI_ENDPOINT = "<https://XXXXX.openai.azure.com>"
+AZURE_OPENAI_DEPLOYMENT_NAME = "<gpt-4o>"
+AZURE_OPENAI_API_VERSION = "<2025-01-01-preview>"
+
+AZURE_TENANT_ID = "<XXXXX>"# Assign this SP 'Cognitive Services OpenAI User' to the Foundry Resource above (endpoint)
+AZURE_CLIENT_ID = "<XXXXX>" 
+AZURE_CLIENT_SECRET = "<XXXXX>"
+
+# (Only required when not using Service Principal above, otherwise ignore)
+AZURE_OPENAI_KEY = "" # Not required when using Service Principal client_id and client_secret above otherwise specify
