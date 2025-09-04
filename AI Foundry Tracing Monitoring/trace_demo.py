@@ -2,7 +2,10 @@
 # Ref: https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/develop/trace-application
 # Ref: https://github.com/Azure-Samples/get-started-with-ai-agents/blob/main/src/api/routes.py#L296
 
-import logging
+# Azure Monitor OpenTelemetry distro samples
+# Ref: https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/monitor/azure-monitor-opentelemetry/samples
+
+from logging import INFO, Formatter, getLogger
 import os
 
 from azure.monitor.opentelemetry import configure_azure_monitor
@@ -38,7 +41,13 @@ project_client = AIProjectClient(
   credential=DefaultAzureCredential())
 
 # Configure OpenTelemetry to send traces to the Azure Application Insights
-configure_azure_monitor(connection_string=project_client.telemetry.get_application_insights_connection_string())
+configure_azure_monitor(connection_string=project_client.telemetry.get_application_insights_connection_string(),
+                        # logger_name='my_app_logger'
+                        )
+
+# # Logging telemetry will be collected from logging calls made with this logger and all of it's children loggers.
+# logger = getLogger("my_app_logger")
+# logger.setLevel(INFO)
 
 # print("List all deployments:")
 # for deployment in project_client.deployments.list():
@@ -54,6 +63,8 @@ azure_openai_client = project_client.get_openai_client(api_version='2024-10-21')
 
 @tracer.start_as_current_span("approve_loan_application")
 def approve_loan_application(applicant_name: str, credit_score: int) -> bool:
+
+    # logger.info(f"info log applicant_name:{applicant_name}, credit_score:{credit_score}")
 
     with trace.get_current_span() as span:
     # with tracer.start_as_current_span('approve_loan_application', context=ctx):
