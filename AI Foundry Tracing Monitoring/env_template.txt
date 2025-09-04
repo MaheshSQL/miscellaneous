@@ -1,0 +1,2 @@
+AI_FOUNDRY_PROJECT_ENDPOINT = "Azure_AI_Foundry_Project_Endpoint"
+AZURE_OPENAI_DEPLOYMENT_NAME = "<<gpt-4o>>"

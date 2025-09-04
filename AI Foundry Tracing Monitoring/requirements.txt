@@ -1,0 +1,4 @@
+azure-ai-projects
+azure-monitor-opentelemetry 
+sopentelemetry-instrumentation-openai-v2
+azure-identity
