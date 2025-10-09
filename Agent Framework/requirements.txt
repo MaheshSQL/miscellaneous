@@ -1,0 +1,2 @@
+agent-framework
+# python-dotenv # Installed by above so no need to install again
