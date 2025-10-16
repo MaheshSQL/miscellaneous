@@ -61,6 +61,21 @@ async def main():
             # tools=get_data # Tool registration not yet supported in create_agent API. Specify tools when using the agent (ChatAgent) as below.
         )
 
+        # Create a persistent agent with Human Approval
+        risk_assessor_agent_v2 = await project_client.agents.create_agent(
+            model=AZURE_AI_MODEL_DEPLOYMENT_NAME,
+            name="Risk Assessor Agent V2",
+            instructions='''Review analysis report from Data Analyser Agent. 
+            Assess severity based on thresholds (e.g., normal / minor, moderate, critical). 
+            Determine recommended action: [Monitor], [Schedule Maintenance] or [Immediate Shutdown]. 
+            Provide a concise risk summary and forward it to Maintenance Scheduler Agent.
+            [Schedule Maintenance] and [Immediate Shutdown] action recommendations requires you to obtain human approval which will be checked by next workflow step.
+            Do not make up facts, be concise and to the point.''',
+            description='An agent that assesses risk based on data analysis and recommends actions, initiates human approval for critical actions.',
+            temperature=0.0,
+            # tools=get_data # Tool registration not yet supported in create_agent API. Specify tools when using the agent (ChatAgent) as below.
+        )
+
         # Create a persistent agent
         maintenance_scheduler_agent = await project_client.agents.create_agent(
             model=AZURE_AI_MODEL_DEPLOYMENT_NAME,
@@ -76,6 +91,23 @@ async def main():
             # tools=get_data # Tool registration not yet supported in create_agent API. Specify tools when using the agent (ChatAgent) as below.
         )
 
+        # Create a persistent agent with Human Approval
+        maintenance_scheduler_agent_v2 = await project_client.agents.create_agent(
+            model=AZURE_AI_MODEL_DEPLOYMENT_NAME,
+            name="Maintenance Scheduler Agent V2",
+            instructions='''Based on the risk summary from Risk Assessor Agent, create a maintenance plan. 
+            If action is [Schedule Maintenance] and assign crew - Team A or Team B. 
+            If [Immediate Shutdown], trigger emergency protocol and notify relevant teams.
+            If [Monitor], do nothing but log the recommendation.
+            Confirm the scheduled action and output a final status report.
+            [Schedule Maintenance] and [Immediate Shutdown] actions require human approval result [APPROVED]. Do nothing when approval result is [REJECTED] or when waiting on approval result.
+            You can retrieve human approval status. Say [PENDING] if approval is required but not yet granted.
+            Do not make up facts, be concise and to the point.''',
+            description='An agent that schedules maintenance or triggers shutdown based on risk assessment, checks human approval for critical actions.',
+            temperature=0.0,
+            # tools=get_data # Tool registration not yet supported in create_agent API. Specify tools when using the agent (ChatAgent) as below.
+        )
+
         # Create a persistent agent
         triage_agent = await project_client.agents.create_agent(
             model=AZURE_AI_MODEL_DEPLOYMENT_NAME,
@@ -87,9 +119,11 @@ async def main():
             # tools=get_data # Tool registration not yet supported in create_agent API. Specify tools when using the agent (ChatAgent) as below.
         )
 
-        print(f'data_analyser_agent.id: {data_analyser_agent.id}')
-        print(f'risk_assessor_agent.id: {risk_assessor_agent.id}')
-        print(f'maintenance_scheduler_agent.id: {maintenance_scheduler_agent.id}')
-        print(f'triage_agent.id: {triage_agent.id}')
+        # print(f'data_analyser_agent.id: {data_analyser_agent.id}')
+        # print(f'risk_assessor_agent.id: {risk_assessor_agent.id}')
+        print(f'risk_assessor_agent_v2.id: {risk_assessor_agent_v2.id}') # New agent with human approval        
+        # print(f'maintenance_scheduler_agent.id: {maintenance_scheduler_agent.id}')
+        print(f'maintenance_scheduler_agent_v2.id: {maintenance_scheduler_agent_v2.id}') # New agent with human approval
+        # print(f'triage_agent.id: {triage_agent.id}')
 
 asyncio.run(main())

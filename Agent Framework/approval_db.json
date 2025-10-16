@@ -1,0 +1,9 @@
+{
+    "P456": {
+        "action": "Schedule Maintenance",
+        "equipment_id": "P456",
+        "equipment_type": "pump",
+        "status": "[APPROVED]",
+        "created_on": "2025-10-16T17:04:34.428933"
+    }
+}
