@@ -1,0 +1,5 @@
+agent-framework
+agent-framework-a2a
+# python-dotenv # Installed by above so no need to install again
+# a2a-sdk # Installed by above so no need to install again
+# uvicorn # Installed by above so no need to install again
