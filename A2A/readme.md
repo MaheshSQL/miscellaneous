@@ -1,6 +1,6 @@
 ### About
 
-The scipts directory contains examples of A2A functionality. Client Agent discovers the A2A agents (One agent discovery example is included in this repository). The scipts directory contains examples of A2A functionality. Client Agent discovers the A2A agents (One agent discovery example is included in this repository). Once discovered the agents can be leveraged as per the Client Agent logic, workflows etc.
+The scripts directory contains examples of A2A functionality. Client Agent discovers the A2A agents (One agent discovery example is included in this repository). Once discovered the agents can be leveraged as per the Client Agent logic, workflows etc.
 
 ![](images/a2a_2.png)
 
